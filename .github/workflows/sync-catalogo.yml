@@ -1,0 +1,102 @@
+name: Sincronizar catálogo Nexcom
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # 6:00 a. m., República Dominicana (UTC-4)
+  workflow_dispatch:
+    inputs:
+      refresh_catalog:
+        description: Consultar Nexcom antes de regenerar SEO (desactivar para publicar el último catálogo válido)
+        type: boolean
+        default: true
+        required: true
+  push:
+    branches: [main]
+    paths:
+      - index.html
+      - producto.html
+      - css/**
+      - js/**
+      - img/**
+      - scripts/**
+      - data/**
+      - tests/**
+      - .github/workflows/sync-catalogo.yml
+
+concurrency:
+  group: catalogo-solutions
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Probar sincronización y clasificación
+        run: python3 -m unittest discover -s tests -v
+      - name: Probar eventos del píxel sin enviar datos a Meta
+        run: node --test tests/test_meta_pixel.cjs
+      - name: Actualizar precios, disponibilidad, fichas e imágenes
+        if: github.event_name != 'workflow_dispatch' || inputs.refresh_catalog
+        run: python3 scripts/sync_nexcom_catalog.py --report-file "$RUNNER_TEMP/nexcom-reporte.json" --cost-output "$RUNNER_TEMP/nexcom-costos-estimados.json"
+      - name: Generar SEO y guardar catálogo
+        # SEO uses the validated public catalog, even when pricing is unchanged.
+        # Removing a catalog item removes its generated directory in this step.
+        run: |
+          git config user.name 'kodex-sync'
+          git config user.email 'kodex-sync@users.noreply.github.com'
+          python3 scripts/generate_product_pages.py --lastmod "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add js/productos-v2.json js/productos.json scripts/omega_ids.txt img/catalogo
+          git add -A producto categoria sitemap.xml producto-sitemap.xml categoria-sitemap.xml pagina-sitemap.xml robots.txt
+          git add scripts/nexcom_seen_skus.json data/solutions-intersection.json
+          if [ -f data/omega-selection.json ]; then git add data/omega-selection.json; fi
+          if git diff --cached --quiet; then
+            echo 'Sin cambios en el catálogo.'
+          else
+            git commit -m 'Actualizar catálogo y SEO desde Nexcom'
+            git push origin HEAD:main
+          fi
+      - name: Preparar sitio actualizado
+        run: |
+          mkdir _site
+          cp index.html producto.html _site/
+          cp -R css js img _site/
+          cp -R producto categoria _site/
+          cp sitemap.xml producto-sitemap.xml categoria-sitemap.xml pagina-sitemap.xml robots.txt _site/
+          if [ -f CNAME ]; then cp CNAME _site/; fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    # Always publish the artifact AFTER synchronization. A catalog commit made
+    # with GITHUB_TOKEN does not trigger the main/root Pages build by itself.
+    needs: sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - name: Comprobar configuración de GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Publicar catálogo en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

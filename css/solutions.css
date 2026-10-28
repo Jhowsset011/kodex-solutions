@@ -1,0 +1,26 @@
+:root { --bg:#101824; --panel:#182332; --panel-light:#202f42; --line:#304055; --muted:#acbbcd; --green:#71acff; --white:#f3f6fc; --radius:14px; }
+:root[data-theme="light"] { --bg:#fff; --panel:#f7f9fc; --panel-light:#edf2f8; --line:#dce4ee; --muted:#53647a; --green:#075ac8; --white:#16283f; }
+.brand-logo,.logo-light {mix-blend-mode:normal;width:168px;height:66px;object-fit:contain}
+.category-hero,[data-theme="light"] .category-hero {background:linear-gradient(110deg,#102e53,#194c80);border-radius:18px;min-height:390px;color:#fff;padding-bottom:66px}
+.hero-copy h1 {font-weight:600;letter-spacing:-1.5px;font-size:clamp(30px,3.6vw,48px)}
+.hero-copy h1 em {color:#8ec0ff;font-style:normal}
+.hero-copy p,[data-theme="light"] .hero-copy p {color:#d5e4f4;max-width:410px;line-height:1.7}
+.solutions-hero .eyebrow {color:#a9d1ff;font-size:10px}
+.solutions-hero .button {background:#fff;color:#164677;border:0;border-radius:8px}
+.hero-watermark {font-size:52px;letter-spacing:3px;opacity:.05}
+.hero-art img {width:100%;height:245px;object-fit:contain;filter:drop-shadow(0 18px 20px #001b3b33);mix-blend-mode:normal}
+.hero-tag,[data-theme="light"] .hero-tag {background:#ffffff12;border:1px solid #ffffff30;color:#fff;border-radius:10px;backdrop-filter:blur(10px)}
+.hero-tag span,[data-theme="light"] .hero-tag span {color:#c6ddf8}
+.hero-controls{position:absolute;bottom:22px;left:48px;display:flex;align-items:center;gap:18px}
+#hero-dots{display:flex;gap:8px}#hero-dots button{width:8px;height:8px;padding:0;border:0;border-radius:10px;background:#ffffff55}#hero-dots button[aria-current="true"]{width:28px;background:#fff}
+#hero-pause{border:1px solid #ffffff50;border-radius:50%;color:#fff;background:transparent;width:27px;height:27px;font-size:11px}
+.shortcut-icon,[data-theme="light"] .shortcut-icon {background:#edf4ff;color:#075ac8;border-radius:12px;font-family:Arial,sans-serif}
+.category-shortcuts :is(button,a),.product-card {border-radius:12px}
+[data-theme="light"] .category-shortcuts :is(button,a):hover,[data-theme="light"] .pagination button:hover:not(:disabled),[data-theme="light"] .search button:hover {background:#eaf2fc}
+[data-theme="light"] .cart-button b,[data-theme="light"] #cart-item-count {color:#075ac8;background:#eaf2fc}
+[data-theme="light"] :focus-visible {outline-color:#075ac8}
+[data-theme="light"] .breadcrumb,[data-theme="light"] .breadcrumb :is(span:last-child,[aria-current="page"]) {color:#53647a}
+[data-theme="light"] .theme-track {background:#e7eef8;border-color:#b7cce8}.theme-thumb{background:#71acff}[data-theme="light"] .theme-sun{color:#075ac8}
+.manifesto em{font-style:normal}.manifesto h2{font-weight:500}
+@media(max-width:650px){.category-hero{padding:28px 24px 65px}.hero-controls{left:24px}.hero-art img{height:195px}.brand-logo,.logo-light{width:136px;height:54px}.hero-watermark{font-size:32px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
