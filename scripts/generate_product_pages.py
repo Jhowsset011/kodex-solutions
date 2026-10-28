@@ -127,7 +127,7 @@ def render_content(p):
     </div>
   </div>
   <section class="specifications-section" id="caracteristicas" aria-labelledby="specifications-title">
-    <div class="section-heading"><div><span class="eyebrow">CONOCE TU PRÓXIMO UPGRADE</span><h2 id="specifications-title">Descripción y características</h2></div></div>
+    <div class="section-heading"><div><span class="eyebrow">CONOCE TU PRÓXIMA SOLUCIÓN</span><h2 id="specifications-title">Descripción y características</h2></div></div>
     <div class="specifications-card">{'<div class="product-description product-description-full">' + paragraphs + '</div>' if paragraphs else ''}<dl class="specifications-list">{specifications}</dl>{'<div class="product-highlights"><h3>Lo más destacado</h3><ul class="product-features">' + features + '</ul></div>' if features else ''}{note}{manufacturer_links}</div>
   </section><a class="text-link" href="/#catalogo">Volver al catálogo</a>'''
 

@@ -39,7 +39,7 @@ function renderProductPage() {
   if (!product) {
     document.title = 'Producto no encontrado | Kodex Solutions';
     $('#product-breadcrumb').textContent = 'Producto no encontrado';
-    view.innerHTML = '<div class="empty"><strong>No encontramos este producto.</strong><p>Explora la tienda para encontrar tu próximo upgrade.</p><a class="button" href="index.html#catalogo">Volver a la tienda</a></div>';
+    view.innerHTML = '<div class="empty"><strong>No encontramos este producto.</strong><p>Explora la tienda para encontrar la solución que necesita tu empresa.</p><a class="button" href="index.html#catalogo">Volver a la tienda</a></div>';
     $('#related-section').hidden = true;
     return;
   }
@@ -87,7 +87,7 @@ function renderProductPage() {
     </div>
   </div>
   <section class="specifications-section" id="caracteristicas" aria-labelledby="specifications-title">
-    <div class="section-heading"><div><span class="eyebrow">CONOCE TU PRÓXIMO UPGRADE</span><h2 id="specifications-title">Descripción y características</h2></div></div>
+    <div class="section-heading"><div><span class="eyebrow">CONOCE TU PRÓXIMA SOLUCIÓN</span><h2 id="specifications-title">Descripción y características</h2></div></div>
     <div class="specifications-card">${paragraphs ? `<div class="product-description product-description-full">${paragraphs}</div>` : ''}${rows ? `<dl class="specifications-list">${rows}</dl>` : ''}${features.length ? `<div class="product-highlights"><h3>Lo más destacado</h3><ul class="product-features">${features.map(feature => `<li>${escapeHTML(feature)}</li>`).join('')}</ul></div>` : ''}${!rows && !features.length && !description && !product.specificationNote ? '<p class="specification-note">Consulta los detalles de este producto con nuestro equipo.</p>' : ''}${product.specificationNote ? `<p class="specification-note">${escapeHTML(product.specificationNote)}</p>` : ''}${sources}</div>
   </section>`;
   const related = products.filter(item => item.category === product.category && item.id !== product.id).slice(0, 3);
