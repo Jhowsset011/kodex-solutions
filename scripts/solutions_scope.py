@@ -15,7 +15,7 @@ OMEGA_CATEGORIES=(217,142,141,175,12,35,57,62,117,167,218,173,209,208,214,61,174
 
 def business_category(source):
     name=normalized(description_text(source.get('name','')))
-    if re.search(r'\b(gamer|gaming|rgb|geforce|radeon|playstation|xbox|joystick|refurbished|refurbish)\b',name):return None
+    if re.search(r'\b(gamer|gaming|rgb|geforce|radeon|playstation|xbox|joystick|refurbished|refurbish|reacondicionado|reacondicionada)\b',name):return None
     cats=' '.join(normalized(c.get('name',''))+' '+urlsplit(c.get('link','')).path for c in source.get('categories',[]))
     if 'cricut' in name or '/cricut/' in cats:return ('Cricut','Máquinas y herramientas' if re.search(r'maquina|prensa|maker|joy|explore|easypress',name) else 'Materiales y accesorios')
     rules=[
@@ -29,11 +29,24 @@ def business_category(source):
       (r'oficina|triturador|calculadora|muebles|escritorio|sillas','Oficina')]
     # A webcam is an office peripheral, not a surveillance camera.
     if re.search(r'camara web',name):return ('Accesorios de oficina','Videoconferencia')
-    for pattern,category in rules:
-      if re.search(pattern,name+' '+cats):
-        leaf=next((description_text(c['name']) for c in source.get('categories',[]) if c.get('name')),category)
-        if normalized(leaf) in ('mouse pad','mousepads'):leaf='Mouse pads'
-        return category,leaf
+    def leaf_for(category):
+      rules_by_category={
+       'Impresión':[(r'toner','Tóner'),(r'cartucho','Cartuchos'),(r'tinta','Tintas'),(r'scanner|scaner|escaner','Escáneres'),(r'papel','Papel'),(r'impresora|plotter|designjet','Impresoras')],
+       'Energía':[(r'ups','UPS'),(r'bateria','Baterías'),(r'regulador','Reguladores'),(r'regleta','Regletas')],
+       'Seguridad':[(r'camara','Cámaras'),(r'dvr|nvr','Grabadores'),(r'alarma','Alarmas'),(r'videoportero','Videoporteros')],
+       'Computación':[(r'laptop|notebook','Laptops'),(r'monitor','Monitores'),(r'servidor','Servidores'),(r'computadora|desktop|mini pc|todo en uno','Computadoras')],
+       'Accesorios de oficina':[(r'teclado','Teclados y combos'),(r'mouse.?pad','Mouse pads'),(r'mouse','Mouse'),(r'camara web','Videoconferencia'),(r'ssd|disco|memoria usb','Almacenamiento'),(r'licencia|software|sistema operativo','Software'),(r'bolso|bulto|mochila','Bolsos y mochilas')],
+       'Redes':[(r'access.point|acces.point','Access points'),(r'router','Routers'),(r'switch','Switches'),(r'telefono','Telefonía IP'),(r'repetidor','Repetidores')],
+       'Oficina':[(r'silla','Sillas'),(r'escritorio','Escritorios'),(r'triturador','Trituradoras')]
+      }
+      for pattern,label in rules_by_category.get(category,[]):
+        if re.search(pattern,name):return label
+      return 'Accesorios y suministros'
+    # Supplier categories occasionally put a keyboard under alarms; product
+    # type in the title takes precedence, with source taxonomy as fallback.
+    for text in (name,cats):
+      for pattern,category in rules:
+        if re.search(pattern,text):return category,leaf_for(category)
     return None
 
 def parse_listing(body,page):
@@ -97,6 +110,9 @@ def classify_business(product,source):
     product['category'],product['subcategory']=scope
     brands=source.get('brands') or []
     if brands:product['brand']=description_text(brands[0]['name'])
+    if product['brand'] in ('Genérico','Otros'):
+        for brand in ('Acer','Ezviz','Xiaomi','Mercusys','Zebra','Honeywell','Epson','Canon','Brother','Cricut'):
+            if re.search(r'(?<!\w)'+re.escape(brand)+r'(?!\w)',product['name'],re.I):product['brand']=brand;break
     if scope[0]=='Cricut':product['brand']='Cricut'
     product.pop('collections',None)
     return product

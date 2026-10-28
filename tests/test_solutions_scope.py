@@ -21,5 +21,9 @@ class SolutionsTests(unittest.TestCase):
  def test_cricut_and_webcam_are_correctly_classified(self):
   self.assertEqual(business_category({'name':'Máquina Cricut Maker 4'})[0],'Cricut')
   self.assertEqual(business_category({'name':'Cámara web Logitech'})[0],'Accesorios de oficina')
+ def test_title_type_overrides_wrong_supplier_category(self):
+  keyboard={'name':'Combo Teclado y Mouse MSI','categories':[{'name':'Alarmas','link':'https://nexcomtienda.com.do/categoria-producto/seguridad/alarmas/'}]}
+  self.assertEqual(business_category(keyboard),('Accesorios de oficina','Teclados y combos'))
+  self.assertIsNone(business_category({'name':'Monitor Acer reacondicionado'}))
  def test_partial_omega_page_is_rejected(self):
   with self.assertRaises(ValueError):parse_listing(b'<div id="product-list">Mostrando 1 a 100 de 150 (2 paginas)</div>',1)

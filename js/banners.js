@@ -28,7 +28,7 @@
  document.addEventListener('visibilitychange',schedule);
  reduced.addEventListener('change',()=>{paused=reduced.matches;pauseUI();schedule()});pauseUI();
  fetch('/js/productos-v2.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
-  slides=definitions.flatMap(d=>{const list=data.products.filter(p=>p.category===d[0]&&!p.image.endsWith('.svg'));const p=list.find(p=>p.stock)||list[0];return p?[[...d,p]]:[]});
+  slides=definitions.flatMap(d=>{const list=data.products.filter(p=>p.category===d[0]&&!p.image.endsWith('.svg'));const preferred={'Impresión':/^impresora/i,'Energía':/^ups/i,'Seguridad':/^cámara/i,'Cricut':/máquina.*corte/i};const matches=list.filter(p=>preferred[d[0]].test(p.name));const p=matches.find(p=>p.stock)||matches[0]||list.find(p=>p.stock)||list[0];return p?[[...d,p]]:[]});
   if(!slides.length){el('hero-pause').hidden=true;return}
   slides.forEach((s,i)=>{const b=document.createElement('button');b.type='button';b.setAttribute('aria-label','Ver banner de '+s[0]);b.addEventListener('click',()=>{index=i;render();schedule()});el('hero-dots').append(b)});render();schedule();
  }).catch(()=>{el('hero-pause').hidden=true});
