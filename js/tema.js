@@ -1,4 +1,4 @@
-// Apply the saved choice before the stylesheet paints. Dark remains the default.
+// Apply the saved choice before the stylesheet paints. Solutions uses light mode by default.
 (() => {
   let theme = 'light';
   try { if (['dark','light'].includes(localStorage.getItem('kodex-solutions-theme'))) theme = localStorage.getItem('kodex-solutions-theme'); } catch {}

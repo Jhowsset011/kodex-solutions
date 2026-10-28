@@ -161,12 +161,12 @@ def import_product(old, source, manual=False):
 def plan_catalog(current, items, seen, manual, eligibility=None):
     sources = index_sources(items)
     previous = {p['reference']: p for p in current['products']}
+    if len(previous) != len(current['products']): raise ValueError('Referencias existentes repetidas')
     if eligibility is not None:
         removed = set(previous) - set(eligibility)
         if len(removed) > max(3, len(previous) // 20):
             raise ValueError('Cambio masivo en intersección Omega/Nexcom; se conserva catálogo')
         previous = {ref: p for ref, p in previous.items() if ref in eligibility}
-    if eligibility is None and len(previous) != len(current['products']): raise ValueError('Referencias existentes repetidas')
     brands = {normalized(p['brand']) for p in current['products']} - {'generico', 'otros', 'sin marca'}
     # Empty/missing baseline seeds all current Nexcom SKUs without adding old stock.
     new = set(sources) - seen - set(previous) if seen else set()
@@ -321,6 +321,7 @@ def main():
     for name in ('productos-v2.json', 'productos.json'):
         write_json(ROOT / 'js' / name, catalog)
     write_json(ROOT / 'scripts/nexcom_seen_skus.json', baseline)
+    (ROOT / 'scripts/omega_ids.txt').write_text('\n'.join(p['reference'] for p in catalog['products']) + '\n', encoding='utf-8')
     write_json(ROOT / 'data/solutions-intersection.json', {'verifiedAt': catalog['updated'], 'references': {p['reference']: {'omegaTitle': inventory[p['reference']], 'nexcomTitle': p['name'], 'omegaURL': 'https://tienda.omega.com.do/es/product/consul/' + p['reference']} for p in catalog['products']}})
     print(f"Nexcom: {catalog['count']} productos; publicación validada.")
 
