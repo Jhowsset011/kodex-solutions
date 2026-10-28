@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://solutions.kodex.com.do/producto-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://solutions.kodex.com.do/categoria-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://solutions.kodex.com.do/pagina-sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

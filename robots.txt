@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solutions.kodex.com.do/sitemap.xml
