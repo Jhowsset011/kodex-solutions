@@ -8123,7 +8123,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora de escritorio</p>\n<p>🖨️ <strong>Tamaño de impresión:</strong> 24 pulgadas</p>\n<p>⚡ <strong>Velocidad:</strong> Alta velocidad</p>\n<p>🖨️ <strong>Sistema de tinta:</strong> Tanque de tinta EcoFit sin cartuchos</p>\n<p>🎯 <strong>Resolución:</strong> 2400 x 1200 ppp</p>\n<p>🖨️ <strong>Capacidad de tinta:</strong> Botellas de alta capacidad</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/2e43ec18-4d18-42af-8fe9-7421471f25d8.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -17603,7 +17603,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson LQ-2500, LQ-2550, LQ-680 Pro, LQ-860</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🔧 <strong>Modelo:</strong> LQ-670</p>\n<p>📦 <strong>SKU:</strong> 87180</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/fa13baa1-edc2-4595-bc21-c2bdf668d45c.png",
       "model": "LQ-670",
@@ -21472,7 +21472,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson FX-890</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🔧 <strong>Modelo compatible:</strong> FX-890</p>\n<p>📦 <strong>SKU:</strong> 79307</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/67109301-4326-46e9-bb8a-828bffaabb4b.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -21564,7 +21564,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Brother",
-      "subcategory": "Accesorios y suministros",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras PTD220 y PT-H110</p>\n<p>📏 <strong>Dimensiones:</strong> 0.47″ x 26.25′</p>\n<p>🎨 <strong>Color de texto:</strong> Negro</p>\n<p>🎨 <strong>Color de fondo:</strong> Blanco</p>\n<p>🔖 <strong>Tipo de adhesivo:</strong> Estándar</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/ea470884-b64d-4ed1-ad78-f179b6d3a4cf.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -22550,7 +22550,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🎨 <strong>Color:</strong> Púrpura</p>\n<p>🧩 <strong>Compatibilidad:</strong> Epson ERC-30, ERC-34, ERC-38, TM-U220</p>\n<p>🧩 <strong>Compatibilidad:</strong> Samsung SRP-270, SRP-275</p>\n<p>🔢 <strong>Modelo:</strong> ERC-3X</p>\n<p>🔖 <strong>Marca:</strong> Unitype</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/61300.png",
       "model": "ERC-3X",
@@ -23624,7 +23624,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Star SP712MC, SP712MD, SP712MU, SP742, SP742MC, SP742MD, SP742MU</p>\n<p>🎨 <strong>Color:</strong> Morado</p>\n<p>🔢 <strong>Rendimiento:</strong> 3 millones de caracteres</p>\n<p>🧩 <strong>Modelo:</strong> SP700 / SP712</p>\n<p>📦 <strong>Tipo:</strong> Cinta para impresora</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/36cfb402-919e-4b0f-b380-b93d3375612a.png",
       "model": "SP700 / SP712",
@@ -23718,7 +23718,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Brother",
-      "subcategory": "Accesorios y suministros",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras P-Touch PTD220 y PT-H110</p>\n<p>📏 <strong>Ancho:</strong> 12 mm (1/2 pulgada)</p>\n<p>🖋️ <strong>Color de texto:</strong> Negro</p>\n<p>🎨 <strong>Color de fondo:</strong> Transparente</p>\n<p>📐 <strong>Longitud:</strong> 26.2 pies (aprox. 8 metros)</p>\n<p>🧲 <strong>Adhesivo:</strong> Estándar</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/ed788334-8355-4f59-82b7-b4702bfe0335.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -23907,7 +23907,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson LX-350, LX-350+, LX350+II</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🔢 <strong>SKU:</strong> 74671</p>\n<p>📦 <strong>Categoria:</strong> 871</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/74671.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -27813,7 +27813,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora multifuncional inyección de tinta</p>\n<p>📶 <strong>Conectividad:</strong> Wi-Fi y USB 2.0</p>\n<p>🖼️ <strong>Resolución:</strong> 4800 x 1200 dpi color, 600 x 600 dpi negro</p>\n<p>⏱️ <strong>Velocidad Impresión:</strong> 11 ppm negro, 6 ppm color</p>\n<p>📄 <strong>Capacidad:</strong> Hasta 6000 páginas negro, 7700 páginas color</p>\n<p>📺 <strong>Pantalla:</strong> LCD de 1.35 pulgadas</p>\n<p>🔄 <strong>Funciones:</strong> Impresión dúplex automática</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/81bbb118-02fe-4701-bb58-e1c1a3205f4d.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -28397,7 +28397,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Velocidad Impresión:</strong> 45 ppm en negro, 24 ppm a color</p>\n<p>📄 <strong>Capacidad Bandeja:</strong> 250 hojas frontal, 100 hojas superior</p>\n<p>🔄 <strong>Funciones Duplex:</strong> impresión y escaneo en una pasada</p>\n<p>📶 <strong>Conectividad:</strong> WiFi y Ethernet</p>\n<p>🗂️ <strong>Alimentador Automático Documentos:</strong> 50 hojas</p>\n<p>♻️ <strong>Rendimiento Tinta:</strong> hasta 9,000 páginas en negro modo eco, 21,000 páginas a color</p>\n<p>🔧 <strong>Mantenimiento:</strong> cabezal y cartucho reemplazables MC-G01</p>\n<p>📅 <strong>Ciclo Mensual:</strong> hasta 45,000 impresiones</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/f4484489-eba9-48b3-a9e0-aab7bc3e0f29.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -29043,7 +29043,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Velocidad Impresion:</strong> 45 ppm en negro y 24 ppm a color</p>\n<p>📄 <strong>Capacidad Bandejas:</strong> doble bandeja frontal 500 hojas y bandeja superior 100 hojas</p>\n<p>🔄 <strong>Funciones Duplex:</strong> impresion y escaneo duplex</p>\n<p>📶 <strong>Conectividad:</strong> wifi y ethernet</p>\n<p>🔧 <strong>Mantenimiento:</strong> cabezal y cartucho reemplazables MC-G01</p>\n<p>📑 <strong>Alimentador Automatico Documentos:</strong> ADF 50 hojas</p>\n<p>🗓️ <strong>Ciclo Mensual:</strong> hasta 45,000 impresiones</p>\n<p>🖨️ <strong>Rendimiento:</strong> hasta 9,000 paginas en negro modo eco y 21,000 en color</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/9a507e62-9e8b-4a5f-ac84-a2c00c996251.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -29493,7 +29493,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Brother",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora multifuncional de tinta a color</p>\n<p>📶 <strong>Conectividad:</strong> Inalámbrica, móvil, nube</p>\n<p>📋 <strong>Funciones:</strong> Copia, escaneo, impresión dúplex</p>\n<p>🖥️ <strong>Pantalla:</strong> LCD</p>\n<p>🔄 <strong>Multifuncionalidad:</strong> Impresión, copia y escaneo integrados</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/d25363a6-8fef-4af8-a574-6aebda7a117b.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -36395,7 +36395,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora multifuncional inyección de tinta</p>\n<p>📶 <strong>Conectividad:</strong> Wifi y USB 2.0</p>\n<p>🖼️ <strong>Resolución color:</strong> 4800 x 1200 dpi</p>\n<p>⚫ <strong>Resolución negro:</strong> 600 x 600 dpi</p>\n<p>🖨️ <strong>Velocidad impresión:</strong> 11 ppm negro, 6 ppm color</p>\n<p>📺 <strong>Pantalla:</strong> LCD 1.35 pulgadas</p>\n<p>🖨️ <strong>Capacidad impresión:</strong> hasta 6000 páginas negro, 7700 páginas color</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/73603a30-6d05-4fe1-ad09-fe7888f4c4e8.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -45047,7 +45047,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "HP",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Designjet T200 Series</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Designjet T600 Series</p>\n<p>📏 <strong>Tamaño:</strong> 24 pulgadas</p>\n<p>🔧 <strong>Tipo:</strong> Bandeja para impresora</p>\n<p>🔩 <strong>Uso:</strong> Repuesto original para impresoras Designjet</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/d9d28bea-3907-4d2f-a6e5-f089062109e4.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
@@ -49844,7 +49844,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson ERC39, ERC43 M-U110, M-U310, M-U310S, M-U311, M-U311S, M-U312S</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Olivetti Interpos 2000, Interpos 2001</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Teknoline 2000, Teknoline 2001</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Omniprint OPC311</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Samsung ER-350II, ER-655II</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Synco SP-POS76 II</p>\n<p>🎨 <strong>Color:</strong> Purpura</p>\n<p>📏 <strong>Tipo:</strong> Cinta para impresora térmica</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/81a87368-e57b-429b-8c52-dd37e39792fe-1.webp",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -50261,7 +50261,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Tipo:</strong> cinta para impresora</p>\n<p>🎨 <strong>Color:</strong> negro</p>\n<p>⚙️ <strong>Compatibilidad:</strong> epson fx-2190</p>\n<p>🔧 <strong>Modelo Compatible:</strong> fx-2190</p>\n<p>📦 <strong>SKU:</strong> 88346</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/ec65438f-61d3-483c-b5e6-6bc5bad1bc86.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -50715,7 +50715,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Okidata Microline 1120 y 1190</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>⏳ <strong>Duracion:</strong> 4 millones de caracteres</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora matricial</p>\n<p>🔧 <strong>Uso:</strong> Repuesto para impresoras matriciales</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/e27687c4-d8dd-4024-8501-1be1cad1725c.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -51989,7 +51989,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Accesorios y suministros",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson PLQ-20</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🔢 <strong>Rendimiento:</strong> 5 millones de caracteres</p>\n<p>📦 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🔧 <strong>Uso:</strong> Repuesto para impresora matricial</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/3e1fd89f-cfd2-4e1e-a8c8-fc29d8fc2603.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -53300,7 +53300,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Modelo:</strong> fx-890ii</p>\n<p>🖨️ <strong>Marca:</strong> epson</p>\n<p>🖨️ <strong>Ribbon Cartridge:</strong> s015329 fx-890 black</p>\n<p>🔌 <strong>Conectividad:</strong> 1x puerto paralelo, 1x puerto usb</p>\n<p>🖨️ <strong>Ancho de impresión:</strong> 10.1 pulgadas</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/17306dea-ba0e-416c-97e4-343386379ce9.png",
       "model": "fx-890ii",
@@ -59365,7 +59365,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Epson TM-U295</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🧵 <strong>Tipo:</strong> Cinta de tinta (Ink Ribbon)</p>\n<p>🔧 <strong>Modelo:</strong> ERC-27B</p>\n<p>🔢 <strong>SKU:</strong> 74446</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/74446.png",
       "model": "ERC-27B",
@@ -59676,7 +59676,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson LX-350, LX-300+, LX-300+II</p>\n<p>🖨️ <strong>Rendimiento:</strong> 4 millones de caracteres</p>\n<p>🖨️ <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🖨️ <strong>SKU:</strong> 73628</p>\n<p>🖨️ <strong>Categoría:</strong> 871</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/f97f02cc-c4ab-446a-a766-168018af2c22.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -62076,7 +62076,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> ML-600, ML-690</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🔢 <strong>Rendimiento:</strong> 8 millones de caracteres</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>🖥️ <strong>Serie:</strong> Microline ML-6XX</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/70487.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -66465,7 +66465,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Impresoras",
+      "subcategory": "Cintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson FX-2190</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🧵 <strong>Tipo:</strong> Cinta para impresora</p>\n<p>📦 <strong>SKU:</strong> 63240</p>\n<p>🔧 <strong>Uso:</strong> Impresora matricial</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/56a20e7f-63f4-4ee7-b663-1d080bac3092.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -67184,7 +67184,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresora SP200/SP512</p>\n<p>🎨 <strong>Color:</strong> Negro/Púrpura</p>\n<p>📦 <strong>Tipo de cinta:</strong> Unitype</p>\n<p>🔧 <strong>Uso:</strong> Impresión en impresoras específicas</p>\n<p>🔢 <strong>SKU:</strong> 62056</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/62056.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -67273,7 +67273,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson FX-890, Epson FX-890N, Epson MX-80 F/T, Epson LQ-1500, Epson AP-80</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🔧 <strong>Tipo:</strong> Cinta para impresora de impacto</p>\n<p>📦 <strong>Modelo compatible:</strong> Epson 15329</p>\n<p>🛠️ <strong>Uso:</strong> Repuesto para impresoras de matriz de puntos</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/61829.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -67451,7 +67451,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Genérico",
-      "subcategory": "Impresoras",
+      "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras LX-300, FX-880</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🔧 <strong>Modelo:</strong> A-E080NG</p>\n<p>📦 <strong>SKU:</strong> 61304</p>\n<p>🧷 <strong>Tipo:</strong> Cinta para impresora</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/61304.png",
       "model": "A-E080NG",
@@ -75793,7 +75793,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖥️ <strong>Tipo y aplicación:</strong><br>🖨️ Multifuncional 3 en 1: imprime, copia y escanea<br>📑 Ideal para hogares y oficinas con alto volumen de impresión</p>\n<p>⚡ <strong>Potencia y tipo:</strong><br>⚡ Velocidad aproximada: 26 ppm en negro y 13 ppm en color<br>📊 Rendimiento ISO: 8.8 ipm en negro y 5 ipm en color</p>\n<p>📷 <strong>Resolución y calidad:</strong><br>🖋️ Resolución de impresión: 4800 × 1200 dpi en color y 600 × 600 dpi en negro<br>📠 Escaneo de alta definición para documentos y fotos</p>\n<p>📡 <strong>Conectividad y puertos:</strong><br>📶 Conexión WiFi integrada para impresión inalámbrica<br>🔌 Puerto USB 2.0 de alta velocidad<br>❌ No compatible con sistemas Mac</p>\n<p>🎨 <strong>Diseño y materiales:</strong><br>⚫ Color negro con diseño compacto y funcional<br>🛠️ Sistema de tinta continua integrado con botellas de fácil recarga</p>\n<p>📏 <strong>Dimensiones y peso:</strong><br>📐 Formato de escritorio ligero y versátil<br>📦 Peso aproximado de 6.5 kg</p>\n<p>🧩 <strong>Acceso y mantenimiento:</strong><br>💧 Rendimiento de hasta 6000 páginas en negro y 7000 en color<br>🔄 Cabezal de impresión reemplazable para mayor durabilidad<br>✔️ Compatible con papeles especiales (fotográfico, sobres y más)</p>\n<p>🛡️ <strong>Estándares y certificaciones:</strong><br>📑 Impresión de documentos y fotos de alta calidad<br>✔️ Garantía de eficiencia y confiabilidad en uso continuo</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/d4bbd45e-ceeb-4e9b-a62a-bcc7f59e92f8.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -75913,7 +75913,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Epson",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tecnología de impresión:</strong> MicroTFP con tinta de sublimación Epson UltraChrome DS de 4 colores (C, M, Y, K).<br>🖥️ <strong>Pantalla:</strong> LCD de 2.4″ para control y configuración sencilla.<br>📡 <strong>Conectividad:</strong> USB 2.0, LAN 10/100 y Wi-Fi para impresión versátil.<br>🖼️ <strong>Resolución de impresión:</strong> Hasta 1200 x 600 dpi.<br>🧴 <strong>Cartuchos compatibles:</strong> Utiliza cartuchos Epson T49M.</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/bc50eced-4ebe-4a20-875c-8a04ff3c7bd9-1.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -77104,7 +77104,7 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Canon",
-      "subcategory": "Tintas",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Funciones:</strong> Imprime, copia y escanea con sistema de tinta continua a color para alto rendimiento.<br>📡 <strong>Conectividad:</strong> Wi-Fi y Ethernet para impresión en red y móvil sin cables.<br>🖼️ <strong>Rendimiento de impresión:</strong> Hasta 8,300 páginas en negro y 7,700 páginas en color para grandes volúmenes.<br>⚡ <strong>Velocidad de impresión:</strong> 38 ppm en negro y 23 ppm en color (13.0 ipm negro / 8.0 ipm color ISO) para productividad óptima.<br>📄 <strong>Capacidad de papel:</strong> Bandeja frontal de 250 hojas y bandeja superior de 100 hojas para mayor flexibilidad.<br>🔄 <strong>Funciones avanzadas:</strong> Impresión a doble cara automática para ahorro de papel.<br>🖥️ <strong>Pantalla:</strong> LCD de dos líneas para control rápido.<br>🔧 <strong>Cabezal:</strong> Reemplazable para prolongar la vida útil y reducir costos de mantenimiento.</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/a897c5dd-ab3e-4bd5-b17f-b2fc89ef8b31.png",
       "specificationsUpdated": "2026-10-28T20:02:40+00:00"
@@ -77764,8 +77764,8 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo de impresora:</strong> Matricial</p>\n<p>🔢 <strong>Pines:</strong> 9-pin</p>\n<p>🔠 <strong>Caracteres por línea:</strong> 80 a 10 CPI</p>\n<p>📏 <strong>Líneas por pulgada:</strong> 6</p>\n<p>⚡ <strong>Velocidad máxima:</strong> 680 CPS a 12 CPI</p>\n<p>⚡ <strong>Velocidad mínima:</strong> 104 CPS a 10 CPI</p>\n<p>🔄 <strong>Comunicación:</strong> Bidireccional</p>\n<p>🔌 <strong>Interfaces:</strong> Paralelo, USB 2.0, IEEE 1284 bidireccional</p>\n<p>🌐 <strong>Red:</strong> EPSONNET 10/100BASE-TX Ethernet print server</p>\n<p>🗃️ <strong>Buffer:</strong> 128KB</p>\n<p>💻 <strong>Lenguajes soportados:</strong> EPSON L ESC/P®, IBM® PPDS, MICROLINE®</p>\n<p>🔌 <strong>Voltaje:</strong> 120V</p>\n<p>🔧 <strong>Ranura:</strong> Tipo B para tarjetas de interfaz opcionales</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/5e6cba9b-c6b5-4dfc-91f9-5eca78c69688.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/5e6cba9b-c6b5-4dfc-91f9-5eca78c69688.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000087726",
@@ -77808,8 +77808,8 @@
       "brand": "Epson",
       "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson WF-C5790, WF-C579R, WF-5290, WF-5299, WF-5799</p>\n<p>📄 <strong>Capacidad:</strong> 500 hojas</p>\n<p>🛠️ <strong>Función:</strong> Bandeja alimentadora con soporte para impresora</p>\n<p>🔧 <strong>Tipo:</strong> Accesorio para impresora</p>\n<p>📦 <strong>SKU:</strong> 87726</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/fbca16b3-ed80-4a39-8a62-bfc594a963a3.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/fbca16b3-ed80-4a39-8a62-bfc594a963a3.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000089428",
@@ -77852,8 +77852,8 @@
       "brand": "Canon",
       "subcategory": "Cabezales",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon G1110, G2110, G3110, G4111</p>\n<p>🖋️ <strong>Contenido:</strong> Cabezales Canon BH1 y Botella de Tinta Negra GI-190</p>\n<p>🖤 <strong>Color:</strong> Negro</p>\n<p>🔧 <strong>Tipo:</strong> Kit de mantenimiento para impresión</p>\n<p>📦 <strong>SKU:</strong> 89428</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/b94556b9-4bb1-45aa-8bcc-d8532013fe31-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/b94556b9-4bb1-45aa-8bcc-d8532013fe31-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000089430",
@@ -77896,8 +77896,8 @@
       "brand": "Canon",
       "subcategory": "Cabezales",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon G1110, G2110, G3110, G4111</p>\n<p>🖋️ <strong>Componentes:</strong> Cabezal de tinta negra BH-1 y cabezal de tinta a color CH-1</p>\n<p>🎨 <strong>Tipo de tinta:</strong> Negra y color</p>\n<p>🔧 <strong>Uso:</strong> Repuesto para impresión</p>\n<p>📦 <strong>SKU:</strong> 89430</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/d74ad226-2de4-428c-9899-3cc471274a97-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/d74ad226-2de4-428c-9899-3cc471274a97-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000090856",
@@ -77991,8 +77991,8 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Epson L8180, L15150, L15160</p>\n<p>🧴 <strong>Tipo:</strong> Deposito De Residuos</p>\n<p>🔧 <strong>Función:</strong> Recolector De Tinta Residual</p>\n<p>♻️ <strong>Mantenimiento:</strong> Previene Derrames Y Daños Internos</p>\n<p>🔩 <strong>Instalación:</strong> Compatible Directamente Con Modelos Indicados</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/8e4e749d-c8fb-4a6e-a58b-145821b04b81-2.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/8e4e749d-c8fb-4a6e-a58b-145821b04b81-2.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000091255",
@@ -78035,9 +78035,9 @@
       "brand": "Canon",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Modelo:</strong> MC-G01</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Serie GX Canon</p>\n<p>🖨️ <strong>Tipo:</strong> Cartucho De Mantenimiento</p>\n<p>🖨️ <strong>Función:</strong> Mantenimiento Preventivo</p>\n<p>🖨️ <strong>SKU:</strong> 91255</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/037f6384-c439-4b1e-80cb-1d74352b8600-1.png",
       "model": "MC-G01",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/037f6384-c439-4b1e-80cb-1d74352b8600-1.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000091441",
@@ -78080,8 +78080,8 @@
       "brand": "Canon",
       "subcategory": "Cabezales",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Canon G2160, G3160, G5010, G6010, G7010</p>\n<p>🎨 <strong>Incluye:</strong> cabezal negro BH10 y cabezal color CH10</p>\n<p>🛠️ <strong>Tipo:</strong> kit de cabezales para impresora</p>\n<p>⚙️ <strong>Función:</strong> reemplazo para impresión en negro y color</p>\n<p>📦 <strong>SKU:</strong> 91441</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/605815d6-c795-4855-ab5e-b933c75f0b41-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/605815d6-c795-4855-ab5e-b933c75f0b41-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000091682",
@@ -78124,8 +78124,8 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresora Epson F170</p>\n<p>🧴 <strong>Tipo:</strong> Deposito De Residuos</p>\n<p>🔧 <strong>Función:</strong> Caja De Mantenimiento</p>\n<p>♻️ <strong>Uso:</strong> Recolección De Residuos De Tinta</p>\n<p>🔩 <strong>Instalación:</strong> Compatible Directo Con Impresora</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/7ee95d29-3656-4f7d-8439-7d21f0d11c40-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/7ee95d29-3656-4f7d-8439-7d21f0d11c40-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000091683",
@@ -78168,8 +78168,8 @@
       "brand": "Epson",
       "subcategory": "Papel",
       "description": "<p>📄 <strong>Tipo de papel:</strong> sublimación DS transfer</p>\n<p>📏 <strong>Tamaño:</strong> 21.6 x 27.9 cm (8.5 x 11 pulgadas)</p>\n<p>🖨️ <strong>Compatibilidad:</strong> impresoras epson f170, f570</p>\n<p>🗒️ <strong>Cantidad:</strong> 100 hojas</p>\n<p>🎨 <strong>Terminación:</strong> mate</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/078faa89-04f0-4af6-9ac0-4db4f7d4b922-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/078faa89-04f0-4af6-9ac0-4db4f7d4b922-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000092028",
@@ -78212,8 +78212,8 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora de libretas compacta</p>\n<p>🔗 <strong>Conectividad:</strong> Serial, USB</p>\n<p>⚡ <strong>Velocidad:</strong> 630 caracteres por segundo (CPS)</p>\n<p>📺 <strong>Pantalla:</strong> LCD</p>\n<p>📄 <strong>Uso:</strong> Impresora para recibos</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/0d91e54d-2f3f-4c01-a5d0-b05e13bf1ca3-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/0d91e54d-2f3f-4c01-a5d0-b05e13bf1ca3-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000092135",
@@ -78256,9 +78256,9 @@
       "brand": "Canon",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon Serie G</p>\n<p>🧰 <strong>Tipo:</strong> Cartucho De Mantenimiento</p>\n<p>📦 <strong>Modelo:</strong> MC-G02</p>\n<p>⚙️ <strong>Función:</strong> Recolección De Tinta Residual</p>\n<p>🔧 <strong>Uso:</strong> Mantenimiento Preventivo</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/8abf1357-5962-40ec-98c7-262df54b2913-1.png",
       "model": "MC-G02",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/8abf1357-5962-40ec-98c7-262df54b2913-1.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000092305",
@@ -78301,9 +78301,9 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson WF-C529R, WF-C579R, WF-M5299, WF-M5799, WF-C5710, WF-C5790, WF-C5290, WF-C5219, ET-8700</p>\n<p>🔧 <strong>Tipo:</strong> Caja De Mantenimiento</p>\n<p>🆔 <strong>Modelo:</strong> T6716</p>\n<p>📦 <strong>SKU:</strong> 92305</p>\n<p>⚙️ <strong>Función:</strong> Recolección De Residuos De Tinta</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/7d0dbe6c-523b-4558-8bfb-945532a0c1d7.png",
       "model": "T6716",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/7d0dbe6c-523b-4558-8bfb-945532a0c1d7.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000093218",
@@ -78358,8 +78358,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>💡 <strong>Brillo:</strong> 3600 lúmenes color</p>\n<p>🖥️ <strong>Resolución:</strong> 1024 x 768 (XGA)</p>\n<p>📺 <strong>Relación de aspecto:</strong> 4:3</p>\n<p>🔌 <strong>Entradas:</strong> 1 HDMI, 2 VGA, 1 USB, RJ45</p>\n<p>⚡ <strong>Consumo:</strong> 210W UHE</p>\n<p>⏳ <strong>Duración lámpara:</strong> 6000 horas normal, 12000 horas modo eco</p>\n<p>🔧 <strong>Tecnología:</strong> 3LCD</p>\n<p>🔄 <strong>Plug &amp; Play:</strong> Sí</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/be940e57-2a77-481f-b5d6-8808ed271ed2.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/be940e57-2a77-481f-b5d6-8808ed271ed2.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000094484",
@@ -78414,8 +78414,8 @@
       "brand": "Epson",
       "subcategory": "Papel",
       "description": "<p>🖨️ <strong>Tipo De Papel:</strong> Sublimación DS Transfer</p>\n<p>📏 <strong>Dimensiones:</strong> 11 pulgadas x 100 pies</p>\n<p>⚖️ <strong>Peso:</strong> 87 gramos</p>\n<p>🎨 <strong>Terminación:</strong> Matte</p>\n<p>🔄 <strong>Core:</strong> 2 pulgadas</p>\n<p>🖥️ <strong>Compatibilidad:</strong> Impresoras Epson F170, F570</p>\n<p>📦 <strong>Presentación:</strong> 2 rollos por caja</p>\n<p>📊 <strong>ISO:</strong> 107</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/c9035259-4223-40f8-ad68-e65dc66718e5.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/c9035259-4223-40f8-ad68-e65dc66718e5.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000094612",
@@ -78462,9 +78462,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora de recibo térmica<br>🏷️ <strong>Marca:</strong> Epson<br>🔢 <strong>Modelo:</strong> TM-T88VII<br>🔌 <strong>Interfaz:</strong> USB, Ethernet<br>⚡ <strong>Fuente:</strong> Incluida<br>🚀 <strong>Velocidad de Impresión:</strong> 300mm/s</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/b741cb85-f02f-40a1-95be-337be761a604.png",
       "model": "TM-T88VII",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/b741cb85-f02f-40a1-95be-337be761a604.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000094808",
@@ -78523,9 +78523,9 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>📶 <strong>Tipo de producto:</strong> Adaptador de red inalámbrico</p>\n<p>🏷️ <strong>Marca:</strong> Epson</p>\n<p>🔢 <strong>Modelo:</strong> ELPAP11</p>\n<p>🌐 <strong>Estándar Wi-Fi:</strong> 802.11 b/g/n</p>\n<p>🔌 <strong>Conectividad:</strong> USB Tipo-A</p>\n<p>🔊 <strong>Audio:</strong> Soporta transmisión de audio</p>\n<p>💻 <strong>Compatibilidad de SO:</strong> PC y Mac</p>\n<p>📹 <strong>Proyectores compatibles:</strong> Epson PowerLite X49, W49, 118, 119W, 982W</p>\n<p>🆔 <strong>SKU:</strong> 94808</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/e4c071fe-fa4a-457d-931f-88e6f94fb91e.png",
       "model": "ELPAP11",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/e4c071fe-fa4a-457d-931f-88e6f94fb91e.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000094943",
@@ -78568,8 +78568,8 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Epson T5170M, T3170M, T2170, F570, SC-T3100, SC-T5100, T3170X, T3170, T5170</p>\n<p>🧴 <strong>Función:</strong> Deposito De Residuos Para Impresora</p>\n<p>🔧 <strong>Tipo:</strong> Caja De Mantenimiento</p>\n<p>♻️ <strong>Uso:</strong> Recolección De Tinta Residual</p>\n<p>🔄 <strong>Reemplazo:</strong> Compatible Con Modelos Especificados</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/37ed0238-996b-4ee5-a05d-b5e2454c001a.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/37ed0238-996b-4ee5-a05d-b5e2454c001a.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000094946",
@@ -78612,9 +78612,9 @@
       "brand": "Epson",
       "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras WF-C5390DW, 5890DWF, WF-C5300 Series</p>\n<p>📄 <strong>Capacidad:</strong> 500 hojas adicionales</p>\n<p>🛠️ <strong>Función:</strong> Bandeja alimentadora con soporte para impresora</p>\n<p>🔧 <strong>Modelo:</strong> C12C937901</p>\n<p>📦 <strong>Tipo de producto:</strong> Accesorio para impresora Epson</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/97255161-e284-4c74-876f-a3fd69daedc3.png",
       "model": "C12C937901",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/97255161-e284-4c74-876f-a3fd69daedc3.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000095429",
@@ -78669,8 +78669,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>💡 <strong>Brillo:</strong> 5000 lúmenes</p>\n<p>🖥️ <strong>Resolución nativa:</strong> WXGA 1366 x 720</p>\n<p>🔗 <strong>Entradas:</strong> 3x HDMI, 2x D-SUB, RCA, Audio In x3, Audio Out x1</p>\n<p>🔌 <strong>Conectividad adicional:</strong> 2x USB-B, 2x USB-A, 1x RS232, 1x RJ45 LAN</p>\n<p>🔊 <strong>Audio:</strong> 2x 8W altavoces integrados</p>\n<p>📐 <strong>Relación de aspecto:</strong> 16:9</p>\n<p>🖲️ <strong>Tecnología:</strong> 3LCD</p>\n<p>⏳ <strong>Vida útil lámpara:</strong> Hasta 30,000 horas</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/97029e71-bcd8-4e99-b934-a27e818015ec.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/97029e71-bcd8-4e99-b934-a27e818015ec.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000095717",
@@ -78713,9 +78713,9 @@
       "brand": "Brother",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Modelo:</strong> PTD220</p>\n<p>🔋 <strong>Alimentacion:</strong> 6 pilas AAA</p>\n<p>⚡ <strong>Adaptador Corriente:</strong> No incluido</p>\n<p>📦 <strong>Tipo:</strong> Impresora de etiquetas portatil</p>\n<p>🔢 <strong>Marca:</strong> Brother</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/ddaed766-9f15-41ad-989a-80268c9d051d.png",
       "model": "PTD220",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/ddaed766-9f15-41ad-989a-80268c9d051d.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000095839",
@@ -78766,9 +78766,9 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>🏷️ <strong>Marca:</strong> Epson</p>\n<p>📦 <strong>Modelo:</strong> CO-W01 (V11HA86020)</p>\n<p>🖼️ <strong>Tecnología de proyección:</strong> 3LCD</p>\n<p>💡 <strong>Brillo:</strong> 3,000 Lúmenes</p>\n<p>🎯 <strong>Resolución nativa:</strong> WXGA (1280 x 800)</p>\n<p>🔌 <strong>Conexión HDMI:</strong> 1x HDMI (HDCP 1.4)</p>\n<p>🔌 <strong>Conexión USB:</strong> 1x USB Tipo A (PC Free, Módulo inalámbrico) / 1x USB Tipo B (Servicio)</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/96235ea0-df85-4b2e-adeb-0aadb9235f57.png",
       "model": "CO-W01 (V11HA86020)",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/96235ea0-df85-4b2e-adeb-0aadb9235f57.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000096316",
@@ -78815,8 +78815,8 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🔌 <strong>Interfaz:</strong> USB, Ethernet, Serial</p>\n<p>⚡ <strong>Velocidad de impresion:</strong> 350 mm/s</p>\n<p>📏 <strong>Ancho de papel:</strong> 80 mm, compatible 58/80 mm</p>\n<p>🖨️ <strong>Tipo de impresora:</strong> Termica de recibo</p>\n<p>✂️ <strong>Autocortador:</strong> Integrado</p>\n<p>🔋 <strong>Fuente de alimentacion:</strong> PS-100</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/b96ed6fc-797f-453d-a0bb-43f1ac6dde91.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/b96ed6fc-797f-453d-a0bb-43f1ac6dde91.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000096888",
@@ -78859,9 +78859,9 @@
       "brand": "Brother",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>🖨️ <strong>Modelo:</strong> P-Touch PTH110</p>\n<p>⌨️ <strong>Teclado:</strong> QWERTY</p>\n<p>📏 <strong>Ancho de etiqueta:</strong> 12 mm</p>\n<p>🎨 <strong>Color:</strong> Blanco/Gris</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/f52ad2a3-b5ce-44cf-ae82-9f71e11b967f.png",
       "model": "P-Touch PTH110",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/f52ad2a3-b5ce-44cf-ae82-9f71e11b967f.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "80000096945",
@@ -78908,8 +78908,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>💡 <strong>Brillo:</strong> 3000 lúmenes</p>\n<p>📺 <strong>Resolución:</strong> Full HD 1080p</p>\n<p>🎥 <strong>Tecnología:</strong> 3LCD</p>\n<p>🔌 <strong>Conectividad:</strong> HDMI totalmente digital</p>\n<p>📱 <strong>Interfaz:</strong> Android TV integrada</p>\n<p>🔊 <strong>Audio:</strong> Altavoz de alta calidad</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/024b0f42-e1f2-47f0-bbbf-175615833750.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/024b0f42-e1f2-47f0-bbbf-175615833750.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000104679",
@@ -78952,8 +78952,8 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🧰 <strong>Contenido:</strong> filtros de aire de repuesto x2</p>\n<p>🧽 <strong>Incluye:</strong> almohadilla de lavado</p>\n<p>🧴 <strong>Accesorios:</strong> limpiador de tela</p>\n<p>🧤 <strong>Equipamiento:</strong> guantes para manipulación</p>\n<p>🖨️ <strong>Uso:</strong> limpieza periódica del cabezal de impresión</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0a59ec69-446b-4ddb-9a39-d67471481466.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0a59ec69-446b-4ddb-9a39-d67471481466.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000105891",
@@ -78996,8 +78996,8 @@
       "brand": "Brother",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tecnología:</strong> Láser monocromática</p>\n<p>📶 <strong>Conectividad:</strong> Inalámbrica</p>\n<p>🖨️ <strong>Impresión:</strong> Dúplex automática</p>\n<p>📱 <strong>Función móvil:</strong> Impresión desde dispositivos móviles</p>\n<p>⚫ <strong>Salida:</strong> Blanco y negro</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/6336f589-9d4e-4a77-945b-c3bee3c9dce8.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/6336f589-9d4e-4a77-945b-c3bee3c9dce8.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000105892",
@@ -79048,8 +79048,8 @@
       "brand": "Brother",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora láser monocromática</p>\n<p>📠 <strong>Funciones:</strong> impresión, copia y escaneo</p>\n<p>📶 <strong>Conectividad:</strong> inalámbrica</p>\n<p>🖤 <strong>Color de impresión:</strong> blanco y negro</p>\n<p>📄 <strong>Función dúplex:</strong> impresión a doble cara automática</p>\n<p>📱 <strong>Compatibilidad móvil:</strong> impresión desde dispositivos móviles</p>\n<p>🖥️ <strong>Diseño:</strong> compacto</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/e92aeaa4-903a-4d91-9b46-b29fb48a6dba.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/e92aeaa4-903a-4d91-9b46-b29fb48a6dba.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000106157",
@@ -79092,8 +79092,8 @@
       "brand": "Epson",
       "subcategory": "Accesorios y suministros",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson Surecolor 7000</p>\n<p>🧴 <strong>Tipo:</strong> Tanque De Mantenimiento</p>\n<p>🔧 <strong>Función:</strong> Recolección De Tinta Residual</p>\n<p>📦 <strong>SKU:</strong> 106157</p>\n<p>🛠️ <strong>Uso:</strong> Mantenimiento Preventivo</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/fb1ead36-4a24-4a54-9938-494888f1b461.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/fb1ead36-4a24-4a54-9938-494888f1b461.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000106621",
@@ -79136,9 +79136,9 @@
       "brand": "Canon",
       "subcategory": "Mantenimiento",
       "description": "<p>📦 <strong>Tipo de producto:</strong> Cartucho de mantenimiento</p>\n<p>🏷️ <strong>Marca:</strong> Canon</p>\n<p>🔢 <strong>Modelo:</strong> MC-G04</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon Series PIXMA</p>\n<p>📂 <strong>Categoría:</strong> Cartuchos</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/2e334ae6-244c-4abe-b414-e53b31e312a1.png",
       "model": "MC-G04",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/2e334ae6-244c-4abe-b414-e53b31e312a1.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000107232",
@@ -79181,9 +79181,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora de recibo térmica<br>🏷️ <strong>Marca:</strong> Epson<br>🔢 <strong>Modelo:</strong> TM-M30III-H<br>🔌 <strong>Interfaces:</strong> Ethernet, USB-A, USB-B, USB-C<br>📡 <strong>Conectividad Inalámbrica:</strong> Wi-Fi y Bluetooth (opcional)</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/03/impresora-de-recibo-epson-tm-m30iii-h-termica-con-ethernet-usb-wifi-bluetooth-opcional.webp",
       "model": "TM-M30III-H",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/03/impresora-de-recibo-epson-tm-m30iii-h-termica-con-ethernet-usb-wifi-bluetooth-opcional.webp"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000107637",
@@ -79250,9 +79250,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ Tipo de producto: Impresora de gran formato<br>\n🏷️ Marca: Epson<br>\n🔢 Modelo: SureColor T5170 (SCT5170SR)<br>\n📏 Ancho máximo de papel: 36″<br>\n⚙️ Tecnología de impresión: Cabezal PrecisionCore MicroTFP de 4 canales<br>\n🖼️ Resolución máxima: 2400 × 1200 PPP<br>\n⚡ Velocidad de impresión: D/A1 en 31 segundos<br>\n🖋️ Tipo de tinta: Cartuchos T40V<br>\n🎨 Colores de tinta: Negro, Cyan, Magenta y Amarillo<br>\n🔌 Conectividad: USB Super Rápido (3.0), Wi-Fi y Ethernet<br>\n🧰 Stand: Incluido</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/1006646305.webp",
       "model": "SureColor T5170 (SCT5170SR)",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/1006646305.webp"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000107869",
@@ -79295,8 +79295,8 @@
       "brand": "Canon",
       "subcategory": "Tintas",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon Pixma G1100, G2100, G3100, G4100</p>\n<p>🎨 <strong>Colores:</strong> Negro, Cian, Magenta, Amarillo</p>\n<p>🧴 <strong>Tipo:</strong> Kit de tintas originales</p>\n<p>📦 <strong>Contenido:</strong> Cartuchos GI-190 BK, C, M, Y</p>\n<p>🖋️ <strong>Uso:</strong> Recarga para impresoras de inyección de tinta</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/b87699a9-c72a-4eec-a87b-72fb6222b725.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/b87699a9-c72a-4eec-a87b-72fb6222b725.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108003",
@@ -79337,10 +79337,10 @@
       "sourceCategory": "",
       "category": "Impresión",
       "brand": "Brother",
-      "subcategory": "Accesorios y suministros",
+      "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo de impresión:</strong> Láser monocromático</p>\n<p>📠 <strong>Funciones:</strong> Impresión, escaneado, copiado dúplex, fax</p>\n<p>🖥️ <strong>Formato:</strong> Escritorio</p>\n<p>⚡ <strong>Velocidad de impresión:</strong> Hasta 52 páginas por minuto</p>\n<p>🔄 <strong>Impresión dúplex:</strong> Sí</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/0f3b2f74-765b-4f6d-96ee-d6671e71624a.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/0f3b2f74-765b-4f6d-96ee-d6671e71624a.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108374",
@@ -79383,8 +79383,8 @@
       "brand": "Epson",
       "subcategory": "Papel",
       "description": "<p>🖨️ <strong>Marca:</strong> Epson</p>\n<p>📏 <strong>Tamaño:</strong> 4″ x 6″</p>\n<p>🖼️ <strong>Acabado:</strong> Gloss</p>\n<p>📦 <strong>Cantidad:</strong> 400 hojas</p>\n<p>🖨️ <strong>Uso:</strong> Fotográfico</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/c40d8a74-fba8-41da-92ef-9dc8e41387f0.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/c40d8a74-fba8-41da-92ef-9dc8e41387f0.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108375",
@@ -79431,8 +79431,8 @@
       "brand": "Epson",
       "subcategory": "Papel",
       "description": "<p>🏷️ <strong>Marca:</strong> Epson</p>\n<p>📸 <strong>Tipo:</strong> Papel fotográfico</p>\n<p>✨ <strong>Acabado:</strong> Luster</p>\n<p>📏 <strong>Tamaño:</strong> 4″ x 6″</p>\n<p>📦 <strong>Contenido:</strong> 400 hojas</p>\n<p>🔢 <strong>SKU:</strong> 108375</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/30263d17-7439-4423-ad87-491d6102fc1f-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/30263d17-7439-4423-ad87-491d6102fc1f-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108442",
@@ -79475,8 +79475,8 @@
       "brand": "Canon",
       "subcategory": "Papel",
       "description": "<p>📄 <strong>Tipo:</strong> Papel Fotográfico</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Mini Impresora Canon Ivy</p>\n<p>📏 <strong>Tamaño:</strong> 2.0 x 3.0 pulgadas</p>\n<p>📦 <strong>Cantidad:</strong> 20 hojas</p>\n<p>🧴 <strong>Tecnología:</strong> Zink (Zero Ink)</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/1da7f2c6-61ee-439f-8e08-583fe89eb2a8.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/1da7f2c6-61ee-439f-8e08-583fe89eb2a8.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108443",
@@ -79519,8 +79519,8 @@
       "brand": "Canon",
       "subcategory": "Papel",
       "description": "<p>📄 <strong>Formato:</strong> 5 x 7.6 cm</p>\n<p>📦 <strong>Cantidad:</strong> 50 hojas</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Canon Ivy Zink</p>\n<p>📑 <strong>Tipo:</strong> Papel fotográfico para impresión instantánea</p>\n<p>🎨 <strong>Uso:</strong> Impresión de fotos en formato tarjeta</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/7e30bc00-8307-4d6f-8721-c206d8648ff0.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/7e30bc00-8307-4d6f-8721-c206d8648ff0.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108444",
@@ -79563,8 +79563,8 @@
       "brand": "Canon",
       "subcategory": "Papel",
       "description": "<p>📄 <strong>Tipo:</strong> Papel Fotográfico Adhesivo</p>\n<p>🖨️ <strong>Marca:</strong> Canon</p>\n<p>📏 <strong>Tamaño:</strong> 2×3 Pulgadas</p>\n<p>📦 <strong>Cantidad:</strong> Paquete de 100 Hojas</p>\n<p>🖱️ <strong>Compatible Con:</strong> Canon Ivy 2 Zink</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/a79436a1-398e-42c2-b1ad-b4d9a17b7365.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/a79436a1-398e-42c2-b1ad-b4d9a17b7365.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000108583",
@@ -79607,8 +79607,8 @@
       "brand": "Epson",
       "subcategory": "Mantenimiento",
       "description": "<p>🏷️ <strong>Marca:</strong> Epson</p>\n<p>📦 <strong>SKU:</strong> 108583</p>\n<p>🛠️ <strong>Tipo de producto:</strong> Caja de mantenimiento</p>\n<p>📁 <strong>Categoría:</strong> Consumibles</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Epson SP3800 y SP3880</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/cf8bc5ae-34e1-4e26-8845-0ef0f924eb53.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/cf8bc5ae-34e1-4e26-8845-0ef0f924eb53.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109267",
@@ -79651,9 +79651,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Modelo:</strong> TM-U220II</p>\n<p>🎨 <strong>Color:</strong> Dark Gray</p>\n<p>🔌 <strong>Interfaz:</strong> Paralelo</p>\n<p>🔗 <strong>Puerto Caja Registradora:</strong> RJ12</p>\n<p>✂️ <strong>Auto-Cutter:</strong> No</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/7b88ed08-a1e9-4075-b9d6-94317175da87.png",
       "model": "TM-U220II",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/7b88ed08-a1e9-4075-b9d6-94317175da87.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109529",
@@ -79696,9 +79696,9 @@
       "brand": "Brother",
       "subcategory": "Rotuladoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Rotuladora de etiquetas</p>\n<p>⚙️ <strong>Modelo:</strong> PT-N10</p>\n<p>🎨 <strong>Color:</strong> Blanco</p>\n<p>🔤 <strong>Pantalla:</strong> LCD</p>\n<p>🔢 <strong>Funciones:</strong> Personalización de etiquetas</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/4c97351f-71ea-489d-b305-df2beb52cd38.png",
       "model": "PT-N10",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/4c97351f-71ea-489d-b305-df2beb52cd38.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109536",
@@ -79753,8 +79753,8 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🧵 <strong>Modelos de bordado:</strong> 135 diseños</p>\n<p>🪡 <strong>Formas de puntadas:</strong> 103 tipos</p>\n<p>📺 <strong>Pantalla:</strong> 3.2 x 1.8 pulgadas color</p>\n<p>📏 <strong>Área máxima de bordado:</strong> 4 x 4 pulgadas</p>\n<p>⚡ <strong>Velocidad:</strong> 710 puntadas por minuto</p>\n<p>🔤 <strong>Tipos de letras:</strong> 10</p>\n<p>📶 <strong>Conectividad:</strong> Wireless LAN integrado</p>\n<p>📱 <strong>Compatibilidad:</strong> App Artspira con 50 diseños descargables</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/1a348a43-0aff-467b-837f-2f87f6f52cc0.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/1a348a43-0aff-467b-837f-2f87f6f52cc0.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109537",
@@ -79809,8 +79809,8 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🖨️ <strong>Modelos de bordado:</strong> 135 diseños incluidos</p>\n<p>🖨️ <strong>Tipos de letras:</strong> 10 tipos disponibles</p>\n<p>🖨️ <strong>Pantalla:</strong> 3.7 pulgadas color</p>\n<p>🖨️ <strong>Área máxima de bordado:</strong> 4″ x 4″</p>\n<p>🖨️ <strong>Velocidad:</strong> 400 puntadas por minuto</p>\n<p>🖨️ <strong>Conectividad:</strong> Wireless LAN integrado</p>\n<p>🖨️ <strong>Compatibilidad:</strong> App Artspira con 50 diseños descargables</p>\n<p>🖨️ <strong>Función:</strong> Drag and drop</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/4fb1e4ef-0d9a-41c3-aca5-eb931f75c531.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/4fb1e4ef-0d9a-41c3-aca5-eb931f75c531.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109540",
@@ -79857,8 +79857,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>🖨️ <strong>Scanner integrado:</strong> Sí</p>\n<p>⚙️ <strong>Ajuste automático:</strong> cuchillas según grosor del material</p>\n<p>📱 <strong>Pantalla:</strong> 3.7 pulgadas</p>\n<p>🎨 <strong>Diseños incluidos:</strong> 250</p>\n<p>🌐 <strong>Conectividad:</strong> Wireless LAN</p>\n<p>💻 <strong>Software:</strong> gratis Artspira compatible con CanvasWorkspace</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/69f4f7ef-9269-45d6-ac4c-90629b8ac546-1.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/69f4f7ef-9269-45d6-ac4c-90629b8ac546-1.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109585",
@@ -79905,8 +79905,8 @@
       "brand": "Brother",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo:</strong> Impresora de sublimación</p>\n<p>🎨 <strong>Color:</strong> CMYK</p>\n<p>🔌 <strong>Conectividad:</strong> USB, Wifi</p>\n<p>🎯 <strong>Resolución máxima:</strong> 1200 × 2400 dpi</p>\n<p>🖋️ <strong>Cartuchos compatibles:</strong> SP01BKS / SP01CS / SP01MS / SP01YS</p>\n<p>📄 <strong>Incluye:</strong> Papel para sublimación</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3b411b23-140b-42b0-af74-3c04555a84c0.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3b411b23-140b-42b0-af74-3c04555a84c0.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109586",
@@ -79949,9 +79949,9 @@
       "brand": "Brother",
       "subcategory": "Cartuchos",
       "description": "<p>🖨️ <strong>Tipo:</strong> Cartucho de tinta negra</p>\n<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>🖨️ <strong>Modelo:</strong> SP01BKS</p>\n<p>🖨️ <strong>Uso:</strong> Sublimación</p>\n<p>🖨️ <strong>SKU:</strong> 109586</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/918f76c0-d264-4bea-aae9-6deec3cee327.png",
       "model": "SP01BKS",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/918f76c0-d264-4bea-aae9-6deec3cee327.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109587",
@@ -79994,9 +79994,9 @@
       "brand": "Brother",
       "subcategory": "Cartuchos",
       "description": "<p>🖨️ <strong>Color:</strong> Cyan</p>\n<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>🖨️ <strong>Modelo:</strong> SP01BKS</p>\n<p>🖨️ <strong>Tipo:</strong> Tinta de sublimación</p>\n<p>🖨️ <strong>Uso:</strong> Impresoras Brother</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/5d1c1975-692a-4b8d-a31f-275cf2091f03.png",
       "model": "SP01BKS",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/5d1c1975-692a-4b8d-a31f-275cf2091f03.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109588",
@@ -80039,9 +80039,9 @@
       "brand": "Brother",
       "subcategory": "Cartuchos",
       "description": "<p>🖨️ <strong>Tipo de tinta:</strong> Sublimación</p>\n<p>🎨 <strong>Color:</strong> Magenta</p>\n<p>🏷️ <strong>Marca:</strong> Brother</p>\n<p>🔢 <strong>Modelo:</strong> SP01MS</p>\n<p>📦 <strong>SKU:</strong> 109588</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/99a0b3cb-74c0-4420-9d67-e82c2420d785.png",
       "model": "SP01MS",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/99a0b3cb-74c0-4420-9d67-e82c2420d785.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109589",
@@ -80084,9 +80084,9 @@
       "brand": "Brother",
       "subcategory": "Cartuchos",
       "description": "<p>🖨️ <strong>Color:</strong> Yellow</p>\n<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>🖨️ <strong>Modelo:</strong> SP01YS</p>\n<p>🖨️ <strong>Tipo:</strong> Cartucho de tinta</p>\n<p>🖨️ <strong>Uso:</strong> Sublimación</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/12745f05-498a-4482-bbd2-3e1690b96dcd.png",
       "model": "SP01YS",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/12745f05-498a-4482-bbd2-3e1690b96dcd.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109590",
@@ -80129,9 +80129,9 @@
       "brand": "Brother",
       "subcategory": "Papel",
       "description": "<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>📄 <strong>Tipo de producto:</strong> Papel de sublimación</p>\n<p>🔢 <strong>Modelo:</strong> SP01PL</p>\n<p>🎨 <strong>Uso:</strong> Sublimación</p>\n<p>🆔 <strong>SKU:</strong> 109590</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/f330f27e-3b2c-487a-8b24-7db31779917c.png",
       "model": "SP01PL",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/f330f27e-3b2c-487a-8b24-7db31779917c.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109591",
@@ -80178,8 +80178,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> máquinas Brother ScanNCut DX</p>\n<p>⚙️ <strong>Ajuste automático:</strong> profundidad según grosor del material</p>\n<p>📏 <strong>Grosor máximo de corte:</strong> 3.0 mm</p>\n<p>🧩 <strong>Materiales compatibles:</strong> papel, cartulina, vinilo, planchas termoadhesivas, tela con soporte, fieltro</p>\n<p>🎨 <strong>Color:</strong> plateado/negro</p>\n<p>🔧 <strong>Requiere soporte:</strong> Auto Blade (no incluido)</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/2eb1e775-f2f8-431f-8da5-56155bb333dd.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/2eb1e775-f2f8-431f-8da5-56155bb333dd.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109592",
@@ -80226,8 +80226,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Máquinas Brother ScanNCut DX</p>\n<p>⚙️ <strong>Tipo de corte:</strong> Vinilo y planchas termoadhesivas delgadas (HTV)</p>\n<p>🔧 <strong>Ajuste:</strong> Automático de profundidad según grosor del material</p>\n<p>🎯 <strong>Precisión:</strong> Cortes precisos y limpios en materiales finos</p>\n<p>🎨 <strong>Color:</strong> Plateado/negro</p>\n<p>📦 <strong>Requiere:</strong> Soporte Auto Blade (no incluido)</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/a837dd05-6c2b-4992-a6e5-0d5a1fa957bd.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/a837dd05-6c2b-4992-a6e5-0d5a1fa957bd.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109621",
@@ -80270,8 +80270,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>🖨️ <strong>Marca:</strong> Brother</p>\n<p>⚙️ <strong>Tipo:</strong> Tapete de corte adhesivo</p>\n<p>📏 <strong>Tamaño:</strong> Estándar 24</p>\n<p>🎯 <strong>Compatibilidad:</strong> Máquinas de corte y escaneo ScanNCut DX</p>\n<p>🔧 <strong>Uso:</strong> Corte y escaneo preciso</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/e50817b9-a472-4825-a30d-fdd5514fab22.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/e50817b9-a472-4825-a30d-fdd5514fab22.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109623",
@@ -80314,8 +80314,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>📏 <strong>Dimensiones:</strong> 12″ x 24″ (30.5 x 61 cm)</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Máquinas de corte y escaneo ScanNCut DX</p>\n<p>🔧 <strong>Tipo:</strong> Tapete de corte adhesivo</p>\n<p>🧲 <strong>Adherencia:</strong> Baja adherencia</p>\n<p>🎯 <strong>Marca:</strong> Brother</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/8df064ff-ab52-4570-8971-2593bf8ab47b.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/8df064ff-ab52-4570-8971-2593bf8ab47b.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109624",
@@ -80358,8 +80358,8 @@
       "brand": "Brother",
       "subcategory": "Corte y accesorios",
       "description": "<p>📏 <strong>Dimensiones:</strong> 12″ x 12″</p>\n<p>✂️ <strong>Área de corte:</strong> 11.7″ x 11.7″</p>\n<p>🖥️ <strong>Compatibilidad:</strong> Máquina Brother DesignNCut</p>\n<p>🔧 <strong>Función:</strong> Superficie estable y precisa para corte</p>\n<p>🎨 <strong>Uso:</strong> Compatible con función CaptureMat para proyectos creativos</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3781d5e8-bf8b-4be7-a825-7024a9388a3b.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3781d5e8-bf8b-4be7-a825-7024a9388a3b.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109625",
@@ -80402,9 +80402,9 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🏷️ <strong>Marca:</strong> Brother</p>\n<p>🆔 <strong>Modelo:</strong> PE900</p>\n<p>⚙️ <strong>Tipo:</strong> Máquina de bordar doméstica</p>\n<p>🧵 <strong>Aplicación:</strong> Proyectos de bordado en hogares y estudios creativos</p>\n<p>🔢 <strong>SKU:</strong> 109625</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/f2285b08-3f5a-46ee-8b86-9229145e4c15.png",
       "model": "PE900",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/f2285b08-3f5a-46ee-8b86-9229145e4c15.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109626",
@@ -80447,9 +80447,9 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🧵 <strong>Tipo:</strong> Máquina de coser doméstica</p>\n<p>⚙️ <strong>Modelo:</strong> JS60</p>\n<p>🏷️ <strong>Marca:</strong> Brother</p>\n<p>🔧 <strong>Uso:</strong> Labores básicas de costura y remiendos</p>\n<p>📦 <strong>SKU:</strong> 109626</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/932d6b8e-5344-4c3b-bb75-e03c0722bad9.png",
       "model": "JS60",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/932d6b8e-5344-4c3b-bb75-e03c0722bad9.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109627",
@@ -80492,9 +80492,9 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🧵 <strong>Modelo:</strong> JS2135</p>\n<p>📏 <strong>Dimensiones:</strong> 39 cm (ancho) × 14 cm (profundidad) × 31 cm (alto)</p>\n<p>🪡 <strong>Puntadas integradas:</strong> 14</p>\n<p>🏠 <strong>Uso:</strong> proyectos de costura básica, remiendos y manualidades</p>\n<p>⚙️ <strong>Tipo:</strong> doméstica</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/c4c2046b-d591-43ef-8d0a-9343046ef6c0.png",
       "model": "JS2135",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/c4c2046b-d591-43ef-8d0a-9343046ef6c0.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109628",
@@ -80537,9 +80537,9 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🧵 <strong>Tipo:</strong> Máquina de coser doméstica</p>\n<p>⚙️ <strong>Modelo:</strong> Brother JX3135F</p>\n<p>🔢 <strong>Puntadas:</strong> 17</p>\n<p>🎯 <strong>Uso:</strong> Proyectos de costura cotidianos</p>\n<p>👗 <strong>Diseño:</strong> Para principiantes</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/80b8e0e4-d443-46ea-8ee3-24d40b976eaf.png",
       "model": "Brother JX3135F",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/80b8e0e4-d443-46ea-8ee3-24d40b976eaf.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109663",
@@ -80582,9 +80582,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Modelo:</strong> TM-T20IV-SP</p>\n<p>🔌 <strong>Conectividad:</strong> USB, Serial, Ethernet</p>\n<p>⚡ <strong>Tipo:</strong> Impresora térmica</p>\n<p>📏 <strong>Uso:</strong> Punto de venta</p>\n<p>🛠️ <strong>Marca:</strong> Epson</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0e633d38-9e43-4a09-964a-8128f63642b3.png",
       "model": "TM-T20IV-SP",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0e633d38-9e43-4a09-964a-8128f63642b3.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109665",
@@ -80631,9 +80631,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo De Impresora:</strong> Matricial De Impacto A Matriz De Puntos</p>\n<p>🔢 <strong>Pines:</strong> 9</p>\n<p>⚡ <strong>Velocidad:</strong> Hasta 8.8 Lps</p>\n<p>🔌 <strong>Interfaz:</strong> Usb</p>\n<p>✂️ <strong>Función:</strong> Auto Cutter</p>\n<p>📄 <strong>Modelo:</strong> TM-U220IID</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0af53f47-0c46-419d-9229-80b1b6c1eb90-1.png",
       "model": "TM-U220IID",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/0af53f47-0c46-419d-9229-80b1b6c1eb90-1.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109668",
@@ -80676,8 +80676,8 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo de impresión:</strong> Impacto a matriz de puntos (9 pines)</p>\n<p>🎨 <strong>Color de impresión:</strong> Bicolor (negro/rojo)</p>\n<p>🔗 <strong>Interfaz:</strong> Serial</p>\n<p>⚡ <strong>Velocidad de impresión:</strong> Hasta ~8.8 líneas por segundo</p>\n<p>✂️ <strong>Incluye:</strong> Auto cutter, rollo de papel y cinta</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/71bf514a-285a-4778-94e2-457b0a9cb7fd.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/71bf514a-285a-4778-94e2-457b0a9cb7fd.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109753",
@@ -80728,8 +80728,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>💡 <strong>Brillo:</strong> 3600 lumen color y blanco</p>\n<p>🖥️ <strong>Resolucion:</strong> 1024 x 768 XGA</p>\n<p>🔌 <strong>Entradas:</strong> 1x HDMI, 1x VGA, 1x USB B</p>\n<p>🔋 <strong>Vida Util Lampara:</strong> Hasta 12,000 horas en modo eco</p>\n<p>🔊 <strong>Altavoz:</strong> Integrado</p>\n<p>💻 <strong>Compatibilidad:</strong> PC y Mac</p>\n<p>🖥️ <strong>Tecnologia:</strong> 3LCD</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/23c81a12-e0f7-4609-ab42-fb0aff9a5b85.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/23c81a12-e0f7-4609-ab42-fb0aff9a5b85.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109905",
@@ -80772,8 +80772,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>💡 <strong>Fuente De Luz:</strong> Láser</p>\n<p>📊 <strong>Resolución:</strong> 1080p (1920×1080)</p>\n<p>🔆 <strong>Brillo:</strong> 4100 lúmenes</p>\n<p>🎥 <strong>Tecnología:</strong> 3LCD</p>\n<p>🎯 <strong>Enfoque:</strong> Automático</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/2dfa501c-b679-421f-abdb-ceb464fdfe23.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/2dfa501c-b679-421f-abdb-ceb464fdfe23.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000109992",
@@ -80816,8 +80816,8 @@
       "brand": "Canon",
       "subcategory": "Cartuchos",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Maxify G1500, G2500, G3500, G4200, G6100, G7100</p>\n<p>🖋️ <strong>Color:</strong> Negro</p>\n<p>🔧 <strong>Incluye:</strong> Cartucho Gi-16 y cabezal Ph-s</p>\n<p>📦 <strong>Tipo:</strong> Cartucho de tinta con cabezal integrado</p>\n<p>🧴 <strong>Uso:</strong> Reemplazo para impresión en impresoras Canon Maxify</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/fbc05800-e7e6-437a-9450-b80a0d2b601c.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/fbc05800-e7e6-437a-9450-b80a0d2b601c.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110008",
@@ -80868,9 +80868,9 @@
       "brand": "Epson",
       "subcategory": "Impresoras",
       "description": "<p>🏷️ <strong>Marca:</strong> Epson</p>\n<p>📦 <strong>Modelo:</strong> TM-P8011 Plus</p>\n<p>🖨️ <strong>Tipo de tecnología:</strong> Térmica</p>\n<p>📐 <strong>Ancho de papel:</strong> 3 pulgadas</p>\n<p>🔌 <strong>Conectividad:</strong> Bluetooth</p>\n<p>📱 <strong>Compatibilidad:</strong> Smartphones, tablets y sistemas móviles</p>\n<p>🔢 <strong>SKU:</strong> 110008</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/88fd9ed5-5327-4390-9621-adf484b36c94.png",
       "model": "TM-P8011 Plus",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/88fd9ed5-5327-4390-9621-adf484b36c94.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110197",
@@ -80913,9 +80913,9 @@
       "brand": "Canon",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Modelo:</strong> MC-G05</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon Serie G</p>\n<p>🖨️ <strong>Tipo:</strong> Cartucho De Mantenimiento</p>\n<p>🖨️ <strong>SKU:</strong> 110197</p>\n<p>🖨️ <strong>Función:</strong> Mantenimiento Preventivo</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/cartucho-de-mantenimiento-canon-mc-g05-para-impresoras-serie-g.webp",
       "model": "MC-G05",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/cartucho-de-mantenimiento-canon-mc-g05-para-impresoras-serie-g.webp"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110198",
@@ -80954,9 +80954,9 @@
       "brand": "Canon",
       "subcategory": "Mantenimiento",
       "description": "<p>🖨️ <strong>Compatibilidad:</strong> Impresoras Canon serie G</p>\n<p>🧴 <strong>Tipo:</strong> Cartucho de mantenimiento</p>\n<p>🔧 <strong>Modelo:</strong> MC-G07</p>\n<p>📦 <strong>SKU:</strong> 110198</p>",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/1e3b46a2-0e73-4cad-ad3d-d13df67608f5.png",
       "model": "MC-G07",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/1e3b46a2-0e73-4cad-ad3d-d13df67608f5.png"
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110530",
@@ -81019,8 +81019,8 @@
       "brand": "Brother",
       "subcategory": "Costura y bordado",
       "description": "<p>🖨️ <strong>Diseños incorporados:</strong> 258</p>\n<p>🖨️ <strong>Patrones de marcos:</strong> 140</p>\n<p>🖨️ <strong>Tipos de letras:</strong> 13</p>\n<p>🖨️ <strong>Pantalla:</strong> táctil LCD a color de 4.85″</p>\n<p>🖨️ <strong>Área máxima de bordado:</strong> 6″ x 10″</p>\n<p>🖨️ <strong>Velocidad:</strong> hasta 850 puntadas por minuto (SPM)</p>\n<p>🖨️ <strong>Iluminación:</strong> LED</p>\n<p>🖨️ <strong>Sistema de corte de hilo:</strong> automático</p>\n<p>🖨️ <strong>Conectividad:</strong> inalámbrica (wireless)</p>\n<p>🖨️ <strong>Compatibilidad:</strong> transferencia de diseños y aplicaciones como Artspira</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/7ec553a7-c472-45d6-b6fb-ea67141b7614.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/7ec553a7-c472-45d6-b6fb-ea67141b7614.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110668",
@@ -81071,8 +81071,8 @@
       "brand": "Epson",
       "subcategory": "Proyectores",
       "description": "<p>🖨️ <strong>Tecnología:</strong> 3LCD</p>\n<p>💡 <strong>Brillo blanco:</strong> 4000 lúmenes</p>\n<p>🌈 <strong>Brillo color:</strong> 4000 lúmenes</p>\n<p>📺 <strong>Resolución:</strong> WXGA (1280 x 800)</p>\n<p>🔌 <strong>Entradas HDMI:</strong> 2</p>\n<p>🔌 <strong>Puertos USB:</strong> USB-A x1, USB-B x1</p>\n<p>⏳ <strong>Vida útil lámpara:</strong> 12,000 horas</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3208c164-f52e-44db-924f-2d199be4a98d.png"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/3208c164-f52e-44db-924f-2d199be4a98d.png",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     },
     {
       "id": "800000110931",
@@ -81131,9 +81131,9 @@
       "brand": "Canon",
       "subcategory": "Impresoras",
       "description": "<p>🖨️ <strong>Tipo de dispositivo:</strong> Multifuncional láser 3 en 1 (Impresión, copiado y escaneo)</p>\n<p>⚡ <strong>Velocidad de impresión:</strong> Hasta 45 ppm en blanco y negro</p>\n<p>🎯 <strong>Resolución de impresión:</strong> Hasta 1,200 x 1,200 dpi</p>\n<p>📄 <strong>Alimentador de documentos:</strong> Automático (ADF)</p>\n<p>📥 <strong>Capacidad de papel:</strong> Hasta 650 hojas estándar</p>\n<p>📏 <strong>Tamaño máximo de documento:</strong> Carta y Oficio / Legal</p>\n<p>🖥️ <strong>Pantalla:</strong> Táctil a color</p>\n<p>🔌 <strong>Conectividad:</strong> USB de alta velocidad, Red Gigabit Ethernet e inalámbrica (según configuración)</p>\n<p>📱 <strong>Compatibilidad:</strong> Impresión móvil para entornos empresariales de alto volumen</p>",
-      "specificationsUpdated": "2026-10-29T04:49:23+00:00",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/82152854-bddd-469b-9613-8101c14a30cf.webp"
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/82152854-bddd-469b-9613-8101c14a30cf.webp",
+      "specificationsUpdated": "2026-10-29T04:49:23+00:00"
     }
   ],
-  "updated": "2026-10-29T04:49:23+00:00"
+  "updated": "2026-10-29T05:02:20+00:00"
 }
