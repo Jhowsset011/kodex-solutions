@@ -11,12 +11,34 @@ from catalog_markup import description_text
 
 ROOT=Path(__file__).resolve().parents[1]
 # Public leaf categories from Omega's navigation. Gaming and domestic goods are excluded.
+FULL_PRINTING_BRANDS = ('Epson', 'Brother', 'Canon')
+
+def printing_brand(source):
+    """Prefer explicit manufacturer metadata, then the product title."""
+    brands = [normalized(b.get('name','')) for b in source.get('brands', [])]
+    for brand in FULL_PRINTING_BRANDS:
+        if normalized(brand) in brands:return brand
+    if brands and not set(brands) <= {'generico','otros','sin marca'}:return None
+    name = normalized(description_text(source.get('name','')))
+    return next((brand for brand in FULL_PRINTING_BRANDS if re.search(r'(?<!\w)'+normalized(brand)+r'(?!\w)', name)), None)
+
 OMEGA_CATEGORIES=(217,142,141,175,12,35,57,62,117,167,218,173,209,208,214,61,174,169,115,114,168,212,206,131,100,200,202,207,130,129,101,43,118,98,201,82,36,170,160,162,161,68,48,220,24,139,180,179)
 
 def business_category(source):
     name=normalized(description_text(source.get('name','')))
     if re.search(r'\b(gamer|gaming|rgb|geforce|radeon|playstation|xbox|joystick|refurbished|refurbish|reacondicionado|reacondicionada)\b',name):return None
     cats=' '.join(normalized(c.get('name',''))+' '+urlsplit(c.get('link','')).path for c in source.get('categories',[]))
+    brand = printing_brand(source)
+    if brand:
+        if re.search(r'coser|bordado|bordar',name):return ('Creación y personalización','Costura y bordado')
+        if re.search(r'maquina de corte|tapete|cuchilla',name):return ('Creación y personalización','Corte y accesorios')
+        if re.search(r'caja (?:de )?mantenimiento|cartucho (?:de )?mantenimiento|deposito (?:de )?residuos',name):return ('Impresión','Mantenimiento')
+        if re.search(r'papel|^resma',name):return ('Impresión','Papel')
+        if re.search(r'cabezal',name) and not name.startswith('cartucho'):return ('Impresión','Cabezales')
+        if re.search(r'^bandeja',name):return ('Impresión','Accesorios y suministros')
+        if re.search(r'proyector|proyeccion',name):return ('Oficina','Proyectores')
+        if re.search(r'^camara(?: fotografica| digital)?\b|^kit (?:de )?camara\b|\beos\b|powershot',name):return ('Oficina','Fotografía')
+        if re.search(r'rotulador|etiquetador',name):return ('Impresión','Rotuladoras')
     if 'cricut' in name or '/cricut/' in cats:return ('Cricut','Máquinas y herramientas' if re.search(r'maquina|prensa|maker|joy|explore|easypress',name) else 'Materiales y accesorios')
     rules=[
       (r'impres|toner|cartucho|tinta|scanner|scaner|escaner|designjet|etiqueta|\bplotter\b','Impresión'),
@@ -47,6 +69,7 @@ def business_category(source):
     for text in (name,cats):
       for pattern,category in rules:
         if re.search(pattern,text):return category,leaf_for(category)
+    if brand:return ('Impresión','Accesorios y suministros')
     return None
 
 def parse_listing(body,page):
@@ -78,6 +101,34 @@ def parse_listing(body,page):
       products[ref]=title
     return products,pages,total,last
 
+def omega_brand_inventory(context, limiter, snapshot_dir=None):
+    """Cover all pages of exact manufacturer searches, beyond category menus."""
+    from collect_omega_brands import resolve_brand_filter
+    inventory = {}
+    for brand in FULL_PRINTING_BRANDS:
+        discovery_url = BASE_URL + '/es/product/search?' + urlencode({'Terms': brand})
+        body = read_public_url(discovery_url, context=context, limiter=limiter)
+        filters = resolve_brand_filter(body, brand.upper())
+        if snapshot_dir:(Path(snapshot_dir) / f'{brand}-filter.html').write_bytes(body)
+        page, pages, expected = 1, None, None
+        found = {}
+        while pages is None or page <= pages:
+            url = BASE_URL + '/es/product/search?' + urlencode({
+                'Terms': brand, 'page': page, 'type': 'grid', 'sort': 'NAS',
+                'show': 100, 'brands': filters}, doseq=True)
+            body = read_public_url(url, context=context, limiter=limiter)
+            if snapshot_dir:(Path(snapshot_dir) / f'{brand}-{page}.html').write_bytes(body)
+            rows, count, total, last = parse_listing(body, page)
+            if pages is not None and (pages, expected) != (count, total):
+                raise ValueError('La búsqueda de marca cambió durante la lectura')
+            pages, expected = count, total
+            found.update(rows)
+            page += 1
+        if not found:raise ValueError('Omega devolvió una marca vacía: ' + brand)
+        inventory.update(found)
+        print(f'Omega marca {brand}: {len(found)} referencias', flush=True)
+    return inventory
+
 def omega_inventory(snapshot_dir=None):
     context=_default_context()  # Verified HTTPS; works with system and proxy roots.
     limiter=_RateLimiter(0.5)
@@ -96,6 +147,7 @@ def omega_inventory(snapshot_dir=None):
     inventory={}
     with ThreadPoolExecutor(max_workers=2) as pool:
       for rows in pool.map(category,OMEGA_CATEGORIES):inventory.update(rows)
+    inventory.update(omega_brand_inventory(context, limiter, snapshot_dir))
     if len(inventory)<100:raise ValueError('Inventario empresarial Omega incompleto')
     return inventory
 
@@ -113,6 +165,7 @@ def classify_business(product,source):
     if product['brand'] in ('Genérico','Otros'):
         for brand in ('Acer','Ezviz','Xiaomi','Mercusys','Zebra','Honeywell','Epson','Canon','Brother','Cricut'):
             if re.search(r'(?<!\w)'+re.escape(brand)+r'(?!\w)',product['name'],re.I):product['brand']=brand;break
+    if printing_brand(source):product['brand']=printing_brand(source)
     if scope[0]=='Cricut':product['brand']='Cricut'
     product.pop('collections',None)
     return product
