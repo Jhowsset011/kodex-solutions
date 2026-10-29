@@ -19,6 +19,22 @@ class PrintingBrandTests(unittest.TestCase):
   self.assertEqual(business_category({'name':'Caja de mantenimiento Epson para impresora F170'}),('Impresión','Mantenimiento'))
   self.assertEqual(business_category({'name':'Máquina de coser Brother JX3135F'}),('Creación y personalización','Costura y bordado'))
   self.assertEqual(business_category({'name':'Proyector Epson PowerLite'}),('Oficina','Proyectores'))
+ def test_printer_type_takes_precedence_over_ink_in_its_title(self):
+  names=('Impresora Epson SureColor T3170X Tanque De Tinta',
+         'Impresora Epson SureColor F170 Tinta de Sublimación',
+         'Impresora Brother MFC-T930DW Multifuncional Tinta a Color',
+         'Multifuncional Láser Monocromático Brother MFC-L6915DW')
+  for name in names:
+   with self.subTest(name=name):self.assertEqual(business_category({'name':name}),('Impresión','Impresoras'))
+ def test_printer_compatibility_does_not_turn_ribbons_into_printers(self):
+  names=('Cinta para impresora Epson FX-890',
+         'Cinta Epson ERC-27B Ink Ribbon Cartridge Black',
+         'Impresora Epson FX-890II 10.1 Pulg Ribbon Cartridge S015329')
+  for name in names:
+   with self.subTest(name=name):self.assertEqual(business_category({'name':name}),('Impresión','Cintas'))
+ def test_printer_power_supplies_and_connectors_are_accessories(self):
+  for name in ('Fuente De Poder Epson PS-180 Para Impresoras','Conector De Bandeja Brother TC4100 Para Impresoras'):
+   with self.subTest(name=name):self.assertEqual(business_category({'name':name}),('Impresión','Accesorios y suministros'))
  def test_brand_search_uses_filter_and_every_page(self):
   responses=[b'filter',b'page1',b'page2']
   with patch('solutions_scope.FULL_PRINTING_BRANDS',('Epson',)),patch('collect_omega_brands.resolve_brand_filter',return_value=['62']),patch('solutions_scope.read_public_url',side_effect=responses) as read,patch('solutions_scope.parse_listing',side_effect=[({'1':'Printer'},2,101,100),({'2':'Supply'},2,101,101)]):

@@ -30,6 +30,10 @@ def business_category(source):
     cats=' '.join(normalized(c.get('name',''))+' '+urlsplit(c.get('link','')).path for c in source.get('categories',[]))
     brand = printing_brand(source)
     if brand:
+        # Identify the item being sold before words describing its consumables
+        # or compatibility (a printer with ink is still a printer).
+        if re.search(r'^cintas?\b|\bribbon cartridge\b|\bink ribbon\b',name):return ('Impresión','Cintas')
+        if re.search(r'^(?:impresora|multifuncional|plotter|fotocopiadora)\b',name):return ('Impresión','Impresoras')
         if re.search(r'coser|bordado|bordar',name):return ('Creación y personalización','Costura y bordado')
         if re.search(r'maquina de corte|tapete|cuchilla',name):return ('Creación y personalización','Corte y accesorios')
         if re.search(r'caja (?:de )?mantenimiento|cartucho (?:de )?mantenimiento|deposito (?:de )?residuos',name):return ('Impresión','Mantenimiento')
@@ -53,7 +57,7 @@ def business_category(source):
     if re.search(r'camara web',name):return ('Accesorios de oficina','Videoconferencia')
     def leaf_for(category):
       rules_by_category={
-       'Impresión':[(r'toner','Tóner'),(r'cartucho','Cartuchos'),(r'tinta','Tintas'),(r'scanner|scaner|escaner','Escáneres'),(r'papel','Papel'),(r'impresora|plotter|designjet','Impresoras')],
+       'Impresión':[(r'toner','Tóner'),(r'cartucho','Cartuchos'),(r'tinta','Tintas'),(r'scanner|scaner|escaner','Escáneres'),(r'papel','Papel'),(r'^(?:impresora|multifuncional|plotter|fotocopiadora)\b','Impresoras')],
        'Energía':[(r'ups','UPS'),(r'bateria','Baterías'),(r'regulador','Reguladores'),(r'regleta','Regletas')],
        'Seguridad':[(r'camara','Cámaras'),(r'dvr|nvr','Grabadores'),(r'alarma','Alarmas'),(r'videoportero','Videoporteros')],
        'Computación':[(r'laptop|notebook','Laptops'),(r'monitor','Monitores'),(r'servidor','Servidores'),(r'computadora|desktop|mini pc|todo en uno','Computadoras')],
