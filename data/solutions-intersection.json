@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-10-29T05:02:20+00:00",
+  "verifiedAt": "2026-10-29T16:33:47+00:00",
   "references": {
     "104746": {
       "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA HIKVISION, ANALOGA, DOMO (TURRET), SMART HYBRID LIGHT, 3K , MICROFONO.",
@@ -1296,11 +1296,6 @@
       "nexcomTitle": "Silla De Escritorio Myo Sit-Sec35Bk Malla Negra",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110953"
     },
-    "109915": {
-      "omegaTitle": "MYO - ESCRITORIO MYO DE ALTURA AJUSTABLE CON MARCO ELECTRICO MYO COLOR BLANCO",
-      "nexcomTitle": "Escritorio Eléctrico Ajustable Myo Blanco 120X60Cm Sit-Delectw",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/109915"
-    },
     "91453": {
       "omegaTitle": "MYO - SILLA DE SECRETARIA, CON BRAZOS, TELA, ALTURA ALTA, CONTROL NEUMÁTICO DE GRAN ALTURA, BASE METALICA CROMADA, COLOR NEGRO.",
       "nexcomTitle": "Silla De Secretaría Myo Con Brazos Y Base Cromada",
@@ -1525,11 +1520,6 @@
       "omegaTitle": "Lenovo Refurbish - COMPUTADORA LENOVO REFURBISHED THINKCENTER SFF M910S",
       "nexcomTitle": "Computadora Lenovo Thinkcentre M910S I5-6500 8Gb 256Gb SSD Windows 10 Pro",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110010"
-    },
-    "71108": {
-      "omegaTitle": "HP - TONER 80A - CF280A - NEGRO",
-      "nexcomTitle": "Toner Negro Hp 80A Cf280A 2700 Páginas Laserjet Pro 400 M401 M425",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/71108"
     },
     "109145": {
       "omegaTitle": "HP Refurbish - COMPUTADORA HP REFURBISHED PRODESK 600 G4 SFF",
@@ -1795,11 +1785,6 @@
       "omegaTitle": "Lenovo Refurbish - COMPUTADORA LENOVO REFURBISHED MODEL THINKCENTRE M70Q MFF",
       "nexcomTitle": "Computadora Lenovo Thinkcentre M70Q Mff Intel Core I5-12500T 8Gb 256Gb SSD",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/107105"
-    },
-    "96571": {
-      "omegaTitle": "Seagate - DISCO DURO 8TB P/VIDEOVIGILANCIA SKYHAWK INTERNO SATA 6 GB/S, 3.5\", 7200RPM, .",
-      "nexcomTitle": "Disco Duro Interno 8Tb Seagate Skyhawk Sata 6 Gb/S 7200Rpm 3.5″",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/96571"
     },
     "61906": {
       "omegaTitle": "Nexxt Infrastructure - ROLLO DE CABLE UTP, CAT6, 1000 PIES, AZUL.",
@@ -2080,11 +2065,6 @@
       "omegaTitle": "HIKVISION - NVR (8K), 8 CANALES IP, 8 PUERTOS POE+, ACUSENSE",
       "nexcomTitle": "NVR 8 Canales IP Hikvision 8K Acusense Reconocimiento Facial Poe+",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/109120"
-    },
-    "94606": {
-      "omegaTitle": "Epson - BOLSA DE TINTA T11A MAGENTA",
-      "nexcomTitle": "Bolsa De Tinta Magenta Epson T11A Compatible C5310 C5390 C5810 C5890 5000 Páginas",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/94606"
     },
     "104973": {
       "omegaTitle": "HP - IMPRESORA OFFICEJET 9730 WIDE FORMAT ALL-IN-ONE - MULTIFUNCTION PRINTER (PRINTER - COPY - SCANNER) ADF - COLOR - INK-JET - LEDGER/A3 (11.7 IN X 17 IN) (ORIGINAL) - 1200 X 1200 DPI (MEDIA) - UP TO 22 PPM (COPYING) - UP TO 18 PPM (PRINTING) - TOUCH SCREEN SRGB - 250 SHEETS - LAN, WI-FI AC, USB HOST, USB 2.0. UTILIZA LOS CARTUCHOS HP 938 BLACK - CYAN - YELLOW - MAGENTA - WOLF PRO SECURITY",
@@ -5281,11 +5261,6 @@
       "nexcomTitle": "Disco Duro Seagate 500GB Interno Sata 3.0GB/S 3.5 Pull Out",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/87602"
     },
-    "87559": {
-      "omegaTitle": "HP - TONER 105A - W1105A - NEGRO",
-      "nexcomTitle": "Toner Hp 105A W1105A Negro 1000 Paginas Laserjet",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/87559"
-    },
     "87557": {
       "omegaTitle": "HIKVISION - CONECTOR DC DE 3.5\" A 12V JR.53, PARA CAMARAS DE SEGURIDAD (JR-53)",
       "nexcomTitle": "Conector Dc Hembra Jr.53 3.5″ 12V Para Camaras De Seguridad",
@@ -8350,6 +8325,31 @@
       "omegaTitle": "Canon - IMPRESORA LÁSER MULTIFUNCIONAL CANON IMAGEFORCE 1643 (7064C002AA), 3 EN 1 (IMPRESIÓN, COPIADO Y ESCANEO).",
       "nexcomTitle": "Impresora Multifuncional Láser Canon Imageforce 1643",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110931"
+    },
+    "79090": {
+      "omegaTitle": "Apc - UPS SMART-UPS SRT 3.0KVA(3000VA) SRT3000XLA",
+      "nexcomTitle": "UPS Apc Smart-UPS Srt 3.0Kva(3000VA), 2.7 Kwatts, 120V, Input 120V / Output 120V , Interface Rj-45 Serial , Smart-Slot , USB.",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/79090"
+    },
+    "93053": {
+      "omegaTitle": "HP - TONER HP - 151A - W1510A - NEGRO",
+      "nexcomTitle": "Toner Negro Hp 151A W1510A 3050 Páginas Laserjet 4003 4102 4103",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/93053"
+    },
+    "96318": {
+      "omegaTitle": "HP - IMPRESORA LASERJET MFP M141W MULTIFUNCTION PRINTER - B/W - LASER - WIRELESS - (COPIER / PRINTER / SCAN) - LEGAL (8.5 IN X 14 IN) (ORIGINAL) - LEGAL (216 X 356 MM), A4 (210 X 297 MM) (MEDIA) - UP TO 20 PPM (COPYING) - UP TO 20 PPM (PRINTING) - 150 SHEETS - USB 2.0, (7MD74A), (TONER W1500A HP 150A)",
+      "nexcomTitle": "Impresora Multifuncional HP LaserJet MFP M141w Blanco y Negro Láser con WiFi y USB",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/96318"
+    },
+    "107137": {
+      "omegaTitle": "Brother - SCANNER BROTHER DS-740D, COMPACTO DUPLEX",
+      "nexcomTitle": "Scanner Brother Ds-740D Compacto Dúplex USB 30 Ppm",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/107137"
+    },
+    "110067": {
+      "omegaTitle": "Msi - MONITOR MSI PRO MP273W E14A, 27\", 144 HZ, IPS FLAT, HD",
+      "nexcomTitle": "Monitor MSI PRO MP273W E14A 27″ IPS FHD 144Hz Blanco FreeSync EyeErgo",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/110067"
     }
   }
 }
