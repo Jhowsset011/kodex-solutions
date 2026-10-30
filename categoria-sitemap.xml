@@ -88,9 +88,6 @@
     <loc>https://solutions.kodex.com.do/categoria/impresion-tintas/</loc>
   </url>
   <url>
-    <loc>https://solutions.kodex.com.do/categoria/impresion-accesorios-y-suministros/</loc>
-  </url>
-  <url>
     <loc>https://solutions.kodex.com.do/categoria/accesorios-de-oficina-mouse/</loc>
   </url>
   <url>
@@ -104,9 +101,6 @@
   </url>
   <url>
     <loc>https://solutions.kodex.com.do/categoria/impresion-escaneres/</loc>
-  </url>
-  <url>
-    <loc>https://solutions.kodex.com.do/categoria/energia-baterias/</loc>
   </url>
   <url>
     <loc>https://solutions.kodex.com.do/categoria/impresion-mantenimiento/</loc>
@@ -127,7 +121,13 @@
     <loc>https://solutions.kodex.com.do/categoria/accesorios-de-oficina-software/</loc>
   </url>
   <url>
+    <loc>https://solutions.kodex.com.do/categoria/energia-baterias/</loc>
+  </url>
+  <url>
     <loc>https://solutions.kodex.com.do/categoria/impresion-cintas/</loc>
+  </url>
+  <url>
+    <loc>https://solutions.kodex.com.do/categoria/impresion-accesorios-y-suministros/</loc>
   </url>
   <url>
     <loc>https://solutions.kodex.com.do/categoria/computacion-accesorios-y-suministros/</loc>

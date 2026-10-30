@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-10-29T16:33:47+00:00",
+  "verifiedAt": "2026-10-30T16:25:21+00:00",
   "references": {
     "104746": {
       "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA HIKVISION, ANALOGA, DOMO (TURRET), SMART HYBRID LIGHT, 3K , MICROFONO.",
@@ -215,11 +215,6 @@
       "omegaTitle": "Dell Refurbish - COMPUTADORA DELL REFURBISHED OPTIPLEX 3080 MFF",
       "nexcomTitle": "Computadora Dell Optiplex 3080 Mff I3-10500T 16Gb Ram 240Gb SSD",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/109139"
-    },
-    "106891": {
-      "omegaTitle": "Dell Refurbish - COMPUTADORA DELL REFURBISHED OPTIPLEX 5060 MFF",
-      "nexcomTitle": "Computadora Dell Optiplex 5060 Mff I5-8600T 8Gb 240Gb SSD",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/106891"
     },
     "111473": {
       "omegaTitle": "MAQUINA DE CORTE CRICUT MAKER 4",
@@ -546,11 +541,6 @@
       "nexcomTitle": "Impresora Hp Smart Tank 720 Multifuncional WiFi Bluetooth",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/92067"
     },
-    "92122": {
-      "omegaTitle": "HP - CABEZAL COLOR HP PARA IMPRESORA INK TANK COMPATIBLE CON INK TANK 115, INK TANK 310, INK TANK 315, SMART TANK 410, SMART TANK 415, SMART TANK 500, SMART TANK 515, SMART TANK 519, SMART TANK 530, SMART TANK 580, SMART TANK 615(M0H50AL)",
-      "nexcomTitle": "Cabezal Color Hp Compatible Ink Tank Modelos VAriados",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/92122"
-    },
     "92083": {
       "omegaTitle": "Logitech - MOUSE M650 LARGE BLUETOOTH NEGRO GRAFITO PARA DERECHOS",
       "nexcomTitle": "Mouse Bluetooth Logitech M650 Large Negro Grafito Para Diestros",
@@ -706,11 +696,6 @@
       "nexcomTitle": "Router Inalambrico Hikvision Wisp 2.4 Ghz 300 MBps 4 Puertos 10/100 MBps",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/104937"
     },
-    "104951": {
-      "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA SMART HYBRID LIGHT, IP, DOMO (TORRETA), NETWORK, 6MP, MICROFONO, IP67",
-      "nexcomTitle": "Camara Hikvision Smart Hybrid Light 6Mp Domo Ip67 Microfono",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/104951"
-    },
     "105761": {
       "omegaTitle": "HIKVISION - SIRENA ESTROBO CABLEADA HIKVISION, IDEAL PARA CUALQUIER PANEL DE ALARMA, ROJA, 120 DB, PROTECCIÓN IP54 (AX HYBRID)",
       "nexcomTitle": "Sirena Estrobo Hikvision Cableada 120 Db Protección Ip54",
@@ -836,11 +821,6 @@
       "nexcomTitle": "Mesa Xtech Xtf-Cd188 Con Tope Y Bandeja Para Teclado Color Roble",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/107788"
     },
-    "107740": {
-      "omegaTitle": "CAMARA CON BATERIA Y PANEL SOLAR PARA EXTERIOR MARCA EZVIZ, MODELO CB8 LITE 2k+ (KIT)",
-      "nexcomTitle": "Camara Ezviz Cb8 Lite 2K+ Exterior Bateria Panel Solar WiFi",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/107740"
-    },
     "108039": {
       "omegaTitle": "TP-Link - ROUTER TP-LINK , WIFI 6 AX1800",
       "nexcomTitle": "Router Tp-Link WiFi 6 1800 MBps Doble Banda 1 Wan 4 Lan Wpa3",
@@ -861,25 +841,10 @@
       "nexcomTitle": "Router Wireless Mercusys Mw325R N300 2.4Ghz 300Mbps Tp-Link",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/108113"
     },
-    "108404": {
-      "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA, ANALOGA, BULLET, (3K) DUAL LIGHT",
-      "nexcomTitle": "Cámara De Vigilancia Análoga Hikvision Bullet 3K Dual Light 25M",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108404"
-    },
     "108452": {
       "omegaTitle": "Lenovo - COMPUTADORA THINKCENTRE NEO 50Q TINY GEN 4",
       "nexcomTitle": "Computadora Lenovo ThinkCentre Neo 50q Tiny Gen 4 Core i5-13420H 16GB 512GB SSD Windows 11 Pro",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/108452"
-    },
-    "108626": {
-      "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA 6 MP DUAL LENS",
-      "nexcomTitle": "Cámara De Vigilancia Dual Lens Hikvision Ds-2Cd2T66G2-30 6Mp Ip67",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108626"
-    },
-    "108342": {
-      "omegaTitle": "CAMARA CON LENTES DUALES PARA EXTERIOR MARCA EZVIZ, MODELO H90, 2K+ /2K+",
-      "nexcomTitle": "Cámara Exterior EZVIZ H90 2K+ Dual Lens Wifi 360° Panoramica con Detector de Personas y Vehiculos",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108342"
     },
     "108916": {
       "omegaTitle": "Nexxt Infrastructure - ROLLO DE CABLE F/UTP, CAT6A FOIL, 1000 PIES, 23 AWG, 100% COBRE, CHAQUETA TIPO LSZH, 4 PARES, 500HZ, GRIS.",
@@ -1155,11 +1120,6 @@
       "omegaTitle": "Huawei - SWITCH INDUSTRIAL 8 PUERTOS S210I-8P4SX",
       "nexcomTitle": "Switch Industrial 8 Puertos Huawei S210I-8P4Sx Capa 2 60Gbps Poe+",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110821"
-    },
-    "111016": {
-      "omegaTitle": "Apc - UPS APC SMART-UPS 3000VA LCD SMT3000C",
-      "nexcomTitle": "UPS Apc Smart-UPS 3000Va Smt3000C 2.7Kw 120V",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111016"
     },
     "78173": {
       "omegaTitle": "Apc - UPS SMART-UPS SRT 10KVA(10000VA) SRT10KRMXLT-10KTF",
@@ -1801,11 +1761,6 @@
       "nexcomTitle": "Router Wireless Dual-Band Linksys Ln3101-La Ac1200 Wi-Fi 5",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/104975"
     },
-    "109977": {
-      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP 15.6\" EVERGO TIPO MOCHILA, SOPORTE PARA TABLETA 13\", 2 PUERTOS USB (USB-A / USB-C), COLOR GRIS",
-      "nexcomTitle": "Bulto Para Laptop 15.6″ Klip Xtreme Evergo Mochila Gris USB-A USB-C",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/109977"
-    },
     "109875": {
       "omegaTitle": "Xtech - TECLADO MOUSE COMBO USB, MULTIMEDIA, OPTICAL MOUSE, ESPAÑOL. NEGRO",
       "nexcomTitle": "Combo Teclado Y Mouse USB Xtech Español Negro Multimedia Óptico",
@@ -2136,11 +2091,6 @@
       "nexcomTitle": "Teclado USB Español Logitech K120 Resistente A Salpicadura 920-004422",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/73927"
     },
-    "109375": {
-      "omegaTitle": "HP - CARTUCHO HP 668XL TRICOLOR - 7FP38VL",
-      "nexcomTitle": "Cartucho Tricolor HP 668XL 7FP38VL Alto Rendimiento 230 Páginas",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/109375"
-    },
     "106201": {
       "omegaTitle": "HP - CARTUCHO 938 - 4S6X5PL - CYAN",
       "nexcomTitle": "Cartucho Cyan Hp 938 4S6X5Pl 800 Páginas Officejet Wide Format 9730",
@@ -2201,11 +2151,6 @@
       "nexcomTitle": "Router Vpn Multiwan Tp-Link Safestream ER7206 V2 Omada Gigabit",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/94127"
     },
-    "104740": {
-      "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA SMART HYBRID LIGHT, IP, DOMO (TORRETA), NETWORK, 4MP, MICROFONO, IP67",
-      "nexcomTitle": "Camara De Vigilancia Hikvision Smart Hybrid Light 4Mp Microfono Ip67",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/104740"
-    },
     "108883": {
       "omegaTitle": "Huawei - ACCESS POINT EKITENGINE AP761",
       "nexcomTitle": "Access Point Huawei Ekitengine AP761 WiFi 6 2X2 Mimo Exterior IP68",
@@ -2235,11 +2180,6 @@
       "omegaTitle": "MYO - MOUSE USB, AZUL (MYO-3005 BLUE)",
       "nexcomTitle": "Mouse Myo Myo-3005 Blue USB Azul",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/95170"
-    },
-    "95016": {
-      "omegaTitle": "HP - TONER HP - 230A - W2301A - CYAN - 1,800 PAGINAS - PARA IMPRESORA LASERJET 4201, 4202, 4203, 4301, 4302, 4303",
-      "nexcomTitle": "Toner Hp 230A W2301A Cyan 1800 Paginas Laserjet 4201 4202 4203 4301 4302 4303",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95016"
     },
     "94402": {
       "omegaTitle": "Brother - BOTELLA DE TINTA BROTHER - BT5001M - MAGENTA - 48.8ML - PARA IMPRESORA DCP-T420 - T520W - T720DW - T920DW",
@@ -2390,11 +2330,6 @@
       "omegaTitle": "HP - IMPRESORA SMART TANK 523 - ALL IN ONE PRINTER- SISTEMA DE TINTA CONTINUA - COLOR - PRINT SPEED BLACK: ISO, UP TO 12 PPM, DRAFT, UP TO 20 PPM. (12000 PAGINAS NEGRO) PRINT SPEED COLOR: ISO, UP TO 5 PPM, DRAFT, UP TO 20 PPM. (6000 PAGINAS COLOR) SCAN RESOLUTION, OPTICAL UP TO 1200 X 1200 DPI. COPY RESOLUTION: UP TO 1200 X 1200 DPI. USB 2.0. UTILIZA LOS CARTUCHOS GT53 - GT52, COLOR BLANCA CON GRIS",
       "nexcomTitle": "Impresora Hp Smart Tank 523 All In One Sistema De Tinta Continua Color",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110209"
-    },
-    "110179": {
-      "omegaTitle": "Ubiquiti - ACCESS POINT UBIQUITI U7-IW - WIFI 7 - TRI-BANDA (6GHZ, 5GHZ, 2.4GHZ) - 18.5 GBPS - PUERTO 2.5GBE - IN-WALL - POE+ INPUT - 3 PUERTOS GIGABIT ETHERNET.",
-      "nexcomTitle": "Access Point Ubiquiti U7-Iw WiFi 7 Tri-Banda 18.5 GBps Pared",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/110179"
     },
     "110174": {
       "omegaTitle": "Ubiquiti - SWITCH UBIQUITI USW-PRO-XG-8-POE, 8 PUERTOS RJ45 10GBE, 2 PUERTOS SFP+ 10GBE, POE++ (60W POR PUERTO), DISPONIBILIDAD POE 145W, LAYER 3.",
@@ -3136,11 +3071,6 @@
       "nexcomTitle": "Bulto Para Laptop Klip Xtreme Kolours 14.1″ Sleeve Neopreno Acolchado",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/106937"
     },
-    "106933": {
-      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP KLIP XTREME XPANDPACK 15.6\" TIPO MOCHILA, RESISTENTE AL AGUA, COMPARTIMENTO PARA TABLETA HASTA 12\", SOPORTE HASTA 33 LIBRAS, NEGRO (KNB-650BK)",
-      "nexcomTitle": "Bulto Para Laptop Klip Xtreme Xpandpack 15.6″ Resistente Al Agua",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/106933"
-    },
     "106932": {
       "omegaTitle": "Klip Xtreme - MOUSE OPTICO ARROW, BT 5.1, 4 BOTONES, 2400 DPI, GRIS, NO INCLUYE ADAPTADOR BT USB",
       "nexcomTitle": "Mouse Optico Klipx Arrow Bluetooth 5.1 2400 Dpi 4 Botones Gris",
@@ -3366,11 +3296,6 @@
       "nexcomTitle": "Tambor Brother Dr830 Yields Aproximadamente 15000 Paginas",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/105894"
     },
-    "105889": {
-      "omegaTitle": "HP - BOTELLA DE TINTA HP COMBO GT53 + GT52 - JUEGO COMPLETO - PARA IMPRESORA GT 5810 - 5820 - 315 - 415 - INK TANK - SMART TANK 500 Y 600",
-      "nexcomTitle": "Botella De Tinta Hp Combo Gt53 Gt52 Para Impresora Gt 5810 5820 315 415",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/105889"
-    },
     "105845": {
       "omegaTitle": "TP-Link - TL-R480T+ ROUTER",
       "nexcomTitle": "Router Tp-Link Tl-R480T+ 1 Puerto Wan 1 Puerto Lan 3 Puertos Wan/Lan 1 Puerto Consola",
@@ -3435,11 +3360,6 @@
       "omegaTitle": "Nexxt Infrastructure - SWITCH NEXXT 8 PUERTOS GIGABIT NEXXT NAXOS, NO ADMINISTRABLE, DESKTOP, 10/100/1000",
       "nexcomTitle": "Switch Nexxt Naxos 8 Puertos Gigabit No Administrable Desktop",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/105610"
-    },
-    "104947": {
-      "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA HIKVISION IP, 8MP COLORVU WITH SMART HYBRID LIGHT FIXED, DOMO TURRET, IR 30M, IP67, MICROFONO",
-      "nexcomTitle": "Camara De Vigilancia Hikvision Colorvu 8Mp Smart Hybrid Light",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/104947"
     },
     "104939": {
       "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA SMART HYBRID LIGHT, IP, DOMO, NETWORK, 8MP, MICROFONO, IP67, K08",
@@ -3925,11 +3845,6 @@
       "omegaTitle": "HP - TONER 212X - W2120X - BLACK",
       "nexcomTitle": "Toner Hp 212X W2120X Negro 13000 Paginas Laserjet Color",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/95690"
-    },
-    "95686": {
-      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP KLIP XTREME EMBLEM 15.6\" TIPO MOCHILA, COMPARTIMIENTO PARA TABLETA HASTA 12\", HASTA 39 LIBRAS, GRIS (KNB-582)",
-      "nexcomTitle": "Bulto Para Laptop Klip Xtreme Emblem 15.6″ Tipo Mochila Gris",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95686"
     },
     "95651": {
       "omegaTitle": "Canon - TONER CANON 046 AMARILLO",
@@ -4771,20 +4686,10 @@
       "nexcomTitle": "Botella De Tinta Epson T49M Negro 140Ml Para Impresoras F170 F571 F570",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/91678"
     },
-    "91674": {
-      "omegaTitle": "HP - TONER 212A - W2123A - MAGENTA",
-      "nexcomTitle": "Toner Hp 212A W2123A Magenta 4500 Paginas Laserjet Color",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/91674"
-    },
     "91673": {
       "omegaTitle": "HP - TONER 212A - W2122A - YELLOW",
       "nexcomTitle": "Toner Hp 212A W2122A Yellow 4500 Paginas Laserjet Color M554Dn",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/91673"
-    },
-    "91672": {
-      "omegaTitle": "HP - TONER 212A - W2121A - CYAN",
-      "nexcomTitle": "Toner Hp 212A W2121A Cyan 4500 Paginas Laserjet Color",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/91672"
     },
     "91671": {
       "omegaTitle": "HP - TONER 212A - W2120A - BLACK",
@@ -4915,11 +4820,6 @@
       "omegaTitle": "Epson - BOTELLA DE TINTA T524 CYAN",
       "nexcomTitle": "Botella De Tinta Epson T524 Cyan Para Impresoras L5150 L5160 L6490",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/90726"
-    },
-    "90725": {
-      "omegaTitle": "Epson - BOTELLA DE TINTA T524 NEGRO",
-      "nexcomTitle": "Botella De Tinta Epson T524 Negro Para Impresoras L5150 L5160 L6490",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/90725"
     },
     "90664": {
       "omegaTitle": "Klip Xtreme - MOUSE INALAMBRICO LIGHTFLEX, PLEGABLE 3 BOTONES 2.4 GHZ, GRIS",
@@ -7576,11 +7476,6 @@
       "nexcomTitle": "Access Point Linksys Velop Ac1200 Mesh Wi-Fi 5 Dual Band",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/95522"
     },
-    "88700": {
-      "omegaTitle": "Forza - UPS -XG-1501LCD - 1500VA - 900 WATTS - 10 SALIDAS - ONDA SINUSOIDAL - 2 PUERTOS USB",
-      "nexcomTitle": "UPS Forza XG-1501LCD Interactiva 1500VA 900W LCD USB",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/88700"
-    },
     "96931": {
       "omegaTitle": "AOC - MONITOR 15.6\" PORTATIL IPS FHD 60HZ",
       "nexcomTitle": "Monitor Portátil AOC 16T3E 15.6 Pulgadas FHD Táctil USB-C",
@@ -7835,11 +7730,6 @@
       "omegaTitle": "Apc - UPS BVX700LU-LM BACK-UPS, 700VA, 360 WATTS",
       "nexcomTitle": "UPS APC Back-UPS BVX700LU-LM 700VA 360W AVR",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/92853"
-    },
-    "85268": {
-      "omegaTitle": "Apc - UPS BACK-UPS PRO, 1.5KVA(1500VA)",
-      "nexcomTitle": "UPS APC Back-UPS Pro BX1500M-LM60 1500VA 900W LCD",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/85268"
     },
     "85265": {
       "omegaTitle": "Apc - UPS BACK-UPS, 0.85KVA(850VA)",
@@ -8336,20 +8226,110 @@
       "nexcomTitle": "Toner Negro Hp 151A W1510A 3050 Páginas Laserjet 4003 4102 4103",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/93053"
     },
-    "96318": {
-      "omegaTitle": "HP - IMPRESORA LASERJET MFP M141W MULTIFUNCTION PRINTER - B/W - LASER - WIRELESS - (COPIER / PRINTER / SCAN) - LEGAL (8.5 IN X 14 IN) (ORIGINAL) - LEGAL (216 X 356 MM), A4 (210 X 297 MM) (MEDIA) - UP TO 20 PPM (COPYING) - UP TO 20 PPM (PRINTING) - 150 SHEETS - USB 2.0, (7MD74A), (TONER W1500A HP 150A)",
-      "nexcomTitle": "Impresora Multifuncional HP LaserJet MFP M141w Blanco y Negro Láser con WiFi y USB",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/96318"
-    },
     "107137": {
       "omegaTitle": "Brother - SCANNER BROTHER DS-740D, COMPACTO DUPLEX",
       "nexcomTitle": "Scanner Brother Ds-740D Compacto Dúplex USB 30 Ppm",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/107137"
     },
-    "110067": {
-      "omegaTitle": "Msi - MONITOR MSI PRO MP273W E14A, 27\", 144 HZ, IPS FLAT, HD",
-      "nexcomTitle": "Monitor MSI PRO MP273W E14A 27″ IPS FHD 144Hz Blanco FreeSync EyeErgo",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/110067"
+    "78951": {
+      "omegaTitle": "HP - TONER 17A - CF217A - NEGRO",
+      "nexcomTitle": "Toner Hp 17A – Cf217A – Negro – 1,600 Paginas – Para Impresora Laserjet- M102, M130",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/78951"
+    },
+    "84541": {
+      "omegaTitle": "Epson - IMPRESORA FX-2190II",
+      "nexcomTitle": "Impresora Epson Fx-2190ii Matriz De Punto Impacto Serial 9 Pines",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/84541"
+    },
+    "87068": {
+      "omegaTitle": "Forza - UPS EOS FDC-2000T 2K - ONLINE - 2000 VA - 1800 WATTS, 4 ENTRADAS, PANTALLA LCD, ONDA SINUSOIDAL, TORRE, PUERTO USB, 120V (FDC-2000T)",
+      "nexcomTitle": "UPS Online 2000 Va Forza Eos Fdc-2000T 1800 Watts Torre USB",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/87068"
+    },
+    "87218": {
+      "omegaTitle": "Epson - BOLSA DE TINTA T942 NEGRO XL",
+      "nexcomTitle": "Bolsa Tinta Epson T942 Negro XL 10000 Páginas para WF-C5790",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/87218"
+    },
+    "87559": {
+      "omegaTitle": "HP - TONER 105A - W1105A - NEGRO",
+      "nexcomTitle": "Toner Hp 105A W1105A Negro 1000 Paginas Laserjet",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/87559"
+    },
+    "87677": {
+      "omegaTitle": "HP - TONER 58X - CF258X - NEGRO - ALTO RENDIMIENTO",
+      "nexcomTitle": "Toner Hp 58X Cf258X Negro 10000 Paginas Laserjet M404N M404Dw",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/87677"
+    },
+    "90407": {
+      "omegaTitle": "Epson - IMPRESORA EPSON ECOTANK L15150",
+      "nexcomTitle": "Impresora Multifuncional Epson Ecotank L15150 A3",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/90407"
+    },
+    "90974": {
+      "omegaTitle": "Epson - CARTUCHO T890 AMARILLO 700 ML",
+      "nexcomTitle": "Cartucho Amarillo Epson T890 700 Ml Compatible Surecolor S80600 S40600 S60600",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/90974"
+    },
+    "91231": {
+      "omegaTitle": "Epson - SCANNER EPSON WORKFORCE ES-400 II",
+      "nexcomTitle": "Scanner Epson Workforce Es-400 Ii 35 Ppm 300 Dpi Color Blanco Y Negro",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/91231"
+    },
+    "94293": {
+      "omegaTitle": "Epson - IMPRESORA ECOTANK L5590",
+      "nexcomTitle": "Impresora Epson Ecotank L5590 Multifuncional Wi-Fi ADF",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/94293"
+    },
+    "94481": {
+      "omegaTitle": "Epson - IMPRESORA SURECOLOR F570.",
+      "nexcomTitle": "Impresora Dye-Sublimacion Epson Surecolor F570 Scf570Se 2400X1200 Dpi",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/94481"
+    },
+    "95014": {
+      "omegaTitle": "HP - TONER HP - 230A - W2300A - NEGRO - 2,000 PAGINAS - PARA IMPRESORA LASERJET 4201, 4202, 4203, 4301, 4302, 4303",
+      "nexcomTitle": "Toner Hp 230A W2300A Negro 2000 Paginas Laserjet",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95014"
+    },
+    "95271": {
+      "omegaTitle": "Epson - CAJA DE MANTENIMIENTO PARA L5590",
+      "nexcomTitle": "Caja De Mantenimiento Depósito De Residuos Epson C12C934461 Compatible L3350 L3560 L5590 Xp Wf",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95271"
+    },
+    "104887": {
+      "omegaTitle": "HP - TONER 222A - W2220A - NEGRO",
+      "nexcomTitle": "Toner Hp 222A W2220A Negro 1300 Paginas Laserjet 3303Sdw 3303Fdw",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/104887"
+    },
+    "105981": {
+      "omegaTitle": "HP - TONER - 230X - W2300X - NEGRO - 7,500 PAGINAS - PARA IMPRESORA LASERJET 4201, 4202, 4203, 4301, 4302, 4303",
+      "nexcomTitle": "Toner Hp 230X Negro 7500 Paginas Laserjet 4201 4202 4203 4301 4302 4303",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/105981"
+    },
+    "108513": {
+      "omegaTitle": "Epson - IMPRESORA EPSON WF-C5810 MULTIFUNCIONAL",
+      "nexcomTitle": "Impresora Epson Workforce Pro Wf-C5810 Sistema Bolsa De Tinta 4800X1200Dpi",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108513"
+    },
+    "110388": {
+      "omegaTitle": "Lenovo - COMPUTADORA LENOVO THINKCENTRE NEO 55Q TINY GEN 6",
+      "nexcomTitle": "Computadora Lenovo Thinkcentre Neo 50Q Tiny Gen 6 Ryzen 5 16Gb Ddr5 512Gb SSD",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/110388"
+    },
+    "111210": {
+      "omegaTitle": "Epson - RESMA DE PAPEL SUBLIMACIÓN",
+      "nexcomTitle": "Papel Sublimación Epson Ds Transfer 8.5X14 100 Hojas S450362A",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111210"
+    },
+    "111406": {
+      "omegaTitle": "Epson - ROLLO DE PAPEL MULTI USO DS TRANSFER",
+      "nexcomTitle": "Rollo De Papel Epson Sublimación Ds Transfer Matte 17″ X 100′",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111406"
+    },
+    "111806": {
+      "omegaTitle": "Epson - SCANNER DS-530X 45 PPM / 90 IPM",
+      "nexcomTitle": "Escaner Epson Ds-530X Duplex 45 Ppm / 90 Ipm",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111806"
     }
   }
 }
