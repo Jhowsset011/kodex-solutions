@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-06T17:04:31+00:00",
+  "verifiedAt": "2026-11-07T16:00:28+00:00",
   "references": {
     "104746": {
       "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA HIKVISION, ANALOGA, DOMO (TURRET), SMART HYBRID LIGHT, 3K , MICROFONO.",
@@ -951,11 +951,6 @@
       "nexcomTitle": "Switch Huawei S110-16Lp2Sr No Administrable 16 Puertos Ge Poe+ 2 Sfp",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/111187"
     },
-    "111185": {
-      "omegaTitle": "Huawei - SWITCH 24 PUERTOS S210-24P2J",
-      "nexcomTitle": "Switch Administrable Huawei S210-24P2J 24 Puertos Poe+ 400W",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111185"
-    },
     "67428": {
       "omegaTitle": "TP-Link - SWITCH 8 PUERTOS TL-SF1008D, NO ADMINISTRABLE/DESKTOP, 8 PUERTOS 10/100MBPS.",
       "nexcomTitle": "Switch 8 Puertos Tp-Link Tl-Sf1008D, No Administrable/Desktop, 8 Puertos 10/100MBps",
@@ -1276,11 +1271,6 @@
       "nexcomTitle": "Kit Cámaras Seguridad Hikvision 4Mp Bullet Y Domo Pt Con Grabadora Wi-Fi",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/110777"
     },
-    "110662": {
-      "omegaTitle": "Huawei - SWITCH 24 PUERTOS S620-16X8YZ",
-      "nexcomTitle": "Switch 24 Puertos Administrable Huawei S620-16X8Yz Capa 3 1120Gbps",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/110662"
-    },
     "110309": {
       "omegaTitle": "Xtech - MOUSE + MOUSE PAD XTECH DISNEY TOY STORY WIRELESS, OPTICAL MOUSE",
       "nexcomTitle": "Mouse Wireless Óptico Xtech Disney Toy Story Xtm-Dkt10Ts Con Mouse Pad",
@@ -1575,11 +1565,6 @@
       "omegaTitle": "Dell - COMPUTADORA WYSE 3050-T50",
       "nexcomTitle": "Computadora Terminal Dell Wyse 3050-T50 1G Flash 1G Ram Teclado Español",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/74880"
-    },
-    "74357": {
-      "omegaTitle": "HP - IMPRESORA OFFICEJET PRO 251DW - COLOR - HP EPRINT - DUPLEX - USB - LAN - INALÁMBRICA - CAPACIDAD I50 HOJAS",
-      "nexcomTitle": "Impresora Officejet Pro 251Dw Hp Hasta 20 Ppm Negro 15 Ppm Color",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/74357"
     },
     "71892": {
       "omegaTitle": "Generico - DUAL BAND - 2.4GHZ/300MBPS/ 5.0GHZ/300MBPS - LAN - WPS - INTERIOR",
@@ -2500,11 +2485,6 @@
       "omegaTitle": "Canon - IMPRESORA MULTIFUNCIONAL CANON PIXMA G3180",
       "nexcomTitle": "Impresora Canon Pixma G3180 Multifuncional WiFi Inyeccion De Tinta",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/108433"
-    },
-    "108414": {
-      "omegaTitle": "HP - LAPTOP ELITEBOOK 645 G11 14\" WUXGA - 1920 X 1080 - AMD RYZEN 5 PRO 7535U - 16GB RAM - 512GB SSD - WINDOWS 11 PRO INGLES - AMD RADEON GRAPHICS - ENGLISH KEYBOARD - FRONT CAMERA/WEBCAM - LECTOR DE HUELLAS - 1X RJ45 GIGABIT - 1X HDMI - 3X USB-A 3.1 GEN 1 - 1X USB-C GEN 2",
-      "nexcomTitle": "Laptop Hp Elitebook 645 G11 14″ Wuxga Ryzen 5 Pro 7535U 16GB 512GB SSD",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108414"
     },
     "108367": {
       "omegaTitle": "Epson - IMPRESOR ECOTANK L4360 - WIFI",
@@ -3786,16 +3766,6 @@
       "nexcomTitle": "Camara Nexxt Nhc-F410 Interior Exterior Smart WiFi 2K Luz Sensor Movimiento",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/95045"
     },
-    "95018": {
-      "omegaTitle": "HP - TONER HP - 230A - W2303A - MAGENTA - 1,800 PAGINAS - PARA IMPRESORA LASERJET 4201, 4202, 4203, 4301, 4302, 4303",
-      "nexcomTitle": "Toner Hp 230A W2303A Magenta 1800 Paginas Laserjet",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95018"
-    },
-    "95017": {
-      "omegaTitle": "HP - TONER - 230A - W2302A - YELLOW - 1,800 PAGINAS - PARA IMPRESORA LASERJET 4201, 4202, 4203, 4301, 4302, 4303",
-      "nexcomTitle": "Toner Hp 230A W2302A Yellow 1800 Paginas Laserjet 4201 4202 4203 4301 4302 4303",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95017"
-    },
     "94972": {
       "omegaTitle": "Cricut - ROLLO DE VINIL PERMANENTE",
       "nexcomTitle": "Rollo De Vinil Cricut Sun Activated Cambia Color 12X19In Blanco-Amarillo",
@@ -4040,11 +4010,6 @@
       "omegaTitle": "HIKVISION - MONITOR HIKVISION SIN BORDES FHD DE 27\", 1 HDMI,1 VGA, VESA STAND BRACKET, TRABAJO 24/7",
       "nexcomTitle": "Monitor Hikvision Sin Bordes FHD 27″ 1 HDMI 1 Vga Vesa Stand Bracket 24/7",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/93798"
-    },
-    "93743": {
-      "omegaTitle": "Logitech - TECLADO MOUSE MK850 PERFORMANCE WIRELESS COMBO INGLES (ENG)",
-      "nexcomTitle": "Teclado Mouse Logitech Mk850 Performance Wireless Combo Bluetooth USB",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/93743"
     },
     "93740": {
       "omegaTitle": "Logitech - TECLADO POP KEYS WIRELESS MECHANICAL CON TECLAS EMOJIS COLOR HEARTBREAKER ROSE (ROSADO)",
@@ -7691,11 +7656,6 @@
       "nexcomTitle": "Papel Fotográfico Gloss Epson Surelab 4″ X 6″ 400 Hojas",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/108374"
     },
-    "108375": {
-      "omegaTitle": "Epson - PAPEL FOTOGRAFICO EPSON LUSTER",
-      "nexcomTitle": "Papel Fotográfico Epson Surelab Luster 4″ X 6″ (400 Hojas)",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108375"
-    },
     "108442": {
       "omegaTitle": "Canon - PAPEL FOTOGRAFICO CANON IVY ZINK",
       "nexcomTitle": "Papel Fotografico Canon Ivy Zink 20 Hojas 2.0X3.0″ Mini Impresora",
@@ -8091,11 +8051,6 @@
       "nexcomTitle": "Cámara De Vigilancia Dual Lens Hikvision Ds-2Cd2T66G2-30 6Mp Ip67",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/108626"
     },
-    "71108": {
-      "omegaTitle": "HP - TONER 80A - CF280A - NEGRO",
-      "nexcomTitle": "Toner Negro Hp 80A Cf280A 2700 Páginas Laserjet Pro 400 M401 M425",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/71108"
-    },
     "71158": {
       "omegaTitle": "Epson - BOTELLA DE TINTA 673 AZUL",
       "nexcomTitle": "Botella De Tinta Epson 673 Azul Para Impresora L805, L810, L850, L1800 Tramo 3 Jaula",
@@ -8130,11 +8085,6 @@
       "omegaTitle": "HP - TONER 212A - W2121A - CYAN",
       "nexcomTitle": "Toner Hp 212A W2121A Cyan 4500 Paginas Laserjet Color",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/91672"
-    },
-    "91682": {
-      "omegaTitle": "Epson - CAJA DE MANTENIMIENTO PARA F170",
-      "nexcomTitle": "Caja De Mantenimiento Epson Compatible Impresora F170 Deposito De Residuos",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/91682"
     },
     "91958": {
       "omegaTitle": "HIKVISION - DS-1200KI",
@@ -8326,16 +8276,6 @@
       "nexcomTitle": "UPS APC Back-UPS Pro BX1500M-LM60 1500VA 900W LCD",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/85268"
     },
-    "86005": {
-      "omegaTitle": "Epson - BOTELLA DE TINTA T544 NEGRO",
-      "nexcomTitle": "Botella Tinta Epson T544 Negro para L1250/L1110/L3110/L3150/L5190",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/86005"
-    },
-    "95605": {
-      "omegaTitle": "Epson - IMPRESORA ECOTANK M3180,",
-      "nexcomTitle": "Impresora Epson Ecotank M3180 4 En 1 Blanco Y Negro USB 2.0",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/95605"
-    },
     "105832": {
       "omegaTitle": "TP-Link - SWITCH 5 PUERTOS TL-SG105PE, NO ADMINISTRABLE/DESKTOP, 5 PUERTOS GIGABIT 10/100/1000MBPS",
       "nexcomTitle": "Switch Tp-Link Tl-Sg105Pe 5 Puertos Gigabit 4 Puertos Poe+",
@@ -8355,6 +8295,61 @@
       "omegaTitle": "Dell Refurbish - LAPTOP DELL REFURBISHED LATITUDE 3520",
       "nexcomTitle": "Laptop Dell Latitude 3520 15.6″ I5-1135G7 8Gb 256Gb SSD Win 11 Pro",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/111958"
+    },
+    "79659": {
+      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP KLIP XTREME TUNDRA 15.6\" TIPO MOCHILA, NEGRO (KNB-575)",
+      "nexcomTitle": "Bulto Para Laptop Klip Xtreme Tundra 15.6″ Tipo Mochila, Negro (Knb-575)",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/79659"
+    },
+    "91673": {
+      "omegaTitle": "HP - TONER 212A - W2122A - YELLOW",
+      "nexcomTitle": "Toner Hp 212A W2122A Yellow 4500 Paginas Laserjet Color M554Dn",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/91673"
+    },
+    "93554": {
+      "omegaTitle": "HP - SCANNER HP SCANJET PRO N4000 SNW1 - SHEET FEED - LETTER - 1200 X 1200 DPI - ADF (50 SHEETS) - 40 PPM - HI-SPEED USB 3.0 - ETHERNET - WIFI / WIFI DIRECT",
+      "nexcomTitle": "Scanner Sheet Feed Hp Scanjet Pro N4000 1200X1200 Dpi Adf 50 Hojas",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/93554"
+    },
+    "105633": {
+      "omegaTitle": "Samsung - MONITOR 27\" PLANO IPS, 4K HDR, 5MS, 3840X2160",
+      "nexcomTitle": "Monitor Plano 27″ 4K Hdr Samsung Ls27D702Eanxgo IPS 5Ms",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/105633"
+    },
+    "106933": {
+      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP KLIP XTREME XPANDPACK 15.6\" TIPO MOCHILA, RESISTENTE AL AGUA, COMPARTIMENTO PARA TABLETA HASTA 12\", SOPORTE HASTA 33 LIBRAS, NEGRO (KNB-650BK)",
+      "nexcomTitle": "Bulto Para Laptop Klip Xtreme Xpandpack 15.6″ Resistente Al Agua",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/106933"
+    },
+    "107006": {
+      "omegaTitle": "Nexxt Infrastructure - ROUTER WIRELESS MESH BOLT AC1200, SISTEMA INALAMBRICO COMPLETO PARA EL HOGAR (MESH), 1 UNIDAD, DUAL BAND 2.4GHZ/5GHZ - 300/867 MBPS, 3X ETHERNET PORT GIGABIT, NEGRO",
+      "nexcomTitle": "Router Nexxt Bolt Ac1200 Dual Band 300/867 MBps 3 Puertos Gigabit",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/107006"
+    },
+    "108741": {
+      "omegaTitle": "Logitech - TECLADO MOUSE MK250 COMPACT WIRILESS BLUETOOTH COMBO ESPAÑOL",
+      "nexcomTitle": "Combo Teclado Y Mouse Compacto Logitech Mk250 Inalámbrico Bluetooth Español Graphite",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/108741"
+    },
+    "109487": {
+      "omegaTitle": "HP - LAPTOP HP 14-EM0002 14\" HD, AMD ATHLON SILVER 7120U, 4GB DDR4, 128GB SSD, WIFI 6, BT 5.0, WIN 11, ENGLISH, 1X USB TYPE C, 2X USB 3.1, 1X HDMI 1.4, NO LAN, BLUE",
+      "nexcomTitle": "Laptop Hp 14-Em0002 14″ Hd Amd Athlon Silver 7120U 4GB 128GB WiFi 6",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/109487"
+    },
+    "109789": {
+      "omegaTitle": "TP-Link - SWITCH 24 PUERTOS TP-LINK OMADA SG3452XP",
+      "nexcomTitle": "Switch Tp-Link Omada 48 Puertos Gigabit Poe+ Y 4 Sfp+ 10Ge L2+",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/109789"
+    },
+    "111480": {
+      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP NOMADIA 15.6\" (BOLSO DE VIAJE), PARA MUJER, SOPORTE PARA HOMBRO, 7 BOLSILLOS CON ZIPPER, 5 BOLSILLOS SIN ZIPPER, BOLSILLO INTERIOR, REPELE EL AGUA, COLOR CAFE",
+      "nexcomTitle": "BULTO PARA LAPTOP KLIP XTREME NOMADIA 15.6″ (BOLSO DE VIAJE), PARA MUJER, SOPORTE PARA HOMBRO, 7 BOLSILLOS CON ZIPPER, 5 BOLSILLOS SIN ZIPPER, BOLSILLO INTERIOR, REPELE EL AGUA, COLOR CAFE",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111480"
+    },
+    "111481": {
+      "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP NOMADIA TIPO MOCHILA 17.3\", PARA VIAJAR, 8 BOLSILLOS CON ZIPPER, 4 BOLSILLOS SIN ZIPPER, RESISTENTE AL AGUA, COLOR CAFE",
+      "nexcomTitle": "BULTO PARA LAPTOP KLIP XTREME NOMADIA TIPO MOCHILA 17.3″, PARA VIAJAR, 8 BOLSILLOS CON ZIPPER, 4 BOLSILLOS SIN ZIPPER, RESISTENTE AL AGUA, COLOR CAFE (KNB-775)",
+      "omegaURL": "https://tienda.omega.com.do/es/product/consul/111481"
     }
   }
 }
