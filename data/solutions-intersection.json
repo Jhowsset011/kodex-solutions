@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-07T16:00:28+00:00",
+  "verifiedAt": "2026-11-08T16:29:11+00:00",
   "references": {
     "104746": {
       "omegaTitle": "HIKVISION - CAMARA DE VIGILANCIA HIKVISION, ANALOGA, DOMO (TURRET), SMART HYBRID LIGHT, 3K , MICROFONO.",
@@ -2790,11 +2790,6 @@
       "omegaTitle": "TP-Link - ACCESS POINT EAP615-WALL WI-FI 6",
       "nexcomTitle": "Access Point Tp-Link Wi-Fi 6 4 Puertos Gigabit Poe Passthrough",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/107060"
-    },
-    "107003": {
-      "omegaTitle": "Click Cam - ROLLO DE CABLE UTP CAT6 1,000 PIES, 30% COBRE, 0.5MM, NEGRO",
-      "nexcomTitle": "Caja De Cable Utp Click-Cam Cat6 1000 Pies 30% Cobre 0.5mm Negro",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/107003"
     },
     "106988": {
       "omegaTitle": "TP-Link - ACCESS POINT EAP773 WI-FI 7",
@@ -8311,11 +8306,6 @@
       "nexcomTitle": "Scanner Sheet Feed Hp Scanjet Pro N4000 1200X1200 Dpi Adf 50 Hojas",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/93554"
     },
-    "105633": {
-      "omegaTitle": "Samsung - MONITOR 27\" PLANO IPS, 4K HDR, 5MS, 3840X2160",
-      "nexcomTitle": "Monitor Plano 27″ 4K Hdr Samsung Ls27D702Eanxgo IPS 5Ms",
-      "omegaURL": "https://tienda.omega.com.do/es/product/consul/105633"
-    },
     "106933": {
       "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP KLIP XTREME XPANDPACK 15.6\" TIPO MOCHILA, RESISTENTE AL AGUA, COMPARTIMENTO PARA TABLETA HASTA 12\", SOPORTE HASTA 33 LIBRAS, NEGRO (KNB-650BK)",
       "nexcomTitle": "Bulto Para Laptop Klip Xtreme Xpandpack 15.6″ Resistente Al Agua",
@@ -8343,12 +8333,12 @@
     },
     "111480": {
       "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP NOMADIA 15.6\" (BOLSO DE VIAJE), PARA MUJER, SOPORTE PARA HOMBRO, 7 BOLSILLOS CON ZIPPER, 5 BOLSILLOS SIN ZIPPER, BOLSILLO INTERIOR, REPELE EL AGUA, COLOR CAFE",
-      "nexcomTitle": "BULTO PARA LAPTOP KLIP XTREME NOMADIA 15.6″ (BOLSO DE VIAJE), PARA MUJER, SOPORTE PARA HOMBRO, 7 BOLSILLOS CON ZIPPER, 5 BOLSILLOS SIN ZIPPER, BOLSILLO INTERIOR, REPELE EL AGUA, COLOR CAFE",
+      "nexcomTitle": "Bulto Para Laptop Klip Xtreme Nomadia 15.6″ Café",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/111480"
     },
     "111481": {
       "omegaTitle": "Klip Xtreme - BULTO PARA LAPTOP NOMADIA TIPO MOCHILA 17.3\", PARA VIAJAR, 8 BOLSILLOS CON ZIPPER, 4 BOLSILLOS SIN ZIPPER, RESISTENTE AL AGUA, COLOR CAFE",
-      "nexcomTitle": "BULTO PARA LAPTOP KLIP XTREME NOMADIA TIPO MOCHILA 17.3″, PARA VIAJAR, 8 BOLSILLOS CON ZIPPER, 4 BOLSILLOS SIN ZIPPER, RESISTENTE AL AGUA, COLOR CAFE (KNB-775)",
+      "nexcomTitle": "Mochila Para Laptop Klip Xtreme Nomadia 17.3 Café Knb-775",
       "omegaURL": "https://tienda.omega.com.do/es/product/consul/111481"
     }
   }
