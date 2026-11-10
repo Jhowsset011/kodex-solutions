@@ -1,6 +1,6 @@
 {
   "source": "Nexcom — API pública (sku = referencia)",
-  "count": 1668,
+  "count": 1671,
   "products": [
     {
       "id": "800000104746",
@@ -730,8 +730,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111538/"
       ],
-      "stockQuantity": 44,
-      "stockText": "44 disponibles",
+      "stockQuantity": 43,
+      "stockText": "43 disponibles",
       "image": "img/catalogo/1026408adee571f3a2d2.png",
       "sourceCategory": "",
       "category": "Redes",
@@ -1115,8 +1115,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111429/"
       ],
-      "stockQuantity": 4,
-      "stockText": "4 disponibles",
+      "stockQuantity": 3,
+      "stockText": "3 disponibles",
       "image": "img/catalogo/42e6a137f35c7b96b59b.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -1778,8 +1778,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111495/"
       ],
-      "stockQuantity": 22,
-      "stockText": "22 disponibles",
+      "stockQuantity": 24,
+      "stockText": "24 disponibles",
       "image": "img/catalogo/0dc4ac1b4e97b68679d2.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -1831,8 +1831,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111494/"
       ],
-      "stockQuantity": 33,
-      "stockText": "33 disponibles",
+      "stockQuantity": 35,
+      "stockText": "35 disponibles",
       "image": "img/catalogo/b055920467c1137a493b.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -2047,8 +2047,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111138/"
       ],
-      "stockQuantity": 32,
-      "stockText": "32 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/a43271164b1d71df1448.webp",
       "sourceCategory": "",
       "category": "Energía",
@@ -2424,8 +2424,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111473/"
       ],
-      "stockQuantity": 55,
-      "stockText": "55 disponibles",
+      "stockQuantity": 54,
+      "stockText": "54 disponibles",
       "image": "img/catalogo/0f657ad28b33b1655299.webp",
       "sourceCategory": "",
       "category": "Cricut",
@@ -2764,8 +2764,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107563/"
       ],
-      "stockQuantity": 3,
-      "stockText": "3 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/1f3902bbe324002c550d.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -3008,8 +3008,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111278/"
       ],
-      "stockQuantity": 24,
-      "stockText": "24 disponibles",
+      "stockQuantity": 23,
+      "stockText": "23 disponibles",
       "image": "img/catalogo/8f47f669cfd5a3dbf9b4.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -3983,8 +3983,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/76490/"
       ],
-      "stockQuantity": 108,
-      "stockText": "108 disponibles",
+      "stockQuantity": 68,
+      "stockText": "68 disponibles",
       "image": "img/catalogo/5d62737a5ab6a177ccd0.png",
       "sourceCategory": "",
       "category": "Redes",
@@ -4364,8 +4364,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78765/"
       ],
-      "stockQuantity": 99,
-      "stockText": "99 disponibles",
+      "stockQuantity": 96,
+      "stockText": "96 disponibles",
       "image": "img/catalogo/0bf57d5c8661fbbe22f9.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -4409,8 +4409,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78750/"
       ],
-      "stockQuantity": 127,
-      "stockText": "127 disponibles",
+      "stockQuantity": 116,
+      "stockText": "116 disponibles",
       "image": "img/catalogo/43684938a9c91e245454.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -4590,8 +4590,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/80951/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 48,
+      "stockText": "48 disponibles",
       "image": "img/catalogo/b3fe40a4d2d7309d889e.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -4634,8 +4634,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78754/"
       ],
-      "stockQuantity": 141,
-      "stockText": "141 disponibles",
+      "stockQuantity": 130,
+      "stockText": "130 disponibles",
       "image": "img/catalogo/673b62eab17b59bdd522.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -4679,8 +4679,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78761/"
       ],
-      "stockQuantity": 78,
-      "stockText": "78 disponibles",
+      "stockQuantity": 76,
+      "stockText": "76 disponibles",
       "image": "img/catalogo/b2a0406cf0c342cdba29.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -4779,8 +4779,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78751/"
       ],
-      "stockQuantity": 146,
-      "stockText": "146 disponibles",
+      "stockQuantity": 135,
+      "stockText": "135 disponibles",
       "image": "img/catalogo/69e9f55ca2405191c8d9.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -4916,8 +4916,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/84607/"
       ],
-      "stockQuantity": 125,
-      "stockText": "125 disponibles",
+      "stockQuantity": 123,
+      "stockText": "123 disponibles",
       "image": "img/catalogo/52d5d12598a7d76b5dcf.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -5247,8 +5247,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89412/"
       ],
-      "stockQuantity": 46,
-      "stockText": "46 disponibles",
+      "stockQuantity": 45,
+      "stockText": "45 disponibles",
       "image": "img/catalogo/d877960e22fe696de23e.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -5436,8 +5436,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89931/"
       ],
-      "stockQuantity": 118,
-      "stockText": "118 disponibles",
+      "stockQuantity": 115,
+      "stockText": "115 disponibles",
       "image": "img/catalogo/5133006547915193b878.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -6023,8 +6023,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93735/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/7a23b395e163e1c084d8.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -6086,8 +6086,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94512/"
       ],
-      "stockQuantity": 7,
-      "stockText": "7 disponibles",
+      "stockQuantity": 6,
+      "stockText": "6 disponibles",
       "image": "img/catalogo/63e2ca2010783c8902db.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -6175,8 +6175,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95476/"
       ],
-      "stockQuantity": 233,
-      "stockText": "233 disponibles",
+      "stockQuantity": 221,
+      "stockText": "221 disponibles",
       "image": "img/catalogo/c89feb1d1f3ef9acbec3.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -6525,8 +6525,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96324/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/2d9a33e2c1775670101c.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -6569,8 +6569,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96833/"
       ],
-      "stockQuantity": 195,
-      "stockText": "195 disponibles",
+      "stockQuantity": 194,
+      "stockText": "194 disponibles",
       "image": "img/catalogo/6a81d5ea40a3f143cf7a.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -6757,8 +6757,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96623/"
       ],
-      "stockQuantity": 45,
-      "stockText": "45 disponibles",
+      "stockQuantity": 30,
+      "stockText": "30 disponibles",
       "image": "img/catalogo/d1a46019bde4814e6ebd.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -7199,8 +7199,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105941/"
       ],
-      "stockQuantity": 8,
-      "stockText": "8 disponibles",
+      "stockQuantity": 7,
+      "stockText": "7 disponibles",
       "image": "img/catalogo/6eaee1830931764d1659.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -8496,8 +8496,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108768/"
       ],
-      "stockQuantity": 115,
-      "stockText": "115 disponibles",
+      "stockQuantity": 110,
+      "stockText": "110 disponibles",
       "image": "img/catalogo/34d45a29bdb5656873ef.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -8588,8 +8588,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109482/"
       ],
-      "stockQuantity": 66,
-      "stockText": "66 disponibles",
+      "stockQuantity": 61,
+      "stockText": "61 disponibles",
       "image": "img/catalogo/0c78094e273020607f0f.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -9524,8 +9524,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/80876/"
       ],
-      "stockQuantity": 134,
-      "stockText": "134 disponibles",
+      "stockQuantity": 128,
+      "stockText": "128 disponibles",
       "image": "img/catalogo/338babe264c88857da62.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -9718,8 +9718,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94608/"
       ],
-      "stockQuantity": 51,
-      "stockText": "51 disponibles",
+      "stockQuantity": 46,
+      "stockText": "46 disponibles",
       "image": "img/catalogo/7e3187123a2c3a673668.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -10008,8 +10008,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/81385/"
       ],
-      "stockQuantity": 166,
-      "stockText": "166 disponibles",
+      "stockQuantity": 163,
+      "stockText": "163 disponibles",
       "image": "img/catalogo/65580d7f3718f5861d6a.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -10183,50 +10183,6 @@
       "subcategory": "Accesorios y suministros",
       "description": "<p>🔌 <strong>Interfaz:</strong> USB 2.0</p>\n<p>📶 <strong>Estándares Inalámbricos:</strong> IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz</p>\n<p>⚡ <strong>Velocidad Inalámbrica:</strong> 600 Mbps (200 Mbps en 2.4 GHz, 433 Mbps en 5 GHz)</p>\n<p>🎯 <strong>Frecuencia:</strong> 2.4 GHz, 5 GHz</p>\n<p>📡 <strong>Antenas:</strong> 5 dBi</p>\n<p>🔒 <strong>Seguridad Inalámbrica:</strong> WEP, WPA/WPA2, WPA-PSK/WPA2-PSK</p>\n<p>🔄 <strong>Modos Inalámbricos:</strong> Ad-Hoc / Modo Infraestructura</p>\n<p>⚙️ <strong>Tecnología de Modulación:</strong> DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM</p>\n<p>💡 <strong>LED:</strong> Status</p>\n<p>📏 <strong>Dimensiones:</strong> 57.8 × 18 × 173.4 mm</p>\n<p>💻 <strong>Requisitos del Sistema:</strong> Windows 11/10/8.1/8/7/XP, Mac OS X 10.9-10.13</p>\n<p>📜 <strong>Certificaciones:</strong> FCC, CE, RoHS</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/eb9c3989-5087-4d48-9698-702290555740.png",
-      "specificationsUpdated": "2026-10-28T20:02:39+00:00"
-    },
-    {
-      "id": "80000094603",
-      "reference": "94603",
-      "name": "Caja De Mantenimiento Epson Wf-C5890 Wf-C5390",
-      "spec": "Caja de mantenimiento para impresoras Epson WF-C5890 y WF-C5390. Compatible para recolección de residuos de tinta.",
-      "price": 1600.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Compatibilidad",
-          "value": "Epson WF-C5890, WF-C5390"
-        },
-        {
-          "label": "Tipo de producto",
-          "value": "Caja de mantenimiento"
-        },
-        {
-          "label": "Función",
-          "value": "Recolección de residuos de tinta"
-        },
-        {
-          "label": "SKU",
-          "value": "94603"
-        },
-        {
-          "label": "Aplicación",
-          "value": "Mantenimiento de impresoras Epson"
-        }
-      ],
-      "features": [],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/94603/"
-      ],
-      "stockQuantity": 4,
-      "stockText": "4 disponibles",
-      "image": "img/catalogo/a0624537524578cafccc.jpg",
-      "sourceCategory": "",
-      "category": "Impresión",
-      "brand": "Epson",
-      "subcategory": "Mantenimiento",
-      "description": "<p>🖨️ <strong>Compatibilidad:</strong> Epson WF-C5890, WF-C5390</p>\n<p>🧰 <strong>Tipo de producto:</strong> Caja de mantenimiento</p>\n<p>🔧 <strong>Función:</strong> Recolección de residuos de tinta</p>\n<p>📦 <strong>SKU:</strong> 94603</p>\n<p>⚙️ <strong>Aplicación:</strong> Mantenimiento de impresoras Epson</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/5c32e5d8-26c8-430a-b57b-3ff83a2e1f81.png",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
     },
     {
@@ -10565,8 +10521,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108157/"
       ],
-      "stockQuantity": 4,
-      "stockText": "4 disponibles",
+      "stockQuantity": 6,
+      "stockText": "6 disponibles",
       "image": "img/catalogo/86ab43b9ca5a94bdb64d.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -10927,8 +10883,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96178/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/d103bbcf4eec1c5c7327.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -11105,8 +11061,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/111021/"
       ],
-      "stockQuantity": 440,
-      "stockText": "440 disponibles",
+      "stockQuantity": 438,
+      "stockText": "438 disponibles",
       "image": "img/catalogo/de4413b8ea1437d3c7fc.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -11385,59 +11341,6 @@
       "description": "<p>🏷️ <strong>Marca:</strong> Dell</p>\n<p>💻 <strong>Modelo:</strong> Latitude 5320</p>\n<p>⚙️ <strong>Estado:</strong> Reacondicionado (Refurbished)</p>\n<p>🖥️ <strong>Pantalla:</strong> 13.3 Pulgadas Touch Screen</p>\n<p>🧠 <strong>Procesador:</strong> Intel Core i5-1154G7 @ 2.30GHz</p>\n<p>💾 <strong>Memoria RAM:</strong> 16GB DDR4</p>\n<p>💽 <strong>Almacenamiento:</strong> 512GB SSD</p>\n<p>🪟 <strong>Sistema Operativo:</strong> Windows 11 Pro</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/9a898378-3eaa-47a4-a311-92b61c939d2b.png",
       "model": "Latitude 5320",
-      "specificationsUpdated": "2026-10-28T20:02:39+00:00"
-    },
-    {
-      "id": "800000106898",
-      "reference": "106898",
-      "name": "Computadora Dell Optiplex 5090 Sff Intel I5 8Gb 240Gb SSD",
-      "spec": "Computadora de escritorio Dell Optiplex 5090 SFF reacondicionada con procesador Intel Core i5, 8GB de memoria RAM DDR4, almacenamiento de 240GB SSD y sistema operativo Windows 10 Pro.",
-      "price": 28100.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Modelo",
-          "value": "Dell Optiplex 5090 SFF (Refurbished)"
-        },
-        {
-          "label": "Procesador",
-          "value": "Intel Core i5-10500 @ 3.10GHz"
-        },
-        {
-          "label": "Memoria RAM",
-          "value": "8GB DDR4"
-        },
-        {
-          "label": "Almacenamiento",
-          "value": "240GB SSD"
-        },
-        {
-          "label": "Puertos",
-          "value": "DisplayPort, HDMI"
-        },
-        {
-          "label": "Sistema operativo",
-          "value": "Windows 10 Pro"
-        },
-        {
-          "label": "Accesorios",
-          "value": "Cable de poder, teclado y mouse"
-        }
-      ],
-      "features": [],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/106898/"
-      ],
-      "stockQuantity": 1,
-      "stockText": "1 disponibles",
-      "image": "img/catalogo/603400149f8653f45bf6.png",
-      "sourceCategory": "",
-      "category": "Computación",
-      "brand": "Dell",
-      "subcategory": "Computadoras",
-      "description": "<p>🖥️ <strong>Modelo:</strong> Dell Optiplex 5090 SFF (Refurbished)</p>\n<p>🧠 <strong>Procesador:</strong> Intel Core i5-10500 @ 3.10GHz</p>\n<p>💾 <strong>Memoria RAM:</strong> 8GB DDR4</p>\n<p>💽 <strong>Almacenamiento:</strong> 240GB SSD</p>\n<p>🔌 <strong>Puertos:</strong> DisplayPort, HDMI</p>\n<p>⚙️ <strong>Sistema operativo:</strong> Windows 10 Pro</p>\n<p>📦 <strong>Accesorios:</strong> Cable de poder, teclado y mouse</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/32e5e0db-a755-418e-a860-1803487f13f3.png",
-      "model": "Dell Optiplex 5090 SFF (Refurbished)",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
     },
     {
@@ -11913,8 +11816,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110776/"
       ],
-      "stockQuantity": 42,
-      "stockText": "42 disponibles",
+      "stockQuantity": 39,
+      "stockText": "39 disponibles",
       "image": "img/catalogo/b987f2ae2c9fbe323250.png",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -12022,8 +11925,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93462/"
       ],
-      "stockQuantity": 26,
-      "stockText": "26 disponibles",
+      "stockQuantity": 24,
+      "stockText": "24 disponibles",
       "image": "img/catalogo/28574811def1b43cfe0e.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -12889,8 +12792,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110718/"
       ],
-      "stockQuantity": 10,
-      "stockText": "10 disponibles",
+      "stockQuantity": 9,
+      "stockText": "9 disponibles",
       "image": "img/catalogo/b973122d5006c7d38be3.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -13606,8 +13509,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110564/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 10,
+      "stockText": "10 disponibles",
       "image": "img/catalogo/787726fb77dce404dd40.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -13850,8 +13753,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104739/"
       ],
-      "stockQuantity": 132,
-      "stockText": "132 disponibles",
+      "stockQuantity": 103,
+      "stockText": "103 disponibles",
       "image": "img/catalogo/833b3135fb3efa128602.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -14053,59 +13956,6 @@
       "description": "<p>🪑 <strong>Tipo:</strong> Silla de oficina</p>\n<p>🆔 <strong>Modelo:</strong> SIT-M800BK</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>🛡️ <strong>Soporte lumbar:</strong> Sí</p>\n<p>👤 <strong>Reposacabezas:</strong> Sí</p>\n<p>⬆️ <strong>Asiento:</strong> Alto</p>\n<p>⚙️ <strong>Mecanismo:</strong> Multifunción</p>\n<p>💪 <strong>Descansabrazos:</strong> Sí</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/b55fa8a2-e313-4f21-929c-a2777d01db98.webp",
       "model": "SIT-M800BK",
-      "specificationsUpdated": "2026-10-28T20:02:39+00:00"
-    },
-    {
-      "id": "800000110010",
-      "reference": "110010",
-      "name": "Computadora Lenovo Thinkcentre M910S I5-6500 8Gb 256Gb SSD Windows 10 Pro",
-      "spec": "Computadora Lenovo ThinkCentre M910s con procesador Intel i5, 8GB RAM y 256GB SSD. Incluye Windows 10 Pro, teclado y mouse.",
-      "price": 15700.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Modelo",
-          "value": "ThinkCentre M910s SFF"
-        },
-        {
-          "label": "Procesador",
-          "value": "Intel Core i5-6500 @3.20GHz"
-        },
-        {
-          "label": "Memoria RAM",
-          "value": "8GB DDR4"
-        },
-        {
-          "label": "Almacenamiento",
-          "value": "256GB SSD"
-        },
-        {
-          "label": "Puertos",
-          "value": "VGA, DisplayPort x2"
-        },
-        {
-          "label": "Sistema operativo",
-          "value": "Windows 10 Pro"
-        },
-        {
-          "label": "Incluye",
-          "value": "Powercord, teclado y mouse"
-        }
-      ],
-      "features": [],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/110010/"
-      ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
-      "image": "img/catalogo/a432dc869e99f5c236ca.jpg",
-      "sourceCategory": "",
-      "category": "Computación",
-      "brand": "Lenovo",
-      "subcategory": "Computadoras",
-      "description": "<p>💻 <strong>Modelo:</strong> ThinkCentre M910s SFF</p>\n<p>⚙️ <strong>Procesador:</strong> Intel Core i5-6500 @3.20GHz</p>\n<p>🧠 <strong>Memoria RAM:</strong> 8GB DDR4</p>\n<p>💾 <strong>Almacenamiento:</strong> 256GB SSD</p>\n<p>🔌 <strong>Puertos:</strong> VGA, DisplayPort x2</p>\n<p>🖥️ <strong>Sistema operativo:</strong> Windows 10 Pro</p>\n<p>🎛️ <strong>Incluye:</strong> Powercord, teclado y mouse</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/06/619ef537-c466-48c7-a73c-b9a165e15bae.png",
-      "model": "ThinkCentre M910s SFF",
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
     },
     {
@@ -14442,8 +14292,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110600/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/952861c114395b3f1640.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -14487,8 +14337,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110599/"
       ],
-      "stockQuantity": 11,
-      "stockText": "11 disponibles",
+      "stockQuantity": 10,
+      "stockText": "10 disponibles",
       "image": "img/catalogo/fd3527036a98ec39c6ee.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -14532,8 +14382,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110598/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/9141adf1cf26c737aedc.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -14577,8 +14427,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110597/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 13,
+      "stockText": "13 disponibles",
       "image": "img/catalogo/c05e2c32a611f13534b0.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -14622,8 +14472,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110596/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 13,
+      "stockText": "13 disponibles",
       "image": "img/catalogo/aecb594269b14c3e322a.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -15237,8 +15087,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92147/"
       ],
-      "stockQuantity": 73,
-      "stockText": "73 disponibles",
+      "stockQuantity": 72,
+      "stockText": "72 disponibles",
       "image": "img/catalogo/a3f0128b13dc93063636.png",
       "sourceCategory": "",
       "category": "Redes",
@@ -16489,8 +16339,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108470/"
       ],
-      "stockQuantity": 238,
-      "stockText": "238 disponibles",
+      "stockQuantity": 236,
+      "stockText": "236 disponibles",
       "image": "img/catalogo/1ee15a736f288378b9a5.webp",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -16851,8 +16701,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78115/"
       ],
-      "stockQuantity": 47,
-      "stockText": "47 disponibles",
+      "stockQuantity": 43,
+      "stockText": "43 disponibles",
       "image": "img/catalogo/d83659a289e22ffd7a5d.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -17037,8 +16887,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91540/"
       ],
-      "stockQuantity": 442,
-      "stockText": "442 disponibles",
+      "stockQuantity": 438,
+      "stockText": "438 disponibles",
       "image": "img/catalogo/ea63444a16edbc04f1e6.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -17081,8 +16931,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89485/"
       ],
-      "stockQuantity": 613,
-      "stockText": "613 disponibles",
+      "stockQuantity": 625,
+      "stockText": "625 disponibles",
       "image": "img/catalogo/ded2ac512daf278ee368.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -17379,8 +17229,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87690/"
       ],
-      "stockQuantity": 75,
-      "stockText": "75 disponibles",
+      "stockQuantity": 69,
+      "stockText": "69 disponibles",
       "image": "img/catalogo/3a260ed5149f76a6f7d8.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -17469,8 +17319,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110528/"
       ],
-      "stockQuantity": 477,
-      "stockText": "477 disponibles",
+      "stockQuantity": 425,
+      "stockText": "425 disponibles",
       "image": "img/catalogo/baf29033e1caf45e06be.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -17776,8 +17626,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90073/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 3,
+      "stockText": "3 disponibles",
       "image": "img/catalogo/fa88dbdba4e0d74396cf.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -18339,8 +18189,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110111/"
       ],
-      "stockQuantity": 4,
-      "stockText": "4 disponibles",
+      "stockQuantity": 2,
+      "stockText": "2 disponibles",
       "image": "img/catalogo/0e7d1e4c2019d75c6715.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -18955,8 +18805,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70199/"
       ],
-      "stockQuantity": 70,
-      "stockText": "70 disponibles",
+      "stockQuantity": 67,
+      "stockText": "67 disponibles",
       "image": "img/catalogo/c394ee38ef0aa18d5778.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -19104,8 +18954,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/79307/"
       ],
-      "stockQuantity": 428,
-      "stockText": "428 disponibles",
+      "stockQuantity": 408,
+      "stockText": "408 disponibles",
       "image": "img/catalogo/902ca3e63898d636a396.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -19381,8 +19231,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94647/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 46,
+      "stockText": "46 disponibles",
       "image": "img/catalogo/05d75518c36415c8a663.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -19426,8 +19276,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94372/"
       ],
-      "stockQuantity": 352,
-      "stockText": "352 disponibles",
+      "stockQuantity": 350,
+      "stockText": "350 disponibles",
       "image": "img/catalogo/3f2c622b05102f6ea415.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -19609,8 +19459,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/82884/"
       ],
-      "stockQuantity": 22,
-      "stockText": "22 disponibles",
+      "stockQuantity": 6,
+      "stockText": "6 disponibles",
       "image": "img/catalogo/b88f91d1e45bc66f9632.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -19702,8 +19552,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106201/"
       ],
-      "stockQuantity": 51,
-      "stockText": "51 disponibles",
+      "stockQuantity": 46,
+      "stockText": "46 disponibles",
       "image": "img/catalogo/3bd7547bf0053c2d36cf.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -19792,8 +19642,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89937/"
       ],
-      "stockQuantity": 35,
-      "stockText": "35 disponibles",
+      "stockQuantity": 34,
+      "stockText": "34 disponibles",
       "image": "img/catalogo/240763ad14169a1d3430.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -19837,8 +19687,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89934/"
       ],
-      "stockQuantity": 88,
-      "stockText": "88 disponibles",
+      "stockQuantity": 87,
+      "stockText": "87 disponibles",
       "image": "img/catalogo/bcad58783b3ad519b206.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -19927,8 +19777,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89544/"
       ],
-      "stockQuantity": 128,
-      "stockText": "128 disponibles",
+      "stockQuantity": 122,
+      "stockText": "122 disponibles",
       "image": "img/catalogo/a736acc9d26a49a51bdd.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -19984,8 +19834,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107333/"
       ],
-      "stockQuantity": 65,
-      "stockText": "65 disponibles",
+      "stockQuantity": 63,
+      "stockText": "63 disponibles",
       "image": "img/catalogo/92743a192cb6d7aad49c.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -20048,8 +19898,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110374/"
       ],
-      "stockQuantity": 83,
-      "stockText": "83 disponibles",
+      "stockQuantity": 82,
+      "stockText": "82 disponibles",
       "image": "img/catalogo/4f3d67b86161fc92128f.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -20137,8 +19987,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/61300/"
       ],
-      "stockQuantity": 5110,
-      "stockText": "5110 disponibles",
+      "stockQuantity": 5048,
+      "stockText": "5048 disponibles",
       "image": "img/catalogo/b7fecba3d08affe22492.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -20182,8 +20032,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108034/"
       ],
-      "stockQuantity": 68,
-      "stockText": "68 disponibles",
+      "stockQuantity": 67,
+      "stockText": "67 disponibles",
       "image": "img/catalogo/456d03b5fe33e51aeb0a.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -20424,8 +20274,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95182/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 13,
+      "stockText": "13 disponibles",
       "image": "img/catalogo/725ed6e4a5cc3537d209.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -20557,8 +20407,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93387/"
       ],
-      "stockQuantity": 16,
-      "stockText": "16 disponibles",
+      "stockQuantity": 15,
+      "stockText": "15 disponibles",
       "image": "img/catalogo/1d2ecb85d9008e99db6d.png",
       "sourceCategory": "",
       "category": "Cricut",
@@ -20657,50 +20507,6 @@
       "specificationsUpdated": "2026-10-28T20:02:39+00:00"
     },
     {
-      "id": "80000091454",
-      "reference": "91454",
-      "name": "Escritorio Myo 3 Cajones Con Seguro Base De Metal Gris Almendra",
-      "spec": "Escritorio Con Tres Cajones Con Seguro Y Base De Metal Color Gris Almendra",
-      "price": 12600.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Material",
-          "value": "Base de metal"
-        },
-        {
-          "label": "Cajones",
-          "value": "3 con seguro"
-        },
-        {
-          "label": "Color",
-          "value": "Gris / Almendra"
-        },
-        {
-          "label": "Dimensiones",
-          "value": "No especificadas"
-        },
-        {
-          "label": "Uso",
-          "value": "Escritorio"
-        }
-      ],
-      "features": [],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/91454/"
-      ],
-      "stockQuantity": 1,
-      "stockText": "1 disponibles",
-      "image": "img/catalogo/5bd8d8c094bae4f8c9b8.png",
-      "sourceCategory": "",
-      "category": "Oficina",
-      "brand": "Myo",
-      "subcategory": "Escritorios",
-      "description": "<p>🛠️ <strong>Material:</strong> Base de metal</p>\n<p>🗄️ <strong>Cajones:</strong> 3 con seguro</p>\n<p>🎨 <strong>Color:</strong> Gris / Almendra</p>\n<p>📏 <strong>Dimensiones:</strong> No especificadas</p>\n<p>🔧 <strong>Uso:</strong> Escritorio</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/deee648d-b743-4830-82e8-20f00fed6cbf-1.png",
-      "specificationsUpdated": "2026-10-28T20:02:39+00:00"
-    },
-    {
       "id": "80000090835",
       "reference": "90835",
       "name": "Laptop Dell Latitude 7420 14″ FHD Core I5 8GB 256GB SSD Windows 10 Pro",
@@ -20785,8 +20591,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90814/"
       ],
-      "stockQuantity": 81,
-      "stockText": "81 disponibles",
+      "stockQuantity": 78,
+      "stockText": "78 disponibles",
       "image": "img/catalogo/884316255372eb42ebc6.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -20841,8 +20647,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89547/"
       ],
-      "stockQuantity": 228,
-      "stockText": "228 disponibles",
+      "stockQuantity": 227,
+      "stockText": "227 disponibles",
       "image": "img/catalogo/39c27cfd2c145d814269.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -20885,8 +20691,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89303/"
       ],
-      "stockQuantity": 25,
-      "stockText": "25 disponibles",
+      "stockQuantity": 21,
+      "stockText": "21 disponibles",
       "image": "img/catalogo/sin-imagen.svg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -21066,8 +20872,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/85654/"
       ],
-      "stockQuantity": 401,
-      "stockText": "401 disponibles",
+      "stockQuantity": 381,
+      "stockText": "381 disponibles",
       "image": "img/catalogo/f1d715cebb24db3b517e.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -21305,8 +21111,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78303/"
       ],
-      "stockQuantity": 89,
-      "stockText": "89 disponibles",
+      "stockQuantity": 79,
+      "stockText": "79 disponibles",
       "image": "img/catalogo/728885d18e061225b84c.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -21349,8 +21155,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/74671/"
       ],
-      "stockQuantity": 7,
-      "stockText": "7 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/2c82181f06035b47ee8a.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -21393,8 +21199,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/74108/"
       ],
-      "stockQuantity": 81,
-      "stockText": "81 disponibles",
+      "stockQuantity": 84,
+      "stockText": "84 disponibles",
       "image": "img/catalogo/af60f11c97f5c596019c.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -21639,8 +21445,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110256/"
       ],
-      "stockQuantity": 61,
-      "stockText": "61 disponibles",
+      "stockQuantity": 45,
+      "stockText": "45 disponibles",
       "image": "img/catalogo/7592e2d258d3a07c11fe.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -22000,8 +21806,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110163/"
       ],
-      "stockQuantity": 16,
-      "stockText": "16 disponibles",
+      "stockQuantity": 14,
+      "stockText": "14 disponibles",
       "image": "img/catalogo/83cf522443341214ff88.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -22181,8 +21987,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110142/"
       ],
-      "stockQuantity": 41,
-      "stockText": "41 disponibles",
+      "stockQuantity": 45,
+      "stockText": "45 disponibles",
       "image": "img/catalogo/b9c4ef367f854562e5f9.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -22273,8 +22079,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110070/"
       ],
-      "stockQuantity": 44,
-      "stockText": "44 disponibles",
+      "stockQuantity": 43,
+      "stockText": "43 disponibles",
       "image": "img/catalogo/9c9729254f4509068bab.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -22325,8 +22131,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110069/"
       ],
-      "stockQuantity": 58,
-      "stockText": "58 disponibles",
+      "stockQuantity": 56,
+      "stockText": "56 disponibles",
       "image": "img/catalogo/b95b64a2fd0d3aca6567.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -22892,8 +22698,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109862/"
       ],
-      "stockQuantity": 16,
-      "stockText": "16 disponibles",
+      "stockQuantity": 18,
+      "stockText": "18 disponibles",
       "image": "img/catalogo/af4ed1467b426a886278.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -23004,8 +22810,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109678/"
       ],
-      "stockQuantity": 59,
-      "stockText": "59 disponibles",
+      "stockQuantity": 58,
+      "stockText": "58 disponibles",
       "image": "img/catalogo/bfffe8542713ee38e05e.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -23120,8 +22926,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109653/"
       ],
-      "stockQuantity": 38,
-      "stockText": "38 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/4a63840d853aa34dd9e6.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -24029,8 +23835,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108878/"
       ],
-      "stockQuantity": 3,
-      "stockText": "3 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/67b5a8c887dcc6a514a2.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -25047,8 +24853,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108367/"
       ],
-      "stockQuantity": 45,
-      "stockText": "45 disponibles",
+      "stockQuantity": 39,
+      "stockText": "39 disponibles",
       "image": "img/catalogo/7ec91f71587521467eab.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -25443,8 +25249,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108295/"
       ],
-      "stockQuantity": 37,
-      "stockText": "37 disponibles",
+      "stockQuantity": 39,
+      "stockText": "39 disponibles",
       "image": "img/catalogo/3f5c8e4e0fde3fa80fe6.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -26089,8 +25895,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107991/"
       ],
-      "stockQuantity": 10,
-      "stockText": "10 disponibles",
+      "stockQuantity": 7,
+      "stockText": "7 disponibles",
       "image": "img/catalogo/981904643303d83b529c.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -26930,8 +26736,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107595/"
       ],
-      "stockQuantity": 10,
-      "stockText": "10 disponibles",
+      "stockQuantity": 6,
+      "stockText": "6 disponibles",
       "image": "img/catalogo/0560418a5be4cccdde12.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -27412,8 +27218,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107455/"
       ],
-      "stockQuantity": 101,
-      "stockText": "101 disponibles",
+      "stockQuantity": 100,
+      "stockText": "100 disponibles",
       "image": "img/catalogo/c9e3f300745088627716.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -27456,8 +27262,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107349/"
       ],
-      "stockQuantity": 40,
-      "stockText": "40 disponibles",
+      "stockQuantity": 32,
+      "stockText": "32 disponibles",
       "image": "img/catalogo/93393e6b71b20cf2bd44.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -27500,8 +27306,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107348/"
       ],
-      "stockQuantity": 42,
-      "stockText": "42 disponibles",
+      "stockQuantity": 41,
+      "stockText": "41 disponibles",
       "image": "img/catalogo/93393e6b71b20cf2bd44.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -28542,8 +28348,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106939/"
       ],
-      "stockQuantity": 29,
-      "stockText": "29 disponibles",
+      "stockQuantity": 31,
+      "stockText": "31 disponibles",
       "image": "img/catalogo/1a3e6bb73b1edfdaea0f.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -28586,8 +28392,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106938/"
       ],
-      "stockQuantity": 17,
-      "stockText": "17 disponibles",
+      "stockQuantity": 19,
+      "stockText": "19 disponibles",
       "image": "img/catalogo/129ea03bbc20056fb369.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -28782,8 +28588,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106918/"
       ],
-      "stockQuantity": 30,
-      "stockText": "30 disponibles",
+      "stockQuantity": 32,
+      "stockText": "32 disponibles",
       "image": "img/catalogo/dd851a1f453115424e49.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -29810,8 +29616,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106631/"
       ],
-      "stockQuantity": 431,
-      "stockText": "431 disponibles",
+      "stockQuantity": 428,
+      "stockText": "428 disponibles",
       "image": "img/catalogo/e098dcdc0c02512be354.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -29971,8 +29777,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106528/"
       ],
-      "stockQuantity": 6,
-      "stockText": "6 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/e56539defe71bea71a6a.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -30032,8 +29838,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106209/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/81be42322c4d81bc1c9a.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -30076,8 +29882,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106198/"
       ],
-      "stockQuantity": 187,
-      "stockText": "187 disponibles",
+      "stockQuantity": 180,
+      "stockText": "180 disponibles",
       "image": "img/catalogo/214932526354c46c2121.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -30620,8 +30426,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106020/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/da549e8d6ca0818229f2.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -30977,8 +30783,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105824/"
       ],
-      "stockQuantity": 11,
-      "stockText": "11 disponibles",
+      "stockQuantity": 5,
+      "stockText": "5 disponibles",
       "image": "img/catalogo/63e7b7f11dce701b30bf.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -31203,8 +31009,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105739/"
       ],
-      "stockQuantity": 31,
-      "stockText": "31 disponibles",
+      "stockQuantity": 28,
+      "stockText": "28 disponibles",
       "image": "img/catalogo/f85d938cc118aaf4b453.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -31823,8 +31629,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104714/"
       ],
-      "stockQuantity": 84,
-      "stockText": "84 disponibles",
+      "stockQuantity": 67,
+      "stockText": "67 disponibles",
       "image": "img/catalogo/c1878f63ca4869ccfc28.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -31975,8 +31781,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104662/"
       ],
-      "stockQuantity": 161,
-      "stockText": "161 disponibles",
+      "stockQuantity": 154,
+      "stockText": "154 disponibles",
       "image": "img/catalogo/c80a07cf78e30db29b5d.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -32019,8 +31825,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104594/"
       ],
-      "stockQuantity": 132,
-      "stockText": "132 disponibles",
+      "stockQuantity": 136,
+      "stockText": "136 disponibles",
       "image": "img/catalogo/1a236d9e738ebdbbd05f.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -32063,8 +31869,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104593/"
       ],
-      "stockQuantity": 92,
-      "stockText": "92 disponibles",
+      "stockQuantity": 98,
+      "stockText": "98 disponibles",
       "image": "img/catalogo/0ccba03c8bc362d0743f.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -32107,8 +31913,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104592/"
       ],
-      "stockQuantity": 22,
-      "stockText": "22 disponibles",
+      "stockQuantity": 21,
+      "stockText": "21 disponibles",
       "image": "img/catalogo/4bc8e2f4ae1336336a12.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -32187,8 +31993,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104576/"
       ],
-      "stockQuantity": 73,
-      "stockText": "73 disponibles",
+      "stockQuantity": 72,
+      "stockText": "72 disponibles",
       "image": "img/catalogo/4cc9c909860e050d6ce0.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -32231,8 +32037,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/97070/"
       ],
-      "stockQuantity": 112,
-      "stockText": "112 disponibles",
+      "stockQuantity": 111,
+      "stockText": "111 disponibles",
       "image": "img/catalogo/8675fbd438a2811249c2.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -32647,8 +32453,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96693/"
       ],
-      "stockQuantity": 98,
-      "stockText": "98 disponibles",
+      "stockQuantity": 96,
+      "stockText": "96 disponibles",
       "image": "img/catalogo/0e15f33c496a0cccb3b2.jpg",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -32892,8 +32698,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96552/"
       ],
-      "stockQuantity": 47,
-      "stockText": "47 disponibles",
+      "stockQuantity": 46,
+      "stockText": "46 disponibles",
       "image": "img/catalogo/5f128202fc180d72f191.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -34612,8 +34418,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96120/"
       ],
-      "stockQuantity": 24,
-      "stockText": "24 disponibles",
+      "stockQuantity": 23,
+      "stockText": "23 disponibles",
       "image": "img/catalogo/03b7493b983ae46799c3.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -36223,8 +36029,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95365/"
       ],
-      "stockQuantity": 87,
-      "stockText": "87 disponibles",
+      "stockQuantity": 82,
+      "stockText": "82 disponibles",
       "image": "img/catalogo/85649bf0fee432a6fa44.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -37552,8 +37358,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94825/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 3,
+      "stockText": "3 disponibles",
       "image": "img/catalogo/b12e0d02476b9f0da7f5.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -37608,8 +37414,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94779/"
       ],
-      "stockQuantity": 28,
-      "stockText": "28 disponibles",
+      "stockQuantity": 26,
+      "stockText": "26 disponibles",
       "image": "img/catalogo/f141cae94a9fc1442149.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -37696,8 +37502,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94646/"
       ],
-      "stockQuantity": 60,
-      "stockText": "60 disponibles",
+      "stockQuantity": 59,
+      "stockText": "59 disponibles",
       "image": "img/catalogo/e6a8780b24be5ef0a055.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -38150,8 +37956,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94520/"
       ],
-      "stockQuantity": 361,
-      "stockText": "361 disponibles",
+      "stockQuantity": 348,
+      "stockText": "348 disponibles",
       "image": "img/catalogo/4ef37e8e67cfeb69b047.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -38792,8 +38598,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94317/"
       ],
-      "stockQuantity": 183,
-      "stockText": "183 disponibles",
+      "stockQuantity": 133,
+      "stockText": "133 disponibles",
       "image": "img/catalogo/6965665b13e46c2c2d60.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -39471,8 +39277,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93571/"
       ],
-      "stockQuantity": 200,
-      "stockText": "200 disponibles",
+      "stockQuantity": 197,
+      "stockText": "197 disponibles",
       "image": "img/catalogo/4cd1cfecad02b082fa13.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -39568,8 +39374,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93458/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/c09dd2092f76ff5dd100.png",
       "sourceCategory": "",
       "category": "Cricut",
@@ -39704,8 +39510,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93452/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/9716cde26adc65a83394.png",
       "sourceCategory": "",
       "category": "Cricut",
@@ -40144,8 +39950,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93417/"
       ],
-      "stockQuantity": 6,
-      "stockText": "6 disponibles",
+      "stockQuantity": 5,
+      "stockText": "5 disponibles",
       "image": "img/catalogo/6be416ed2890f405f266.png",
       "sourceCategory": "",
       "category": "Cricut",
@@ -40544,8 +40350,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93399/"
       ],
-      "stockQuantity": 13,
-      "stockText": "13 disponibles",
+      "stockQuantity": 12,
+      "stockText": "12 disponibles",
       "image": "img/catalogo/e3c6ae92bd6c6444dde1.png",
       "sourceCategory": "",
       "category": "Cricut",
@@ -41179,8 +40985,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93304/"
       ],
-      "stockQuantity": 103,
-      "stockText": "103 disponibles",
+      "stockQuantity": 100,
+      "stockText": "100 disponibles",
       "image": "img/catalogo/3f5fd8a8f51eb1cd9896.png",
       "sourceCategory": "",
       "category": "Energía",
@@ -41585,8 +41391,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92885/"
       ],
-      "stockQuantity": 83,
-      "stockText": "83 disponibles",
+      "stockQuantity": 82,
+      "stockText": "82 disponibles",
       "image": "img/catalogo/9e0d4ee2b49b3bbc2670.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -41866,8 +41672,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92621/"
       ],
-      "stockQuantity": 1335,
-      "stockText": "1335 disponibles",
+      "stockQuantity": 1331,
+      "stockText": "1331 disponibles",
       "image": "img/catalogo/f408abd3f33b002bf03c.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -42188,8 +41994,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92022/"
       ],
-      "stockQuantity": 172,
-      "stockText": "172 disponibles",
+      "stockQuantity": 171,
+      "stockText": "171 disponibles",
       "image": "img/catalogo/25ae936521cb75d17f02.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -43089,8 +42895,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91254/"
       ],
-      "stockQuantity": 310,
-      "stockText": "310 disponibles",
+      "stockQuantity": 309,
+      "stockText": "309 disponibles",
       "image": "img/catalogo/51c05a0ec12320f5887a.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43133,8 +42939,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91247/"
       ],
-      "stockQuantity": 416,
-      "stockText": "416 disponibles",
+      "stockQuantity": 415,
+      "stockText": "415 disponibles",
       "image": "img/catalogo/973f780d215fc22f0f1a.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43178,8 +42984,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91246/"
       ],
-      "stockQuantity": 349,
-      "stockText": "349 disponibles",
+      "stockQuantity": 348,
+      "stockText": "348 disponibles",
       "image": "img/catalogo/ccb7dcc0f0cbce57ed4a.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43222,8 +43028,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91245/"
       ],
-      "stockQuantity": 262,
-      "stockText": "262 disponibles",
+      "stockQuantity": 257,
+      "stockText": "257 disponibles",
       "image": "img/catalogo/d115697567254ba599d3.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43270,8 +43076,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91160/"
       ],
-      "stockQuantity": 12,
-      "stockText": "12 disponibles",
+      "stockQuantity": 11,
+      "stockText": "11 disponibles",
       "image": "img/catalogo/d87feb7a9fb163e26bc4.png",
       "sourceCategory": "",
       "category": "Energía",
@@ -43314,8 +43120,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91140/"
       ],
-      "stockQuantity": 40,
-      "stockText": "40 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/f471d6657a191293da49.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -43460,8 +43266,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90862/"
       ],
-      "stockQuantity": 28,
-      "stockText": "28 disponibles",
+      "stockQuantity": 26,
+      "stockText": "26 disponibles",
       "image": "img/catalogo/71ed3dc7ef7327457933.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43505,8 +43311,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90861/"
       ],
-      "stockQuantity": 71,
-      "stockText": "71 disponibles",
+      "stockQuantity": 70,
+      "stockText": "70 disponibles",
       "image": "img/catalogo/48b4501e758defbb1d4d.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43595,8 +43401,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90858/"
       ],
-      "stockQuantity": 42,
-      "stockText": "42 disponibles",
+      "stockQuantity": 37,
+      "stockText": "37 disponibles",
       "image": "img/catalogo/428c90330d11bea947a1.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43640,8 +43446,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90857/"
       ],
-      "stockQuantity": 71,
-      "stockText": "71 disponibles",
+      "stockQuantity": 62,
+      "stockText": "62 disponibles",
       "image": "img/catalogo/2f69812524c34c39b5c4.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43749,8 +43555,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90812/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/4383411f6069d350a56c.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -43809,8 +43615,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90796/"
       ],
-      "stockQuantity": 22,
-      "stockText": "22 disponibles",
+      "stockQuantity": 21,
+      "stockText": "21 disponibles",
       "image": "img/catalogo/83bd94986f116493291f.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43898,8 +43704,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90756/"
       ],
-      "stockQuantity": 78,
-      "stockText": "78 disponibles",
+      "stockQuantity": 74,
+      "stockText": "74 disponibles",
       "image": "img/catalogo/5051ab6705c7394adaa3.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -43987,8 +43793,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90753/"
       ],
-      "stockQuantity": 120,
-      "stockText": "120 disponibles",
+      "stockQuantity": 118,
+      "stockText": "118 disponibles",
       "image": "img/catalogo/208e8deec0199758d232.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -44031,8 +43837,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90728/"
       ],
-      "stockQuantity": 21,
-      "stockText": "21 disponibles",
+      "stockQuantity": 20,
+      "stockText": "20 disponibles",
       "image": "img/catalogo/2e9434a83ee61e90aa33.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -44076,8 +43882,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90727/"
       ],
-      "stockQuantity": 27,
-      "stockText": "27 disponibles",
+      "stockQuantity": 26,
+      "stockText": "26 disponibles",
       "image": "img/catalogo/08547c0acd4c02708680.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -44708,8 +44514,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90075/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 12,
+      "stockText": "12 disponibles",
       "image": "img/catalogo/44e2854e2c817f63b716.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -44753,8 +44559,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90072/"
       ],
-      "stockQuantity": 22,
-      "stockText": "22 disponibles",
+      "stockQuantity": 20,
+      "stockText": "20 disponibles",
       "image": "img/catalogo/61d9882b24f839d4a85b.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -44843,8 +44649,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89932/"
       ],
-      "stockQuantity": 46,
-      "stockText": "46 disponibles",
+      "stockQuantity": 45,
+      "stockText": "45 disponibles",
       "image": "img/catalogo/c0d6fd47ad39efbe1342.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45255,8 +45061,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89306/"
       ],
-      "stockQuantity": 71,
-      "stockText": "71 disponibles",
+      "stockQuantity": 68,
+      "stockText": "68 disponibles",
       "image": "img/catalogo/7bbc211fb4557c6b8ec4.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45300,8 +45106,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89305/"
       ],
-      "stockQuantity": 70,
-      "stockText": "70 disponibles",
+      "stockQuantity": 67,
+      "stockText": "67 disponibles",
       "image": "img/catalogo/sin-imagen.svg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45344,8 +45150,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89304/"
       ],
-      "stockQuantity": 58,
-      "stockText": "58 disponibles",
+      "stockQuantity": 55,
+      "stockText": "55 disponibles",
       "image": "img/catalogo/sin-imagen.svg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45388,8 +45194,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89302/"
       ],
-      "stockQuantity": 18,
-      "stockText": "18 disponibles",
+      "stockQuantity": 17,
+      "stockText": "17 disponibles",
       "image": "img/catalogo/aa6f881e401cebeaf4b6.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45433,8 +45239,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89301/"
       ],
-      "stockQuantity": 34,
-      "stockText": "34 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/1a13caaec8db744e5cc7.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45478,8 +45284,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89300/"
       ],
-      "stockQuantity": 29,
-      "stockText": "29 disponibles",
+      "stockQuantity": 28,
+      "stockText": "28 disponibles",
       "image": "img/catalogo/9cd2d11b26eb5271061b.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45523,8 +45329,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89299/"
       ],
-      "stockQuantity": 8,
-      "stockText": "8 disponibles",
+      "stockQuantity": 7,
+      "stockText": "7 disponibles",
       "image": "img/catalogo/b5a4f2e95c917d4e8a0f.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -45879,8 +45685,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88842/"
       ],
-      "stockQuantity": 3,
-      "stockText": "3 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/02887186ce17241afb5c.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -45931,8 +45737,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88800/"
       ],
-      "stockQuantity": 11,
-      "stockText": "11 disponibles",
+      "stockQuantity": 10,
+      "stockText": "10 disponibles",
       "image": "img/catalogo/b9ab3f38bd7f297b536e.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -46209,8 +46015,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88251/"
       ],
-      "stockQuantity": 57,
-      "stockText": "57 disponibles",
+      "stockQuantity": 50,
+      "stockText": "50 disponibles",
       "image": "img/catalogo/81e8b2490b63429141cc.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46253,8 +46059,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88249/"
       ],
-      "stockQuantity": 53,
-      "stockText": "53 disponibles",
+      "stockQuantity": 50,
+      "stockText": "50 disponibles",
       "image": "img/catalogo/54fe2cc82f4a073721e7.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46297,8 +46103,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88248/"
       ],
-      "stockQuantity": 93,
-      "stockText": "93 disponibles",
+      "stockQuantity": 88,
+      "stockText": "88 disponibles",
       "image": "img/catalogo/bf2507aab364f8e7196a.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46341,8 +46147,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88247/"
       ],
-      "stockQuantity": 40,
-      "stockText": "40 disponibles",
+      "stockQuantity": 34,
+      "stockText": "34 disponibles",
       "image": "img/catalogo/4e3c34b0971a4a7ae6cf.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46709,8 +46515,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87750/"
       ],
-      "stockQuantity": 519,
-      "stockText": "519 disponibles",
+      "stockQuantity": 514,
+      "stockText": "514 disponibles",
       "image": "img/catalogo/39bf08cfde5adb9b3c7e.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46754,8 +46560,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87684/"
       ],
-      "stockQuantity": 38,
-      "stockText": "38 disponibles",
+      "stockQuantity": 37,
+      "stockText": "37 disponibles",
       "image": "img/catalogo/0ee0023e7615f117c192.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46799,8 +46605,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87683/"
       ],
-      "stockQuantity": 27,
-      "stockText": "27 disponibles",
+      "stockQuantity": 26,
+      "stockText": "26 disponibles",
       "image": "img/catalogo/277bd9868dab8dc1f4a0.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46844,8 +46650,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87682/"
       ],
-      "stockQuantity": 54,
-      "stockText": "54 disponibles",
+      "stockQuantity": 53,
+      "stockText": "53 disponibles",
       "image": "img/catalogo/22dd38cedeeb316c36a8.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46889,8 +46695,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87680/"
       ],
-      "stockQuantity": 24,
-      "stockText": "24 disponibles",
+      "stockQuantity": 23,
+      "stockText": "23 disponibles",
       "image": "img/catalogo/b6b2934c6756effa11da.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -46934,8 +46740,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87676/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 9,
+      "stockText": "9 disponibles",
       "image": "img/catalogo/28da9d9cac465c6f1cfe.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -47294,8 +47100,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/86654/"
       ],
-      "stockQuantity": 32,
-      "stockText": "32 disponibles",
+      "stockQuantity": 30,
+      "stockText": "30 disponibles",
       "image": "img/catalogo/472ba1fc0aa07e9ffb7d.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -48294,8 +48100,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/84609/"
       ],
-      "stockQuantity": 210,
-      "stockText": "210 disponibles",
+      "stockQuantity": 209,
+      "stockText": "209 disponibles",
       "image": "img/catalogo/8238ae9368d514442616.webp",
       "sourceCategory": "",
       "category": "Impresión",
@@ -48339,8 +48145,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/84608/"
       ],
-      "stockQuantity": 184,
-      "stockText": "184 disponibles",
+      "stockQuantity": 183,
+      "stockText": "183 disponibles",
       "image": "img/catalogo/a940399ac9a9e44a437b.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -48432,8 +48238,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/83517/"
       ],
-      "stockQuantity": 38,
-      "stockText": "38 disponibles",
+      "stockQuantity": 37,
+      "stockText": "37 disponibles",
       "image": "img/catalogo/81f76f15b9632e620e95.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -48656,8 +48462,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/83303/"
       ],
-      "stockQuantity": 33,
-      "stockText": "33 disponibles",
+      "stockQuantity": 30,
+      "stockText": "30 disponibles",
       "image": "img/catalogo/1c75380e852c2d15f055.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -48700,8 +48506,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/83284/"
       ],
-      "stockQuantity": 65,
-      "stockText": "65 disponibles",
+      "stockQuantity": 68,
+      "stockText": "68 disponibles",
       "image": "img/catalogo/5e8508b65a05fa311c5b.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -49011,8 +48817,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/82885/"
       ],
-      "stockQuantity": 66,
-      "stockText": "66 disponibles",
+      "stockQuantity": 63,
+      "stockText": "63 disponibles",
       "image": "img/catalogo/3f78ed38d515de52a725.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -49566,8 +49372,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/80782/"
       ],
-      "stockQuantity": 3,
-      "stockText": "3 disponibles",
+      "stockQuantity": 15,
+      "stockText": "15 disponibles",
       "image": "img/catalogo/88bd4f4ce4ab04e8de5e.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50191,8 +49997,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/79294/"
       ],
-      "stockQuantity": 211,
-      "stockText": "211 disponibles",
+      "stockQuantity": 209,
+      "stockText": "209 disponibles",
       "image": "img/catalogo/cc6aa21df3b20ba8cfba.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50236,8 +50042,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/79293/"
       ],
-      "stockQuantity": 239,
-      "stockText": "239 disponibles",
+      "stockQuantity": 238,
+      "stockText": "238 disponibles",
       "image": "img/catalogo/c50db9ebcadb7d1b9601.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50281,8 +50087,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/79292/"
       ],
-      "stockQuantity": 201,
-      "stockText": "201 disponibles",
+      "stockQuantity": 200,
+      "stockText": "200 disponibles",
       "image": "img/catalogo/afcb575dd842840e88ce.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50325,8 +50131,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/79108/"
       ],
-      "stockQuantity": 40,
-      "stockText": "40 disponibles",
+      "stockQuantity": 39,
+      "stockText": "39 disponibles",
       "image": "img/catalogo/f013b41c97212cce307d.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -50515,8 +50321,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78775/"
       ],
-      "stockQuantity": 72,
-      "stockText": "72 disponibles",
+      "stockQuantity": 71,
+      "stockText": "71 disponibles",
       "image": "img/catalogo/7bf93bd31f65990deb3b.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50560,8 +50366,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78774/"
       ],
-      "stockQuantity": 131,
-      "stockText": "131 disponibles",
+      "stockQuantity": 128,
+      "stockText": "128 disponibles",
       "image": "img/catalogo/a8a0eefcca23d0243f16.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -50649,8 +50455,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78752/"
       ],
-      "stockQuantity": 138,
-      "stockText": "138 disponibles",
+      "stockQuantity": 127,
+      "stockText": "127 disponibles",
       "image": "img/catalogo/85801980b38be20933df.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -51281,8 +51087,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78052/"
       ],
-      "stockQuantity": 220,
-      "stockText": "220 disponibles",
+      "stockQuantity": 219,
+      "stockText": "219 disponibles",
       "image": "img/catalogo/782c6bf07742dbc71608.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -51326,8 +51132,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78051/"
       ],
-      "stockQuantity": 214,
-      "stockText": "214 disponibles",
+      "stockQuantity": 213,
+      "stockText": "213 disponibles",
       "image": "img/catalogo/a9de7758e4d15b1d3125.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -51370,8 +51176,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78050/"
       ],
-      "stockQuantity": 237,
-      "stockText": "237 disponibles",
+      "stockQuantity": 236,
+      "stockText": "236 disponibles",
       "image": "img/catalogo/12e73c418f52eb3c0ca5.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -51414,8 +51220,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78049/"
       ],
-      "stockQuantity": 329,
-      "stockText": "329 disponibles",
+      "stockQuantity": 323,
+      "stockText": "323 disponibles",
       "image": "img/catalogo/1ef4aff55be7a27179bc.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -52418,8 +52224,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/77322/"
       ],
-      "stockQuantity": 25,
-      "stockText": "25 disponibles",
+      "stockQuantity": 24,
+      "stockText": "24 disponibles",
       "image": "img/catalogo/3e3148dcac7a18b6f76b.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -52695,8 +52501,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/76676/"
       ],
-      "stockQuantity": 443,
-      "stockText": "443 disponibles",
+      "stockQuantity": 442,
+      "stockText": "442 disponibles",
       "image": "img/catalogo/aab589e7ea424fa6209e.png",
       "sourceCategory": "",
       "category": "Redes",
@@ -53777,8 +53583,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/75211/"
       ],
-      "stockQuantity": 1840,
-      "stockText": "1840 disponibles",
+      "stockQuantity": 1819,
+      "stockText": "1819 disponibles",
       "image": "img/catalogo/b7f6a1dbf0ff2e6028a7.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -53818,8 +53624,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/75210/"
       ],
-      "stockQuantity": 1985,
-      "stockText": "1985 disponibles",
+      "stockQuantity": 2052,
+      "stockText": "2052 disponibles",
       "image": "img/catalogo/1d64c07c011dc0ced87b.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -53862,8 +53668,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/75209/"
       ],
-      "stockQuantity": 1423,
-      "stockText": "1423 disponibles",
+      "stockQuantity": 1523,
+      "stockText": "1523 disponibles",
       "image": "img/catalogo/f2802d62e387dc15e56e.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -54807,8 +54613,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/74700/"
       ],
-      "stockQuantity": 781,
-      "stockText": "781 disponibles",
+      "stockQuantity": 764,
+      "stockText": "764 disponibles",
       "image": "img/catalogo/a30c00eecd7cc3395477.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -55252,8 +55058,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/73628/"
       ],
-      "stockQuantity": 1407,
-      "stockText": "1407 disponibles",
+      "stockQuantity": 1402,
+      "stockText": "1402 disponibles",
       "image": "img/catalogo/2b60c2f2dac392a4121d.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -57240,8 +57046,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70886/"
       ],
-      "stockQuantity": 230,
-      "stockText": "230 disponibles",
+      "stockQuantity": 221,
+      "stockText": "221 disponibles",
       "image": "img/catalogo/d44f4f2862865f24ea70.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -57386,8 +57192,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70520/"
       ],
-      "stockQuantity": 44,
-      "stockText": "44 disponibles",
+      "stockQuantity": 41,
+      "stockText": "41 disponibles",
       "image": "img/catalogo/6027e83da357c71274d3.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -57430,8 +57236,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70519/"
       ],
-      "stockQuantity": 12,
-      "stockText": "12 disponibles",
+      "stockQuantity": 11,
+      "stockText": "11 disponibles",
       "image": "img/catalogo/5fae80af250f16ada6a0.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -57474,8 +57280,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70518/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 48,
+      "stockText": "48 disponibles",
       "image": "img/catalogo/d706f0223a2976ec01e4.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -57519,8 +57325,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/70517/"
       ],
-      "stockQuantity": 20,
-      "stockText": "20 disponibles",
+      "stockQuantity": 19,
+      "stockText": "19 disponibles",
       "image": "img/catalogo/a20d1d9c7bd2143a7d00.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -58511,8 +58317,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/69149/"
       ],
-      "stockQuantity": 23,
-      "stockText": "23 disponibles",
+      "stockQuantity": 22,
+      "stockText": "22 disponibles",
       "image": "img/catalogo/66aa898d46a26417210c.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -58640,8 +58446,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/68590/"
       ],
-      "stockQuantity": 110,
-      "stockText": "110 disponibles",
+      "stockQuantity": 109,
+      "stockText": "109 disponibles",
       "image": "img/catalogo/895c5998d762ef9e864a.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -59444,8 +59250,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/67278/"
       ],
-      "stockQuantity": 12,
-      "stockText": "12 disponibles",
+      "stockQuantity": 11,
+      "stockText": "11 disponibles",
       "image": "img/catalogo/b4cec6cb7a4b4006a9ca.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -59622,8 +59428,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/66724/"
       ],
-      "stockQuantity": 1611,
-      "stockText": "1611 disponibles",
+      "stockQuantity": 1608,
+      "stockText": "1608 disponibles",
       "image": "img/catalogo/7cc846ea8e8b99951b52.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -59711,8 +59517,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/66603/"
       ],
-      "stockQuantity": 157,
-      "stockText": "157 disponibles",
+      "stockQuantity": 156,
+      "stockText": "156 disponibles",
       "image": "img/catalogo/efb7af6e384a63d42c08.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -60296,8 +60102,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/65353/"
       ],
-      "stockQuantity": 477,
-      "stockText": "477 disponibles",
+      "stockQuantity": 473,
+      "stockText": "473 disponibles",
       "image": "img/catalogo/8a3c0ab9d7902d40865d.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -60341,8 +60147,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/65350/"
       ],
-      "stockQuantity": 330,
-      "stockText": "330 disponibles",
+      "stockQuantity": 322,
+      "stockText": "322 disponibles",
       "image": "img/catalogo/c56f379f47c95f008748.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -60385,8 +60191,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/65349/"
       ],
-      "stockQuantity": 493,
-      "stockText": "493 disponibles",
+      "stockQuantity": 482,
+      "stockText": "482 disponibles",
       "image": "img/catalogo/3c927f2729661a4b6f39.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -60430,8 +60236,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/65348/"
       ],
-      "stockQuantity": 438,
-      "stockText": "438 disponibles",
+      "stockQuantity": 433,
+      "stockText": "433 disponibles",
       "image": "img/catalogo/3c927f2729661a4b6f39.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -60608,8 +60414,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/65173/"
       ],
-      "stockQuantity": 10,
-      "stockText": "10 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/8e4a406b2f1d450f0dfb.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -62226,8 +62032,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/62502/"
       ],
-      "stockQuantity": 489,
-      "stockText": "489 disponibles",
+      "stockQuantity": 487,
+      "stockText": "487 disponibles",
       "image": "img/catalogo/489a185c42581dc8aa10.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -62672,8 +62478,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/61829/"
       ],
-      "stockQuantity": 455,
-      "stockText": "455 disponibles",
+      "stockQuantity": 332,
+      "stockText": "332 disponibles",
       "image": "img/catalogo/791bd42b96c42ec669f5.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -63382,8 +63188,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109649/"
       ],
-      "stockQuantity": 65,
-      "stockText": "65 disponibles",
+      "stockQuantity": 60,
+      "stockText": "60 disponibles",
       "image": "img/catalogo/7efd8cc255eb61bd416e.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -63563,8 +63369,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96821/"
       ],
-      "stockQuantity": 21,
-      "stockText": "21 disponibles",
+      "stockQuantity": 22,
+      "stockText": "22 disponibles",
       "image": "img/catalogo/e2d36a231bbfaa095cdb.webp",
       "sourceCategory": "",
       "category": "Energía",
@@ -63779,8 +63585,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109300/"
       ],
-      "stockQuantity": 45,
-      "stockText": "45 disponibles",
+      "stockQuantity": 43,
+      "stockText": "43 disponibles",
       "image": "img/catalogo/320b6312a3490bc11bca.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -63843,8 +63649,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109299/"
       ],
-      "stockQuantity": 204,
-      "stockText": "204 disponibles",
+      "stockQuantity": 181,
+      "stockText": "181 disponibles",
       "image": "img/catalogo/358557dd1761b9ca8e79.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -63919,8 +63725,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107983/"
       ],
-      "stockQuantity": 43,
-      "stockText": "43 disponibles",
+      "stockQuantity": 44,
+      "stockText": "44 disponibles",
       "image": "img/catalogo/2f5f3757e09c5da3a538.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -63972,8 +63778,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/80939/"
       ],
-      "stockQuantity": 53,
-      "stockText": "53 disponibles",
+      "stockQuantity": 52,
+      "stockText": "52 disponibles",
       "image": "img/catalogo/5971b7ef0634735a1d8e.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -64500,8 +64306,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88337/"
       ],
-      "stockQuantity": 52,
-      "stockText": "52 disponibles",
+      "stockQuantity": 50,
+      "stockText": "50 disponibles",
       "image": "img/catalogo/d3d2370c26c6e90b59cf.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -64839,8 +64645,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108727/"
       ],
-      "stockQuantity": 89,
-      "stockText": "89 disponibles",
+      "stockQuantity": 84,
+      "stockText": "84 disponibles",
       "image": "img/catalogo/7abf6e4c6a7d50392e4d.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -64908,8 +64714,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108769/"
       ],
-      "stockQuantity": 42,
-      "stockText": "42 disponibles",
+      "stockQuantity": 38,
+      "stockText": "38 disponibles",
       "image": "img/catalogo/59e318d7e008be824c4f.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -65170,8 +64976,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108156/"
       ],
-      "stockQuantity": 30,
-      "stockText": "30 disponibles",
+      "stockQuantity": 28,
+      "stockText": "28 disponibles",
       "image": "img/catalogo/96796c7d71ae183241e8.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -65386,8 +65192,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/86008/"
       ],
-      "stockQuantity": 257,
-      "stockText": "257 disponibles",
+      "stockQuantity": 242,
+      "stockText": "242 disponibles",
       "image": "img/catalogo/cb4b6fe5a09003565517.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -65425,8 +65231,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/86007/"
       ],
-      "stockQuantity": 266,
-      "stockText": "266 disponibles",
+      "stockQuantity": 264,
+      "stockText": "264 disponibles",
       "image": "img/catalogo/d73ba904ec7a54594112.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -65463,8 +65269,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/86006/"
       ],
-      "stockQuantity": 382,
-      "stockText": "382 disponibles",
+      "stockQuantity": 320,
+      "stockText": "320 disponibles",
       "image": "img/catalogo/3b27359fd875fb496e76.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -65583,8 +65389,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105828/"
       ],
-      "stockQuantity": 113,
-      "stockText": "113 disponibles",
+      "stockQuantity": 111,
+      "stockText": "111 disponibles",
       "image": "img/catalogo/5ba3072159691dc6f049.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -65883,8 +65689,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96942/"
       ],
-      "stockQuantity": 81,
-      "stockText": "81 disponibles",
+      "stockQuantity": 78,
+      "stockText": "78 disponibles",
       "image": "img/catalogo/b2f462015a625323c0b5.webp",
       "sourceCategory": "",
       "category": "Impresión",
@@ -66029,8 +65835,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94605/"
       ],
-      "stockQuantity": 17,
-      "stockText": "17 disponibles",
+      "stockQuantity": 12,
+      "stockText": "12 disponibles",
       "image": "img/catalogo/8df4bea031812cec0034.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -66353,8 +66159,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107157/"
       ],
-      "stockQuantity": 18,
-      "stockText": "18 disponibles",
+      "stockQuantity": 16,
+      "stockText": "16 disponibles",
       "image": "img/catalogo/902d4f1e744697b57d0d.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -66832,8 +66638,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/84575/"
       ],
-      "stockQuantity": 300,
-      "stockText": "300 disponibles",
+      "stockQuantity": 296,
+      "stockText": "296 disponibles",
       "image": "img/catalogo/d35f3f28a1d814ac91dd.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -66878,8 +66684,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/82628/"
       ],
-      "stockQuantity": 203,
-      "stockText": "203 disponibles",
+      "stockQuantity": 200,
+      "stockText": "200 disponibles",
       "image": "img/catalogo/f0d72edc620628219a4f.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -67018,8 +66824,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105844/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 48,
+      "stockText": "48 disponibles",
       "image": "img/catalogo/b1381c58b69b41a6b0a8.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -67140,8 +66946,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106087/"
       ],
-      "stockQuantity": 11,
-      "stockText": "11 disponibles",
+      "stockQuantity": 10,
+      "stockText": "10 disponibles",
       "image": "img/catalogo/4bba64728b18240c2b8d.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -67192,8 +66998,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/77525/"
       ],
-      "stockQuantity": 108,
-      "stockText": "108 disponibles",
+      "stockQuantity": 97,
+      "stockText": "97 disponibles",
       "image": "img/catalogo/6687e81f07e8a6c49914.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -67296,8 +67102,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/77594/"
       ],
-      "stockQuantity": 499,
-      "stockText": "499 disponibles",
+      "stockQuantity": 498,
+      "stockText": "498 disponibles",
       "image": "img/catalogo/2015529af8e931ace136.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -67798,8 +67604,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108103/"
       ],
-      "stockQuantity": 56,
-      "stockText": "56 disponibles",
+      "stockQuantity": 55,
+      "stockText": "55 disponibles",
       "image": "img/catalogo/2a568c9af48683e557f3.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -68059,8 +67865,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91547/"
       ],
-      "stockQuantity": 269,
-      "stockText": "269 disponibles",
+      "stockQuantity": 244,
+      "stockText": "244 disponibles",
       "image": "img/catalogo/28bde9c422069fb3f4cd.png",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -68699,8 +68505,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96502/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 5,
+      "stockText": "5 disponibles",
       "image": "img/catalogo/8296233f36410601fefc.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -68755,8 +68561,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96500/"
       ],
-      "stockQuantity": 46,
-      "stockText": "46 disponibles",
+      "stockQuantity": 30,
+      "stockText": "30 disponibles",
       "image": "img/catalogo/b74f6a2f89b4e977d289.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -68807,8 +68613,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96503/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/8e2813a1d9c261240600.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -68891,8 +68697,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89096/"
       ],
-      "stockQuantity": 35,
-      "stockText": "35 disponibles",
+      "stockQuantity": 31,
+      "stockText": "31 disponibles",
       "image": "img/catalogo/f821a93e214681f01a78.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -68948,8 +68754,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89108/"
       ],
-      "stockQuantity": 26,
-      "stockText": "26 disponibles",
+      "stockQuantity": 23,
+      "stockText": "23 disponibles",
       "image": "img/catalogo/f821a93e214681f01a78.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -69045,8 +68851,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96499/"
       ],
-      "stockQuantity": 19,
-      "stockText": "19 disponibles",
+      "stockQuantity": 15,
+      "stockText": "15 disponibles",
       "image": "img/catalogo/b88cc377917359dda105.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -69098,8 +68904,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96510/"
       ],
-      "stockQuantity": 36,
-      "stockText": "36 disponibles",
+      "stockQuantity": 30,
+      "stockText": "30 disponibles",
       "image": "img/catalogo/e39b7e6d28f9e07ffb89.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -69142,8 +68948,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96498/"
       ],
-      "stockQuantity": 27,
-      "stockText": "27 disponibles",
+      "stockQuantity": 20,
+      "stockText": "20 disponibles",
       "image": "img/catalogo/ac56aa5ae61e3a80341c.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -69190,8 +68996,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96832/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 3,
+      "stockText": "3 disponibles",
       "image": "img/catalogo/736aace0d25082c4b65e.webp",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -69563,8 +69369,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94734/"
       ],
-      "stockQuantity": 488,
-      "stockText": "488 disponibles",
+      "stockQuantity": 465,
+      "stockText": "465 disponibles",
       "image": "img/catalogo/90263f44b1a4f2ab648d.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -70107,8 +69913,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/77228/"
       ],
-      "stockQuantity": 732,
-      "stockText": "732 disponibles",
+      "stockQuantity": 726,
+      "stockText": "726 disponibles",
       "image": "img/catalogo/17764d722b84db20c3de.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -70167,8 +69973,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/77230/"
       ],
-      "stockQuantity": 509,
-      "stockText": "509 disponibles",
+      "stockQuantity": 498,
+      "stockText": "498 disponibles",
       "image": "img/catalogo/8be66b174581eaa2b4ec.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -70368,8 +70174,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/82595/"
       ],
-      "stockQuantity": 188,
-      "stockText": "188 disponibles",
+      "stockQuantity": 187,
+      "stockText": "187 disponibles",
       "image": "img/catalogo/2157c60a473f58f93120.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -70416,8 +70222,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90658/"
       ],
-      "stockQuantity": 80,
-      "stockText": "80 disponibles",
+      "stockQuantity": 79,
+      "stockText": "79 disponibles",
       "image": "img/catalogo/47e46f5e419738db847b.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -70655,8 +70461,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/84780/"
       ],
-      "stockQuantity": 611,
-      "stockText": "611 disponibles",
+      "stockQuantity": 610,
+      "stockText": "610 disponibles",
       "image": "img/catalogo/2a33fdef7c1df54d52cf.jpg",
       "sourceCategory": "",
       "category": "Redes",
@@ -70764,8 +70570,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/85133/"
       ],
-      "stockQuantity": 65,
-      "stockText": "65 disponibles",
+      "stockQuantity": 69,
+      "stockText": "69 disponibles",
       "image": "img/catalogo/bb19ef16bbb51b4d5b17.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -71330,8 +71136,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/81361/"
       ],
-      "stockQuantity": 518,
-      "stockText": "518 disponibles",
+      "stockQuantity": 506,
+      "stockText": "506 disponibles",
       "image": "img/catalogo/4ffb8ec9eed174b5b091.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -71379,8 +71185,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/81248/"
       ],
-      "stockQuantity": 1492,
-      "stockText": "1492 disponibles",
+      "stockQuantity": 1438,
+      "stockText": "1438 disponibles",
       "image": "img/catalogo/73d48fd2af7a287e1c5d.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -71443,8 +71249,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/81249/"
       ],
-      "stockQuantity": 996,
-      "stockText": "996 disponibles",
+      "stockQuantity": 968,
+      "stockText": "968 disponibles",
       "image": "img/catalogo/73d48fd2af7a287e1c5d.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -71494,8 +71300,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90805/"
       ],
-      "stockQuantity": 37,
-      "stockText": "37 disponibles",
+      "stockQuantity": 36,
+      "stockText": "36 disponibles",
       "image": "img/catalogo/e7dc18bfeb34d99b02ca.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -71666,8 +71472,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/82594/"
       ],
-      "stockQuantity": 30,
-      "stockText": "30 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/1c461c53ab955f50306c.jpg",
       "sourceCategory": "",
       "category": "Computación",
@@ -71714,8 +71520,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/83192/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/55034881f44eb6fd8b99.webp",
       "sourceCategory": "",
       "category": "Redes",
@@ -71946,8 +71752,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/88244/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 15,
+      "stockText": "15 disponibles",
       "image": "img/catalogo/207cad0415cfd56f61c9.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -72126,8 +71932,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89193/"
       ],
-      "stockQuantity": 812,
-      "stockText": "812 disponibles",
+      "stockQuantity": 793,
+      "stockText": "793 disponibles",
       "image": "img/catalogo/798f94564e7c018c9bd2.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -72182,8 +71988,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89192/"
       ],
-      "stockQuantity": 808,
-      "stockText": "808 disponibles",
+      "stockQuantity": 792,
+      "stockText": "792 disponibles",
       "image": "img/catalogo/2ad890f3b87897323533.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -72246,8 +72052,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89194/"
       ],
-      "stockQuantity": 224,
-      "stockText": "224 disponibles",
+      "stockQuantity": 222,
+      "stockText": "222 disponibles",
       "image": "img/catalogo/843589b236d34626680e.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -72875,8 +72681,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91255/"
       ],
-      "stockQuantity": 347,
-      "stockText": "347 disponibles",
+      "stockQuantity": 318,
+      "stockText": "318 disponibles",
       "image": "img/catalogo/413dfa8c743a4e522452.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -72920,8 +72726,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91441/"
       ],
-      "stockQuantity": 59,
-      "stockText": "59 disponibles",
+      "stockQuantity": 57,
+      "stockText": "57 disponibles",
       "image": "img/catalogo/3517ce8180d8ba3475e1.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -73154,8 +72960,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93218/"
       ],
-      "stockQuantity": 19,
-      "stockText": "19 disponibles",
+      "stockQuantity": 18,
+      "stockText": "18 disponibles",
       "image": "img/catalogo/91d407ab1c8ed49ae4d4.png",
       "sourceCategory": "",
       "category": "Oficina",
@@ -73258,8 +73064,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94612/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 47,
+      "stockText": "47 disponibles",
       "image": "img/catalogo/ee49c7c030ab18233592.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -73364,8 +73170,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94943/"
       ],
-      "stockQuantity": 108,
-      "stockText": "108 disponibles",
+      "stockQuantity": 106,
+      "stockText": "106 disponibles",
       "image": "img/catalogo/468b493d53ff88ee7667.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -73558,8 +73364,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96316/"
       ],
-      "stockQuantity": 21,
-      "stockText": "21 disponibles",
+      "stockQuantity": 19,
+      "stockText": "19 disponibles",
       "image": "img/catalogo/b4b3e45f5bef7ae58196.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -75277,8 +75083,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109663/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/b29ddfc4b4fb34552c68.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -75785,8 +75591,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110931/"
       ],
-      "stockQuantity": 8,
-      "stockText": "8 disponibles",
+      "stockQuantity": 7,
+      "stockText": "7 disponibles",
       "image": "img/catalogo/4ddd7ff92dfd639d264e.webp",
       "sourceCategory": "",
       "category": "Impresión",
@@ -75873,8 +75679,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/93053/"
       ],
-      "stockQuantity": 74,
-      "stockText": "74 disponibles",
+      "stockQuantity": 73,
+      "stockText": "73 disponibles",
       "image": "img/catalogo/91737c24628d2c0b75b1.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -75962,8 +75768,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/78951/"
       ],
-      "stockQuantity": 27,
-      "stockText": "27 disponibles",
+      "stockQuantity": 25,
+      "stockText": "25 disponibles",
       "image": "img/catalogo/65b353fc35899da41b48.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -76153,8 +75959,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/87559/"
       ],
-      "stockQuantity": 219,
-      "stockText": "219 disponibles",
+      "stockQuantity": 217,
+      "stockText": "217 disponibles",
       "image": "img/catalogo/e2323e38a175d2351688.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -76370,8 +76176,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94293/"
       ],
-      "stockQuantity": 38,
-      "stockText": "38 disponibles",
+      "stockQuantity": 37,
+      "stockText": "37 disponibles",
       "image": "img/catalogo/a7e5e8fb9a88b1f2cf7b.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -76466,8 +76272,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95014/"
       ],
-      "stockQuantity": 49,
-      "stockText": "49 disponibles",
+      "stockQuantity": 47,
+      "stockText": "47 disponibles",
       "image": "img/catalogo/21d65de585cba65faa8d.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -76556,8 +76362,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104887/"
       ],
-      "stockQuantity": 17,
-      "stockText": "17 disponibles",
+      "stockQuantity": 16,
+      "stockText": "16 disponibles",
       "image": "img/catalogo/e69d1d86cf68aa2f6c7b.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -76953,8 +76759,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/67388/"
       ],
-      "stockQuantity": 29,
-      "stockText": "29 disponibles",
+      "stockQuantity": 25,
+      "stockText": "25 disponibles",
       "image": "img/catalogo/a446c7e71d6b23558e18.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -77066,8 +76872,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89195/"
       ],
-      "stockQuantity": 154,
-      "stockText": "154 disponibles",
+      "stockQuantity": 152,
+      "stockText": "152 disponibles",
       "image": "img/catalogo/57682593910f6274db69.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77110,8 +76916,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89200/"
       ],
-      "stockQuantity": 15,
-      "stockText": "15 disponibles",
+      "stockQuantity": 13,
+      "stockText": "13 disponibles",
       "image": "img/catalogo/b60967ef1c1d49506cc5.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77155,8 +76961,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/90754/"
       ],
-      "stockQuantity": 176,
-      "stockText": "176 disponibles",
+      "stockQuantity": 168,
+      "stockText": "168 disponibles",
       "image": "img/catalogo/c91e1330ae54d8666929.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77199,8 +77005,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91166/"
       ],
-      "stockQuantity": 20,
-      "stockText": "20 disponibles",
+      "stockQuantity": 19,
+      "stockText": "19 disponibles",
       "image": "img/catalogo/68b5b902f0e415528479.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77259,8 +77065,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/91692/"
       ],
-      "stockQuantity": 12,
-      "stockText": "12 disponibles",
+      "stockQuantity": 13,
+      "stockText": "13 disponibles",
       "image": "img/catalogo/794cd4c75278fd95d30d.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77303,8 +77109,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92122/"
       ],
-      "stockQuantity": 96,
-      "stockText": "96 disponibles",
+      "stockQuantity": 95,
+      "stockText": "95 disponibles",
       "image": "img/catalogo/ba8d3b508621bce7a7c7.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77348,8 +77154,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/92515/"
       ],
-      "stockQuantity": 29,
-      "stockText": "29 disponibles",
+      "stockQuantity": 25,
+      "stockText": "25 disponibles",
       "image": "img/catalogo/367c29eff6697bcf77c9.png",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77433,8 +77239,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95016/"
       ],
-      "stockQuantity": 9,
-      "stockText": "9 disponibles",
+      "stockQuantity": 8,
+      "stockText": "8 disponibles",
       "image": "img/catalogo/1da0be2803604a2f18a4.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77526,8 +77332,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/95441/"
       ],
-      "stockQuantity": 14,
-      "stockText": "14 disponibles",
+      "stockQuantity": 12,
+      "stockText": "12 disponibles",
       "image": "img/catalogo/66335aba28510f14fc42.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77667,8 +77473,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/105889/"
       ],
-      "stockQuantity": 52,
-      "stockText": "52 disponibles",
+      "stockQuantity": 49,
+      "stockText": "49 disponibles",
       "image": "img/catalogo/6359f14f52503da5ad12.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -77711,8 +77517,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106200/"
       ],
-      "stockQuantity": 93,
-      "stockText": "93 disponibles",
+      "stockQuantity": 86,
+      "stockText": "86 disponibles",
       "image": "img/catalogo/7b0c2b6e293ec00b4ab5.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -78216,8 +78022,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/89295/"
       ],
-      "stockQuantity": 6,
-      "stockText": "6 disponibles",
+      "stockQuantity": 2,
+      "stockText": "2 disponibles",
       "image": "img/catalogo/4dce15d94c7ab844ce8c.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -78640,8 +78446,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94606/"
       ],
-      "stockQuantity": 47,
-      "stockText": "47 disponibles",
+      "stockQuantity": 36,
+      "stockText": "36 disponibles",
       "image": "img/catalogo/9ee996d9cd16a71f32d8.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -78685,8 +78491,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/94607/"
       ],
-      "stockQuantity": 46,
-      "stockText": "46 disponibles",
+      "stockQuantity": 35,
+      "stockText": "35 disponibles",
       "image": "img/catalogo/864e3cb1b52a9908bfe1.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -78835,8 +78641,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/96223/"
       ],
-      "stockQuantity": 5,
-      "stockText": "5 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/a383463be67f86d656c4.png",
       "sourceCategory": "",
       "category": "Computación",
@@ -78845,68 +78651,6 @@
       "description": "<p>💻 <strong>Modelo:</strong> Dell OptiPlex 3060 MFF</p>\n<p>🔄 <strong>Condicion:</strong> Reacondicionado (Refurbished)</p>\n<p>🧠 <strong>Procesador:</strong> Intel Core i3-8100T @ 2.10GHz</p>\n<p>⚡ <strong>Memoria RAM:</strong> 8GB DDR4</p>\n<p>💾 <strong>Almacenamiento:</strong> 240GB SSD</p>\n<p>🔌 <strong>Puertos:</strong> HDMI, DisplayPort</p>\n<p>💿 <strong>Sistema Operativo:</strong> Windows 10 Pro</p>\n<p>⌨️ <strong>Accesorios incluidos:</strong> Teclado y Mouse</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/0b18645c-a38b-4034-b5cc-b8896d4780e2.png",
       "model": "Dell OptiPlex 3060 MFF",
-      "specificationsUpdated": "2026-11-05T17:48:11+00:00"
-    },
-    {
-      "id": "80000096318",
-      "reference": "96318",
-      "name": "Impresora Multifuncional HP LaserJet MFP M141w Blanco y Negro Láser con WiFi y USB",
-      "spec": "La HP LaserJet MFP M141w ofrece impresión, copiado y escaneo en blanco y negro con tecnología láser, conectividad WiFi y bandeja de 150 hojas, ideal para oficinas.",
-      "price": 12400.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Multifuncional 3 en 1",
-          "value": "imprime, copia y escanea"
-        },
-        {
-          "label": "Velocidad de impresión",
-          "value": "hasta 20 ppm"
-        },
-        {
-          "label": "Velocidad de copiado",
-          "value": "hasta 20 ppm"
-        },
-        {
-          "label": "Código de producto",
-          "value": "7MD74A"
-        }
-      ],
-      "features": [
-        "Tipo y aplicación:",
-        "Ideal para oficinas y negocios con alto volumen de trabajo",
-        "Potencia y tipo:",
-        "Tecnología de impresión láser monocromática",
-        "Resolución y calidad:",
-        "Impresión nítida en blanco y negro",
-        "Escaneo de documentos con alta definición",
-        "Conectividad y puertos:",
-        "Conexión inalámbrica WiFi integrada",
-        "Puerto USB 2.0 de alta velocidad",
-        "Diseño y materiales:",
-        "Acabado en color blanco compacto y profesional",
-        "Bandeja de entrada con capacidad para 150 hojas",
-        "Dimensiones y peso:",
-        "Compatible con formatos Legal (216 × 356 mm) y A4 (210 × 297 mm)",
-        "Estructura ligera y práctica para escritorio",
-        "Acceso y mantenimiento:",
-        "Utiliza tóner HP 150A (W1500A)",
-        "Fácil reemplazo de cartuchos y mantenimiento sencillo",
-        "Estándares y certificaciones:",
-        "Calidad y confiabilidad HP LaserJet"
-      ],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/96318/"
-      ],
-      "stockQuantity": 1,
-      "stockText": "1 disponibles",
-      "image": "img/catalogo/a73f2a37649642c2c046.webp",
-      "sourceCategory": "",
-      "category": "Impresión",
-      "brand": "HP",
-      "subcategory": "Impresoras",
-      "description": "<p>🖥️ <strong>Tipo y aplicación:</strong><br>🖨️ Multifuncional 3 en 1: imprime, copia y escanea<br>📑 Ideal para oficinas y negocios con alto volumen de trabajo</p>\n<p>⚡ <strong>Potencia y tipo:</strong><br>⚡ Tecnología de impresión láser monocromática<br>📄 Velocidad de impresión: hasta 20 ppm<br>📠 Velocidad de copiado: hasta 20 ppm</p>\n<p>📷 <strong>Resolución y calidad:</strong><br>🖋️ Impresión nítida en blanco y negro<br>📠 Escaneo de documentos con alta definición</p>\n<p>📡 <strong>Conectividad y puertos:</strong><br>📶 Conexión inalámbrica WiFi integrada<br>🔌 Puerto USB 2.0 de alta velocidad</p>\n<p>🎨 <strong>Diseño y materiales:</strong><br>⚪ Acabado en color blanco compacto y profesional<br>📦 Bandeja de entrada con capacidad para 150 hojas</p>\n<p>📏 <strong>Dimensiones y peso:</strong><br>📐 Compatible con formatos Legal (216 × 356 mm) y A4 (210 × 297 mm)<br>📦 Estructura ligera y práctica para escritorio</p>\n<p>🧩 <strong>Acceso y mantenimiento:</strong><br>🖋️ Utiliza tóner HP 150A (W1500A)<br>🔄 Fácil reemplazo de cartuchos y mantenimiento sencillo</p>\n<p>🛡️ <strong>Estándares y certificaciones:</strong><br>✔️ Código de producto: 7MD74A<br>✔️ Calidad y confiabilidad HP LaserJet</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2024/05/7MD74A.webp",
       "specificationsUpdated": "2026-11-05T17:48:11+00:00"
     },
     {
@@ -79002,8 +78746,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/104806/"
       ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
       "image": "img/catalogo/a9387474f035d890339d.png",
       "sourceCategory": "",
       "category": "Seguridad",
@@ -79091,8 +78835,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/106199/"
       ],
-      "stockQuantity": 115,
-      "stockText": "115 disponibles",
+      "stockQuantity": 107,
+      "stockText": "107 disponibles",
       "image": "img/catalogo/9cf20fff0e0a8ceff8c2.jpg",
       "sourceCategory": "",
       "category": "Impresión",
@@ -79423,8 +79167,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/107471/"
       ],
-      "stockQuantity": 60,
-      "stockText": "60 disponibles",
+      "stockQuantity": 55,
+      "stockText": "55 disponibles",
       "image": "img/catalogo/0891ffb9a9ccb681f18c.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -79589,8 +79333,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109298/"
       ],
-      "stockQuantity": 3,
-      "stockText": "3 disponibles",
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
       "image": "img/catalogo/608aba61472eae5ea64f.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -79750,8 +79494,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/109906/"
       ],
-      "stockQuantity": 35,
-      "stockText": "35 disponibles",
+      "stockQuantity": 33,
+      "stockText": "33 disponibles",
       "image": "img/catalogo/f2bb6a3bd1d9ae846752.jpg",
       "sourceCategory": "",
       "category": "Cricut",
@@ -79948,8 +79692,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/110067/"
       ],
-      "stockQuantity": 76,
-      "stockText": "76 disponibles",
+      "stockQuantity": 51,
+      "stockText": "51 disponibles",
       "image": "img/catalogo/59687022fbcbc0d8383d.webp",
       "sourceCategory": "",
       "category": "Computación",
@@ -80241,8 +79985,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/85268/"
       ],
-      "stockQuantity": 1,
-      "stockText": "1 disponibles",
+      "stockQuantity": 2,
+      "stockText": "2 disponibles",
       "image": "img/catalogo/acc0d6b69807e87b513d.jpg",
       "sourceCategory": "",
       "category": "Energía",
@@ -80251,51 +79995,6 @@
       "description": "<p>🔌 <strong>Modelo:</strong> BX1500M-LM60<br>⚡ <strong>Potencia:</strong> 1.5 kVA (1500 VA)<br>🔋 <strong>Capacidad de salida:</strong> 900 W<br>🔌 <strong>Voltaje de entrada:</strong> 88–139 V<br>🔌 <strong>Voltaje de salida:</strong> 120V<br>⏱️ <strong>Extended Runtime:</strong> Sí<br>📺 <strong>Pantalla:</strong> LCD</p>",
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/647ef3fe-fa54-4211-9620-638623691aa0.png",
       "model": "BX1500M-LM60",
-      "specificationsUpdated": "2026-11-06T17:04:31+00:00"
-    },
-    {
-      "id": "800000105832",
-      "reference": "105832",
-      "name": "Switch Tp-Link Tl-Sg105Pe 5 Puertos Gigabit 4 Puertos Poe+",
-      "spec": "Switch de escritorio no administrable TP-Link TL-SG105PE de 5 puertos Gigabit 10/100/1000 Mbps con 4 puertos PoE+.",
-      "price": 2900.0,
-      "stock": true,
-      "specifications": [
-        {
-          "label": "Marca",
-          "value": "TP-Link"
-        },
-        {
-          "label": "Modelo",
-          "value": "TL-SG105PE"
-        },
-        {
-          "label": "Tipo",
-          "value": "No administrable / Desktop"
-        },
-        {
-          "label": "Puertos de red",
-          "value": "5 puertos Gigabit 10/100/1000 Mbps"
-        },
-        {
-          "label": "Puertos PoE",
-          "value": "4 puertos PoE+"
-        }
-      ],
-      "features": [],
-      "specificationSources": [
-        "https://nexcomtienda.com.do/item/105832/"
-      ],
-      "stockQuantity": 2,
-      "stockText": "2 disponibles",
-      "image": "img/catalogo/01103a5226d47fff7442.png",
-      "sourceCategory": "",
-      "category": "Redes",
-      "brand": "TP-Link",
-      "subcategory": "Switches",
-      "description": "<p>🏷️ <strong>Marca:</strong> TP-Link</p>\n<p>🔢 <strong>Modelo:</strong> TL-SG105PE</p>\n<p>⚙️ <strong>Tipo:</strong> No administrable / Desktop</p>\n<p>🌐 <strong>Puertos de red:</strong> 5 puertos Gigabit 10/100/1000 Mbps</p>\n<p>⚡ <strong>Puertos PoE:</strong> 4 puertos PoE+</p>",
-      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/08/129b6598-0759-4465-b46e-6690468cc289.png",
-      "model": "TL-SG105PE",
       "specificationsUpdated": "2026-11-06T17:04:31+00:00"
     },
     {
@@ -80731,8 +80430,8 @@
       "specificationSources": [
         "https://nexcomtienda.com.do/item/108741/"
       ],
-      "stockQuantity": 8,
-      "stockText": "8 disponibles",
+      "stockQuantity": 15,
+      "stockText": "15 disponibles",
       "image": "img/catalogo/305008ef6a845940cec7.jpg",
       "sourceCategory": "",
       "category": "Accesorios de oficina",
@@ -80971,7 +80670,463 @@
       "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/11/da6f5e4d-e7f6-4f52-9f07-20e6281b887a.png",
       "model": "Nomadia (KNB-775)",
       "specificationsUpdated": "2026-11-08T16:29:11+00:00"
+    },
+    {
+      "id": "80000086005",
+      "reference": "86005",
+      "name": "Botella Tinta Epson T544 Negro para L1250/L1110/L3110/L3150/L5190",
+      "spec": "Botella de tinta Epson T544 negro para impresoras L1250, L1110, L3110, L3150, L5190, L3210, L3250 y L5290, con sistema EcoFit y alto rendimiento.",
+      "price": 800.0,
+      "stock": true,
+      "specifications": [],
+      "features": [
+        "Tipo de producto y uso:",
+        "Botella de tinta original Epson T544",
+        "Ideal para impresiones en negro de alta nitidez",
+        "Uso doméstico o de oficina con impresoras EcoTank",
+        "Compatibilidad de modelos:",
+        "Compatible con:",
+        "Epson L1250 / L1110 / L3110 / L3150",
+        "Epson L5190 / L3210 / L3250 / L5290",
+        "Rendimiento y calidad:",
+        "Tinta negra de secado rápido y gran definición",
+        "Fórmula diseñada para impresiones sin manchas ni borrones",
+        "Alto rendimiento con excelente economía por página",
+        "Seguridad y originalidad:",
+        "Botella con sistema EcoFit para evitar errores de recarga",
+        "Producto 100% original Epson para mejor desempeño"
+      ],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/86005/"
+      ],
+      "stockQuantity": 6,
+      "stockText": "6 disponibles",
+      "image": "img/catalogo/617d69068f2fcee4dae4.jpg",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "Epson",
+      "subcategory": "Tintas",
+      "description": "<p><strong>🖨️ Tipo de producto y uso:</strong><br>🖋️ Botella de tinta original Epson T544<br>📄 Ideal para impresiones en negro de alta nitidez<br>🏠 Uso doméstico o de oficina con impresoras EcoTank</p>\n<p><strong>🎯 Compatibilidad de modelos:</strong><br>🔄 Compatible con:<br>✔️ Epson L1250 / L1110 / L3110 / L3150<br>✔️ Epson L5190 / L3210 / L3250 / L5290</p>\n<p><strong>💧 Rendimiento y calidad:</strong><br>🖤 Tinta negra de secado rápido y gran definición<br>🧪 Fórmula diseñada para impresiones sin manchas ni borrones<br>📈 Alto rendimiento con excelente economía por página</p>\n<p><strong>🔒 Seguridad y originalidad:</strong><br>🔐 Botella con sistema EcoFit para evitar errores de recarga<br>🎯 Producto 100% original Epson para mejor desempeño</p>",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/59d8c0c1-df44-4d2f-be3a-70ace517b9b6.png"
+    },
+    {
+      "id": "80000091350",
+      "reference": "91350",
+      "name": "Toner Hp 136A W1360A Negro 1150 Paginas Laserjet M211D M236Dw",
+      "spec": "Toner negro para impresoras laserjet con rendimiento de 1150 paginas",
+      "price": 4600.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Tipo",
+          "value": "Toner"
+        },
+        {
+          "label": "Color",
+          "value": "Negro"
+        },
+        {
+          "label": "Rendimiento",
+          "value": "1,150 páginas"
+        },
+        {
+          "label": "Compatibilidad",
+          "value": "Impresoras LaserJet M211d, M211dw, M236d, M236dw, M236sdn, M236sdw"
+        },
+        {
+          "label": "Modelo",
+          "value": "136A / W1360A"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/91350/"
+      ],
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
+      "image": "img/catalogo/ad8f124cf04c72c80cd5.png",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "HP",
+      "subcategory": "Tóner",
+      "description": "<p>🖨️ <strong>Tipo:</strong> Toner</p>\n<p>⚫ <strong>Color:</strong> Negro</p>\n<p>📄 <strong>Rendimiento:</strong> 1,150 páginas</p>\n<p>🖥️ <strong>Compatibilidad:</strong> Impresoras LaserJet M211d, M211dw, M236d, M236dw, M236sdn, M236sdw</p>\n<p>🔧 <strong>Modelo:</strong> 136A / W1360A</p>",
+      "model": "136A / W1360A",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/48e92f13-d25c-4a43-b221-ce6a672e978e-1.png"
+    },
+    {
+      "id": "80000091671",
+      "reference": "91671",
+      "name": "Toner Hp 212A W2120A Negro 5500 Paginas Laserjet Color M554Dn",
+      "spec": "Toner negro 212a para impresoras laserjet color con rendimiento de 5500 paginas",
+      "price": 16200.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Modelo",
+          "value": "212A W2120A"
+        },
+        {
+          "label": "Color",
+          "value": "Negro"
+        },
+        {
+          "label": "Rendimiento",
+          "value": "5500 paginas"
+        },
+        {
+          "label": "Compatibilidad",
+          "value": "Laserjet Color M554dn, M555dn, M578dn"
+        },
+        {
+          "label": "Tipo",
+          "value": "Toner"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/91671/"
+      ],
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
+      "image": "img/catalogo/fdda3cadf5a702093530.png",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "HP",
+      "subcategory": "Tóner",
+      "description": "<p>🖨️ <strong>Modelo:</strong> 212A W2120A</p>\n<p>🎨 <strong>Color:</strong> Negro</p>\n<p>📄 <strong>Rendimiento:</strong> 5500 paginas</p>\n<p>🖥️ <strong>Compatibilidad:</strong> Laserjet Color M554dn, M555dn, M578dn</p>\n<p>🔧 <strong>Tipo:</strong> Toner</p>",
+      "model": "212A W2120A",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/8cc006bc-997d-485d-9248-7c146ac80105-1.png"
+    },
+    {
+      "id": "80000092112",
+      "reference": "92112",
+      "name": "Laptop Lenovo Ideapad 1 14» Pentium N5030 4Gb 128Gb SSD",
+      "spec": "Laptop portátil Lenovo IdeaPad 1 de 14.1 pulgadas equipada con procesador Intel Pentium Silver N5030, 4GB de memoria RAM DDR4 y almacenamiento de 128GB SSD.",
+      "price": 18900.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Pantalla",
+          "value": "14.1″"
+        },
+        {
+          "label": "Resolución",
+          "value": "1366×768"
+        },
+        {
+          "label": "Procesador",
+          "value": "Intel® Pentium® Silver N5030 1.1 GHz"
+        },
+        {
+          "label": "Velocidad Turbo",
+          "value": "3.10 Ghz"
+        },
+        {
+          "label": "Gráfica",
+          "value": "Intel UHD Graphics"
+        },
+        {
+          "label": "Disco",
+          "value": "128GB SSD"
+        },
+        {
+          "label": "Memoria",
+          "value": "4GB DDR4"
+        },
+        {
+          "label": "Sistema",
+          "value": "Windows 10 Home 64-bit"
+        },
+        {
+          "label": "Wireless",
+          "value": "801.11ac"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/92112/"
+      ],
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
+      "image": "img/catalogo/57936fadecddbb853638.png",
+      "sourceCategory": "",
+      "category": "Computación",
+      "brand": "Lenovo",
+      "subcategory": "Laptops",
+      "description": "<p>💻 <strong>Pantalla:</strong> 14.1″</p>\n<p>🎯 <strong>Resolución:</strong> 1366×768</p>\n<p>🧠 <strong>Procesador:</strong> Intel® Pentium® Silver N5030 1.1 GHz</p>\n<p>⚡ <strong>Velocidad Turbo:</strong> 3.10 Ghz</p>\n<p>🎮 <strong>Gráfica:</strong> Intel UHD Graphics</p>\n<p>💾 <strong>Disco:</strong> 128GB SSD</p>\n<p>⚙️ <strong>Memoria:</strong> 4GB DDR4</p>\n<p>💿 <strong>Sistema:</strong> Windows 10 Home 64-bit</p>\n<p>📶 <strong>Wireless:</strong> 801.11ac</p>",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/b65f1fd5-01ff-4c23-a0fe-1eb86285d123-1.png"
+    },
+    {
+      "id": "80000093579",
+      "reference": "93579",
+      "name": "Impresora Multifuncional Láser Hp Laserjet Pro 3103Fdw WiFi Dúplex Adf Fax",
+      "spec": "La HP LaserJet Pro 3103fdw ofrece impresión dúplex, copiado, escaneo y fax con tecnología láser monocromática, WiFi, ADF y gran velocidad para oficinas exigentes.",
+      "price": 25700.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Tipo",
+          "value": "Multifuncional 4 en 1: imprime, copia, escanea y envía fax"
+        },
+        {
+          "label": "Tecnología de impresión",
+          "value": "Láser monocromática"
+        },
+        {
+          "label": "Velocidad de impresión",
+          "value": "Hasta 35 ppm"
+        },
+        {
+          "label": "Impresión dúplex",
+          "value": "Automática a doble cara"
+        },
+        {
+          "label": "Resolución de impresión",
+          "value": "600 × 600 dpi"
+        },
+        {
+          "label": "Alimentador automático (ADF)",
+          "value": "Sí"
+        },
+        {
+          "label": "Conectividad",
+          "value": "WiFi 802.11b/ac, Ethernet 10/100Base-TX, USB alta velocidad"
+        },
+        {
+          "label": "Bandeja de entrada",
+          "value": "Hasta 250 hojas"
+        },
+        {
+          "label": "Formatos compatibles",
+          "value": "Letter y Legal"
+        },
+        {
+          "label": "Consumibles compatibles",
+          "value": "Tóner HP 145A y HP 145X (W1450A/X)"
+        },
+        {
+          "label": "Mantenimiento",
+          "value": "Fácil reemplazo de consumibles"
+        },
+        {
+          "label": "Código de producto",
+          "value": "3G632A"
+        },
+        {
+          "label": "Modelo sustituido",
+          "value": "HP LaserJet Pro M227fdw"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/93579/"
+      ],
+      "stockQuantity": 3,
+      "stockText": "3 disponibles",
+      "image": "img/catalogo/eac46a541ae80d4ea0a8.jpg",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "HP",
+      "subcategory": "Impresoras",
+      "description": "<p>🖨️ <strong>Tipo:</strong> Multifuncional 4 en 1: imprime, copia, escanea y envía fax</p>\n<p>⚡ <strong>Tecnología de impresión:</strong> Láser monocromática</p>\n<p>⏱️ <strong>Velocidad de impresión:</strong> Hasta 35 ppm</p>\n<p>📑 <strong>Impresión dúplex:</strong> Automática a doble cara</p>\n<p>📷 <strong>Resolución de impresión:</strong> 600 × 600 dpi</p>\n<p>📠 <strong>Alimentador automático (ADF):</strong> Sí</p>\n<p>📡 <strong>Conectividad:</strong> WiFi 802.11b/ac, Ethernet 10/100Base-TX, USB alta velocidad</p>\n<p>📂 <strong>Bandeja de entrada:</strong> Hasta 250 hojas</p>\n<p>📐 <strong>Formatos compatibles:</strong> Letter y Legal</p>\n<p>🧩 <strong>Consumibles compatibles:</strong> Tóner HP 145A y HP 145X (W1450A/X)</p>\n<p>⚙️ <strong>Mantenimiento:</strong> Fácil reemplazo de consumibles</p>\n<p>🛡️ <strong>Código de producto:</strong> 3G632A</p>\n<p>🔄 <strong>Modelo sustituido:</strong> HP LaserJet Pro M227fdw</p>",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/0d0d2097-eeb3-4d96-8938-c6379b0b42c1.png"
+    },
+    {
+      "id": "80000095017",
+      "reference": "95017",
+      "name": "Toner Hp 230A W2302A Yellow 1800 Paginas Laserjet 4201 4202 4203 4301 4302 4303",
+      "spec": "Toner amarillo para impresoras laserjet con capacidad de 1800 paginas",
+      "price": 9600.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Modelo",
+          "value": "230A W2302A"
+        },
+        {
+          "label": "Color",
+          "value": "Amarillo"
+        },
+        {
+          "label": "Capacidad",
+          "value": "1800 páginas"
+        },
+        {
+          "label": "Compatibilidad",
+          "value": "Impresoras LaserJet 4201, 4202, 4203, 4301, 4302, 4303"
+        },
+        {
+          "label": "Tipo",
+          "value": "Toner para impresora láser"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/95017/"
+      ],
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
+      "image": "img/catalogo/f5d189ebbbb3ac280f7b.jpg",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "HP",
+      "subcategory": "Tóner",
+      "description": "<p>🖨️ <strong>Modelo:</strong> 230A W2302A</p>\n<p>🎨 <strong>Color:</strong> Amarillo</p>\n<p>📄 <strong>Capacidad:</strong> 1800 páginas</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras LaserJet 4201, 4202, 4203, 4301, 4302, 4303</p>\n<p>🔧 <strong>Tipo:</strong> Toner para impresora láser</p>",
+      "model": "230A W2302A",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/97b12e52-b9a3-493b-95cc-5c4184cb762f.png"
+    },
+    {
+      "id": "80000095018",
+      "reference": "95018",
+      "name": "Toner Hp 230A W2303A Magenta 1800 Paginas Laserjet",
+      "spec": "Toner Magenta Hp 230a W2303a Para Impresoras Laserjet",
+      "price": 9600.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Modelo",
+          "value": "230A W2303A"
+        },
+        {
+          "label": "Color",
+          "value": "Magenta"
+        },
+        {
+          "label": "Capacidad",
+          "value": "1800 páginas"
+        },
+        {
+          "label": "Compatibilidad",
+          "value": "Impresoras LaserJet 4201, 4202, 4203, 4301, 4302, 4303"
+        },
+        {
+          "label": "Tipo",
+          "value": "Toner para impresora láser"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/95018/"
+      ],
+      "stockQuantity": 4,
+      "stockText": "4 disponibles",
+      "image": "img/catalogo/8836d5310118cf372153.jpg",
+      "sourceCategory": "",
+      "category": "Impresión",
+      "brand": "HP",
+      "subcategory": "Tóner",
+      "description": "<p>🖨️ <strong>Modelo:</strong> 230A W2303A</p>\n<p>🎨 <strong>Color:</strong> Magenta</p>\n<p>📄 <strong>Capacidad:</strong> 1800 páginas</p>\n<p>🖨️ <strong>Compatibilidad:</strong> Impresoras LaserJet 4201, 4202, 4203, 4301, 4302, 4303</p>\n<p>🔧 <strong>Tipo:</strong> Toner para impresora láser</p>",
+      "model": "230A W2303A",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/07/bf6d7566-e9be-4a31-9659-72ad8802cc53.png"
+    },
+    {
+      "id": "800000104757",
+      "reference": "104757",
+      "name": "Camara De Vigilancia Hikvision Colorvu Smart Hybrid Ip Domo 2Mp Ip67 Con Microfono",
+      "spec": "Camara Ip Domo 2mp Colorvu Smart Hybrid Con Microfono Y Proteccion Ip67",
+      "price": 3700.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Resolucion",
+          "value": "1920 x 1080 (2MP)"
+        },
+        {
+          "label": "Tipo",
+          "value": "Ip"
+        },
+        {
+          "label": "Modelo",
+          "value": "Domo"
+        },
+        {
+          "label": "Proteccion",
+          "value": "Ip67"
+        },
+        {
+          "label": "Audio",
+          "value": "Con Microfono"
+        },
+        {
+          "label": "Tecnologia",
+          "value": "Colorvu Smart Hybrid"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/104757/"
+      ],
+      "stockQuantity": 2,
+      "stockText": "2 disponibles",
+      "image": "img/catalogo/c3f899c5aa99dbb120d5.jpg",
+      "sourceCategory": "",
+      "category": "Seguridad",
+      "brand": "Hikvision",
+      "subcategory": "Cámaras",
+      "description": "<p>📷 <strong>Resolucion:</strong> 1920 x 1080 (2MP)</p>\n<p>🌐 <strong>Tipo:</strong> Ip</p>\n<p>🔒 <strong>Modelo:</strong> Domo</p>\n<p>💧 <strong>Proteccion:</strong> Ip67</p>\n<p>🎤 <strong>Audio:</strong> Con Microfono</p>\n<p>🌙 <strong>Tecnologia:</strong> Colorvu Smart Hybrid</p>",
+      "model": "Domo",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2026/05/1126e674-ce9c-4283-a709-f9c3bce82bd0.png"
+    },
+    {
+      "id": "800000104879",
+      "reference": "104879",
+      "name": "UPS APC Back-UPS Pro BR1500RM2U 1500VA 900W Onda Sinusoidal",
+      "spec": "El UPS APC Back-UPS Pro ofrece 1500VA y onda sinusoidal para una protección eléctrica estable y segura en entornos críticos. Ideal para equipos sensibles y configuraciones profesionales. ¡Optimiza tu energía hoy mismo!",
+      "price": 25200.0,
+      "stock": true,
+      "specifications": [
+        {
+          "label": "Capacidad",
+          "value": "1.5KVA (1500VA)"
+        },
+        {
+          "label": "Potencia",
+          "value": "900 Watts"
+        },
+        {
+          "label": "Voltaje de Entrada",
+          "value": "120V"
+        },
+        {
+          "label": "Voltaje de Salida",
+          "value": "120V"
+        },
+        {
+          "label": "Formato",
+          "value": "Tower / Rack Convertible"
+        },
+        {
+          "label": "Tipo de Onda",
+          "value": "Onda sinusoidal"
+        },
+        {
+          "label": "Número de Salidas",
+          "value": "8"
+        }
+      ],
+      "features": [],
+      "specificationSources": [
+        "https://nexcomtienda.com.do/item/104879/"
+      ],
+      "stockQuantity": 1,
+      "stockText": "1 disponibles",
+      "image": "img/catalogo/c8180438998e72a69c69.webp",
+      "sourceCategory": "",
+      "category": "Energía",
+      "brand": "APC",
+      "subcategory": "UPS",
+      "description": "<p>🔌 <strong>Capacidad:</strong> 1.5KVA (1500VA)<br>⚡ <strong>Potencia:</strong> 900 Watts<br>🔋 <strong>Voltaje de Entrada:</strong> 120V<br>🔌 <strong>Voltaje de Salida:</strong> 120V<br>🖥️ <strong>Formato:</strong> Tower / Rack Convertible<br>〰️ <strong>Tipo de Onda:</strong> Onda sinusoidal<br>🔧 <strong>Número de Salidas:</strong> 8</p>",
+      "specificationsUpdated": "2026-11-10T17:24:49+00:00",
+      "sourceImage": "https://nexcomtienda.com.do/wp-content/uploads/2025/12/ups-apc-back-ups-pro-1500va-900w.webp"
     }
   ],
-  "updated": "2026-11-09T20:20:22+00:00"
+  "updated": "2026-11-10T17:24:49+00:00"
 }
